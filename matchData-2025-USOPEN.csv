@@ -1,0 +1,2164 @@
+YEAR,DATE,EVENT_LEVEL,EVENT_TYPE,DRAW_SIZE,ROUND,BESTOF,SURFACE,WINNER_NAME,LOSER_NAME
+2025,2024-12-29,A,250,32,R32,3,Hard,Novak Djokovic,Rinky Hijikata
+2025,2024-12-29,A,250,32,R32,3,Hard,Frances Tiafoe,Adam Walton
+2025,2024-12-29,A,250,32,R32,3,Hard,Giovanni Mpetshi Perricard,Nick Kyrgios
+2025,2024-12-29,A,250,32,R32,3,Hard,Gael Monfils,Nishesh Basavareddy
+2025,2024-12-29,A,250,32,F,3,Hard,Jiri Lehecka,Reilly Opelka
+2025,2024-12-29,A,250,32,R32,3,Hard,Aleksandar Vukic,David Goffin
+2025,2024-12-29,A,250,32,R32,3,Hard,Yoshihito Nishioka,Arthur Rinderknech
+2025,2024-12-29,A,250,32,QF,3,Hard,Jiri Lehecka,Nicolas Jarry
+2025,2024-12-29,A,250,32,R16,3,Hard,Giovanni Mpetshi Perricard,Frances Tiafoe
+2025,2024-12-29,A,250,32,R16,3,Hard,Jakub Mensik,Dusan Lajovic
+2025,2024-12-29,A,250,32,QF,3,Hard,Grigor Dimitrov,Jordan Thompson
+2025,2024-12-29,A,250,32,R32,3,Hard,Jiri Lehecka,Holger Rune
+2025,2024-12-29,A,250,32,R32,3,Hard,Grigor Dimitrov,Yannick Hanfmann
+2025,2024-12-29,A,250,32,R32,3,Hard,Benjamin Bonzi,Alejandro Tabilo
+2025,2024-12-29,A,250,32,R16,3,Hard,Novak Djokovic,Gael Monfils
+2025,2024-12-29,A,250,32,R32,3,Hard,Jordan Thompson,Matteo Berrettini
+2025,2024-12-29,A,250,32,R16,3,Hard,Nicolas Jarry,Benjamin Bonzi
+2025,2024-12-29,A,250,32,QF,3,Hard,Reilly Opelka,Novak Djokovic
+2025,2024-12-29,A,250,32,QF,3,Hard,Giovanni Mpetshi Perricard,Jakub Mensik
+2025,2024-12-29,A,250,32,R16,3,Hard,Jiri Lehecka,Yoshihito Nishioka
+2025,2024-12-29,A,250,32,R32,3,Hard,Alex Michelsen,Christopher O'Connell
+2025,2024-12-29,A,250,32,R16,3,Hard,Reilly Opelka,Matteo Arnaldi
+2025,2024-12-29,A,250,32,R32,3,Hard,Nicolas Jarry,Mariano Navone
+2025,2024-12-29,A,250,32,R16,3,Hard,Jordan Thompson,Alex Michelsen
+2025,2024-12-29,A,250,32,SF,3,Hard,Reilly Opelka,Giovanni Mpetshi Perricard
+2025,2024-12-29,A,250,32,R32,3,Hard,Jakub Mensik,Mikhail Kukushkin
+2025,2024-12-29,A,250,32,R32,3,Hard,Reilly Opelka,Federico Agustin Gomez
+2025,2024-12-29,A,250,32,R32,3,Hard,Matteo Arnaldi,Alexei Popyrin
+2025,2024-12-29,A,250,32,R32,3,Hard,Dusan Lajovic,Arthur Cazaux
+2025,2024-12-29,A,250,32,SF,3,Hard,Jiri Lehecka,Grigor Dimitrov
+2025,2024-12-29,A,250,32,R16,3,Hard,Grigor Dimitrov,Aleksandar Vukic
+2025,2024-12-30,A,250,28,R16,3,Hard,Kei Nishikori,Karen Khachanov
+2025,2024-12-30,A,250,28,QF,3,Hard,Alexandre Muller,Arthur Fils
+2025,2024-12-30,A,250,28,R32,3,Hard,Zizou Bergs,Alejandro Moro Canas
+2025,2024-12-30,A,250,28,R32,3,Hard,Gabriel Diallo,Roberto Carballes Baena
+2025,2024-12-30,A,250,28,QF,3,Hard,Jaume Munar,Lorenzo Musetti
+2025,2024-12-30,A,250,28,R16,3,Hard,Cameron Norrie,Lorenzo Sonego
+2025,2024-12-30,A,250,28,F,3,Hard,Alexandre Muller,Kei Nishikori
+2025,2024-12-30,A,250,28,R32,3,Hard,Fabian Marozsan,Roman Safiullin
+2025,2024-12-30,A,250,28,R32,3,Hard,Kei Nishikori,Denis Shapovalov
+2025,2024-12-30,A,250,28,R32,3,Hard,Juncheng Shang,Coleman Wong
+2025,2024-12-30,A,250,28,R32,3,Hard,Cameron Norrie,Learner Tien
+2025,2024-12-30,A,250,28,SF,3,Hard,Kei Nishikori,Juncheng Shang
+2025,2024-12-30,A,250,28,R16,3,Hard,Jaume Munar,Nuno Borges
+2025,2024-12-30,A,250,28,R16,3,Hard,Lorenzo Musetti,Gabriel Diallo
+2025,2024-12-30,A,250,28,SF,3,Hard,Alexandre Muller,Jaume Munar
+2025,2024-12-30,A,250,28,R32,3,Hard,Lorenzo Sonego,Brandon Nakashima
+2025,2024-12-30,A,250,28,R32,3,Hard,Pedro Martinez,Francesco Passaro
+2025,2024-12-30,A,250,28,QF,3,Hard,Juncheng Shang,Fabian Marozsan
+2025,2024-12-30,A,250,28,R16,3,Hard,Alexandre Muller,Miomir Kecmanovic
+2025,2024-12-30,A,250,28,R32,3,Hard,Nuno Borges,Yunchaokete Bu
+2025,2024-12-30,A,250,28,R16,3,Hard,Fabian Marozsan,Andrey Rublev
+2025,2024-12-30,A,250,28,R32,3,Hard,Miomir Kecmanovic,Luciano Darderi
+2025,2024-12-30,A,250,28,R32,3,Hard,Alexandre Muller,Marc-Andrea Huesler
+2025,2024-12-30,A,250,28,R16,3,Hard,Juncheng Shang,Pedro Martinez
+2025,2024-12-30,A,250,28,R32,3,Hard,Jaume Munar,Alejandro Davidovich Fokina
+2025,2024-12-30,A,250,28,R16,3,Hard,Arthur Fils,Zizou Bergs
+2025,2024-12-30,A,250,28,QF,3,Hard,Kei Nishikori,Cameron Norrie
+2025,2025-01-06,A,250,28,R32,3,Hard,Arthur Cazaux,Adam Walton
+2025,2025-01-06,A,250,28,R16,3,Hard,Roberto Carballes Baena,Francisco Cerundolo
+2025,2025-01-06,A,250,28,QF,3,Hard,Gael Monfils,Facundo Diaz Acosta
+2025,2025-01-06,A,250,28,R32,3,Hard,Facundo Diaz Acosta,Cameron Norrie
+2025,2025-01-06,A,250,28,R32,3,Hard,Nishesh Basavareddy,Francisco Comesana
+2025,2025-01-06,A,250,28,R32,3,Hard,Manuel Guinard,Roman Safiullin
+2025,2025-01-06,A,250,28,F,3,Hard,Felix Auger-Aliassime,Sebastian Korda
+2025,2025-01-06,A,250,28,QF,3,Hard,Nishesh Basavareddy,Alex Michelsen
+2025,2025-01-06,A,250,28,R16,3,Hard,Zizou Bergs,Luca Nardi
+2025,2025-01-06,A,250,28,R16,3,Hard,Marcos Giron,Denis Shapovalov
+2025,2025-01-06,A,250,28,QF,3,Hard,Sebastian Korda,Thanasi Kokkinakis
+2025,2025-01-06,A,250,28,F,3,Hard,Gael Monfils,Zizou Bergs
+2025,2025-01-06,A,250,28,R32,3,Hard,Jakub Mensik,Pablo Carreno Busta
+2025,2025-01-06,A,250,28,R32,3,Hard,Alejandro Davidovich Fokina,Roberto Bautista Agut
+2025,2025-01-06,A,250,28,R32,3,Hard,Li Tu,James Duckworth
+2025,2025-01-06,A,250,28,QF,3,Hard,Miomir Kecmanovic,Benjamin Bonzi
+2025,2025-01-06,A,250,28,R16,3,Hard,Felix Auger-Aliassime,Arthur Cazaux
+2025,2025-01-06,A,250,28,R32,3,Hard,Roberto Carballes Baena,Daniel Altmaier
+2025,2025-01-06,A,250,28,QF,3,Hard,Felix Auger-Aliassime,Marcos Giron
+2025,2025-01-06,A,250,28,R32,3,Hard,Mariano Navone,Adrian Mannarino
+2025,2025-01-06,A,250,28,R16,3,Hard,Benjamin Bonzi,Li Tu
+2025,2025-01-06,A,250,28,R32,3,Hard,Thanasi Kokkinakis,Yoshihito Nishioka
+2025,2025-01-06,A,250,28,R32,3,Hard,Zizou Bergs,Isaac Becroft
+2025,2025-01-06,A,250,28,R16,3,Hard,Rinky Hijikata,Brandon Nakashima
+2025,2025-01-06,A,250,28,SF,3,Hard,Zizou Bergs,Nuno Borges
+2025,2025-01-06,A,250,28,R16,3,Hard,Alex Michelsen,Lorenzo Sonego
+2025,2025-01-06,A,250,28,R32,3,Hard,Christopher O'Connell,Arthur Rinderknech
+2025,2025-01-06,A,250,28,R32,3,Hard,Miomir Kecmanovic,Alexander Bublik
+2025,2025-01-06,A,250,28,R16,3,Hard,Nishesh Basavareddy,Alejandro Tabilo
+2025,2025-01-06,A,250,28,R16,3,Hard,Tommy Paul,Manuel Guinard
+2025,2025-01-06,A,250,28,SF,3,Hard,Gael Monfils,Nishesh Basavareddy
+2025,2025-01-06,A,250,28,R32,3,Hard,Tomas Martin Etcheverry,Tristan Schoolkate
+2025,2025-01-06,A,250,28,R32,3,Hard,Luca Nardi,Flavio Cobolli
+2025,2025-01-06,A,250,28,R32,3,Hard,Nuno Borges,Luciano Darderi
+2025,2025-01-06,A,250,28,R16,3,Hard,Miomir Kecmanovic,Christopher O'Connell
+2025,2025-01-06,A,250,28,QF,3,Hard,Tommy Paul,Rinky Hijikata
+2025,2025-01-06,A,250,28,QF,3,Hard,Nuno Borges,Jakub Mensik
+2025,2025-01-06,A,250,28,R16,3,Hard,Gael Monfils,Jan-Lennard Struff
+2025,2025-01-06,A,250,28,R32,3,Hard,Brandon Nakashima,Yannick Hanfmann
+2025,2025-01-06,A,250,28,R32,3,Hard,Denis Shapovalov,Zhizhen Zhang
+2025,2025-01-06,A,250,28,R32,3,Hard,Alex Michelsen,Sumit Nagal
+2025,2025-01-06,A,250,28,SF,3,Hard,Sebastian Korda,Miomir Kecmanovic
+2025,2025-01-06,A,250,28,R16,3,Hard,Jakub Mensik,Ben Shelton
+2025,2025-01-06,A,250,28,R16,3,Hard,Sebastian Korda,Alejandro Davidovich Fokina
+2025,2025-01-06,A,250,28,R32,3,Hard,Jan-Lennard Struff,Yunchaokete Bu
+2025,2025-01-06,A,250,28,R32,3,Hard,Gael Monfils,Pedro Martinez
+2025,2025-01-06,A,250,28,R16,3,Hard,Thanasi Kokkinakis,Tomas Martin Etcheverry
+2025,2025-01-06,A,250,28,SF,3,Hard,Felix Auger-Aliassime,Tommy Paul
+2025,2025-01-06,A,250,28,R16,3,Hard,Nuno Borges,Mariano Navone
+2025,2025-01-06,A,250,28,R32,3,Hard,Marcos Giron,Aleksandar Vukic
+2025,2025-01-06,A,250,28,R32,3,Hard,Lorenzo Sonego,Gabriel Diallo
+2025,2025-01-06,A,250,28,R16,3,Hard,Facundo Diaz Acosta,Sebastian Baez
+2025,2025-01-06,A,250,28,R32,3,Hard,Rinky Hijikata,David Goffin
+2025,2025-01-06,A,250,28,QF,3,Hard,Zizou Bergs,Roberto Carballes Baena
+2025,2025-01-12,G,GS,128,R128,5,Hard,Tommy Paul,Christopher O'Connell
+2025,2025-01-12,G,GS,128,R32,5,Hard,Carlos Alcaraz,Nuno Borges
+2025,2025-01-12,G,GS,128,R128,5,Hard,Matteo Berrettini,Cameron Norrie
+2025,2025-01-12,G,GS,128,R128,5,Hard,Arthur Fils,Otto Virtanen
+2025,2025-01-12,G,GS,128,R128,5,Hard,Lorenzo Sonego,Stan Wawrinka
+2025,2025-01-12,G,GS,128,R128,5,Hard,Marcos Giron,Yannick Hanfmann
+2025,2025-01-12,G,GS,128,R32,5,Hard,Alexander Zverev,Jacob Fearnley
+2025,2025-01-12,G,GS,128,R64,5,Hard,Corentin Moutet,Mitchell Krueger
+2025,2025-01-12,G,GS,128,R128,5,Hard,Francesco Passaro,Grigor Dimitrov
+2025,2025-01-12,G,GS,128,R16,5,Hard,Lorenzo Sonego,Learner Tien
+2025,2025-01-12,G,GS,128,QF,5,Hard,Alexander Zverev,Tommy Paul
+2025,2025-01-12,G,GS,128,R64,5,Hard,Jiri Lehecka,Hugo Gaston
+2025,2025-01-12,G,GS,128,R128,5,Hard,Felix Auger-Aliassime,Jan-Lennard Struff
+2025,2025-01-12,G,GS,128,R128,5,Hard,Mitchell Krueger,Rinky Hijikata
+2025,2025-01-12,G,GS,128,R128,5,Hard,Pablo Carreno Busta,Kamil Majchrzak
+2025,2025-01-12,G,GS,128,R128,5,Hard,Ben Shelton,Brandon Nakashima
+2025,2025-01-12,G,GS,128,R128,5,Hard,Corentin Moutet,Alexei Popyrin
+2025,2025-01-12,G,GS,128,R64,5,Hard,Benjamin Bonzi,Francesco Passaro
+2025,2025-01-12,G,GS,128,R128,5,Hard,Alejandro Davidovich Fokina,Juncheng Shang
+2025,2025-01-12,G,GS,128,QF,5,Hard,Novak Djokovic,Carlos Alcaraz
+2025,2025-01-12,G,GS,128,R16,5,Hard,Ben Shelton,Gael Monfils
+2025,2025-01-12,G,GS,128,R64,5,Hard,Learner Tien,Daniil Medvedev
+2025,2025-01-12,G,GS,128,R128,5,Hard,Benjamin Bonzi,David Goffin
+2025,2025-01-12,G,GS,128,R32,5,Hard,Ugo Humbert,Arthur Fils
+2025,2025-01-12,G,GS,128,R128,5,Hard,Quentin Halys,Adam Walton
+2025,2025-01-12,G,GS,128,R128,5,Hard,Joao Fonseca,Andrey Rublev
+2025,2025-01-12,G,GS,128,R128,5,Hard,Tomas Martin Etcheverry,Flavio Cobolli
+2025,2025-01-12,G,GS,128,R128,5,Hard,Holger Rune,Zhizhen Zhang
+2025,2025-01-12,G,GS,128,R32,5,Hard,Jack Draper,Aleksandar Vukic
+2025,2025-01-12,G,GS,128,R128,5,Hard,Kei Nishikori,Thiago Monteiro
+2025,2025-01-12,G,GS,128,R64,5,Hard,Taylor Fritz,Cristian Garin
+2025,2025-01-12,G,GS,128,R128,5,Hard,Thanasi Kokkinakis,Roman Safiullin
+2025,2025-01-12,G,GS,128,R32,5,Hard,Holger Rune,Miomir Kecmanovic
+2025,2025-01-12,G,GS,128,F,5,Hard,Jannik Sinner,Alexander Zverev
+2025,2025-01-12,G,GS,128,R64,5,Hard,Jakub Mensik,Casper Ruud
+2025,2025-01-12,G,GS,128,R128,5,Hard,Jakub Mensik,Nikoloz Basilashvili
+2025,2025-01-12,G,GS,128,R128,5,Hard,Daniil Medvedev,Kasidit Samrej
+2025,2025-01-12,G,GS,128,R128,5,Hard,Gael Monfils,Giovanni Mpetshi Perricard
+2025,2025-01-12,G,GS,128,R128,5,Hard,Nuno Borges,Alexandre Muller
+2025,2025-01-12,G,GS,128,R32,5,Hard,Ben Shelton,Lorenzo Musetti
+2025,2025-01-12,G,GS,128,R128,5,Hard,Tomas Machac,Sumit Nagal
+2025,2025-01-12,G,GS,128,R128,5,Hard,Francisco Cerundolo,Alexander Bublik
+2025,2025-01-12,G,GS,128,R128,5,Hard,Jacob Fearnley,Nick Kyrgios
+2025,2025-01-12,G,GS,128,R64,5,Hard,Ugo Humbert,Hady Habib
+2025,2025-01-12,G,GS,128,R64,5,Hard,Karen Khachanov,Gabriel Diallo
+2025,2025-01-12,G,GS,128,R64,5,Hard,Alex Michelsen,James McCabe
+2025,2025-01-12,G,GS,128,R128,5,Hard,Arthur Cazaux,Sebastian Baez
+2025,2025-01-12,G,GS,128,R64,5,Hard,Arthur Fils,Quentin Halys
+2025,2025-01-12,G,GS,128,R128,5,Hard,Reilly Opelka,Gauthier Onclin
+2025,2025-01-12,G,GS,128,R128,5,Hard,Facundo Diaz Acosta,Zizou Bergs
+2025,2025-01-12,G,GS,128,R32,5,Hard,Gael Monfils,Taylor Fritz
+2025,2025-01-12,G,GS,128,R128,5,Hard,Jordan Thompson,Dominik Koepfer
+2025,2025-01-12,G,GS,128,R128,5,Hard,Daniel Altmaier,Francisco Comesana
+2025,2025-01-12,G,GS,128,R128,5,Hard,Learner Tien,Camilo Ugo Carabelli
+2025,2025-01-12,G,GS,128,R64,5,Hard,Alejandro Davidovich Fokina,Felix Auger-Aliassime
+2025,2025-01-12,G,GS,128,R128,5,Hard,Casper Ruud,Jaume Munar
+2025,2025-01-12,G,GS,128,R32,5,Hard,Jannik Sinner,Marcos Giron
+2025,2025-01-12,G,GS,128,R64,5,Hard,Gael Monfils,Daniel Altmaier
+2025,2025-01-12,G,GS,128,R128,5,Hard,Jack Draper,Mariano Navone
+2025,2025-01-12,G,GS,128,R64,5,Hard,Alex de Minaur,Tristan Boyer
+2025,2025-01-12,G,GS,128,R128,5,Hard,Cristian Garin,Borna Coric
+2025,2025-01-12,G,GS,128,R128,5,Hard,Tristan Boyer,Federico Coria
+2025,2025-01-12,G,GS,128,R128,5,Hard,Jaime Faria,Pavel Kotov
+2025,2025-01-12,G,GS,128,R128,5,Hard,Carlos Alcaraz,Alexander Shevchenko
+2025,2025-01-12,G,GS,128,R64,5,Hard,Nuno Borges,Jordan Thompson
+2025,2025-01-12,G,GS,128,SF,5,Hard,Alexander Zverev,Novak Djokovic
+2025,2025-01-12,G,GS,128,R16,5,Hard,Alexander Zverev,Ugo Humbert
+2025,2025-01-12,G,GS,128,R128,5,Hard,Sebastian Korda,Lukas Klein
+2025,2025-01-12,G,GS,128,R64,5,Hard,Ben Shelton,Pablo Carreno Busta
+2025,2025-01-12,G,GS,128,R64,5,Hard,Holger Rune,Matteo Berrettini
+2025,2025-01-12,G,GS,128,R64,5,Hard,Jacob Fearnley,Arthur Cazaux
+2025,2025-01-12,G,GS,128,R128,5,Hard,Alexander Zverev,Lucas Pouille
+2025,2025-01-12,G,GS,128,R128,5,Hard,Gabriel Diallo,Luca Nardi
+2025,2025-01-12,G,GS,128,R32,5,Hard,Learner Tien,Corentin Moutet
+2025,2025-01-12,G,GS,128,R64,5,Hard,Roberto Carballes Baena,James Duckworth
+2025,2025-01-12,G,GS,128,R32,5,Hard,Alex de Minaur,Francisco Cerundolo
+2025,2025-01-12,G,GS,128,R32,5,Hard,Alex Michelsen,Karen Khachanov
+2025,2025-01-12,G,GS,128,R64,5,Hard,Tommy Paul,Kei Nishikori
+2025,2025-01-12,G,GS,128,R32,5,Hard,Lorenzo Sonego,Fabian Marozsan
+2025,2025-01-12,G,GS,128,R128,5,Hard,Karen Khachanov,Adrian Mannarino
+2025,2025-01-12,G,GS,128,R64,5,Hard,Alexander Zverev,Pedro Martinez
+2025,2025-01-12,G,GS,128,R128,5,Hard,Pedro Martinez,Luciano Darderi
+2025,2025-01-12,G,GS,128,R64,5,Hard,Miomir Kecmanovic,Hubert Hurkacz
+2025,2025-01-12,G,GS,128,R128,5,Hard,Aleksandar Vukic,Damir Dzumhur
+2025,2025-01-12,G,GS,128,R64,5,Hard,Lorenzo Musetti,Denis Shapovalov
+2025,2025-01-12,G,GS,128,R16,5,Hard,Tommy Paul,Alejandro Davidovich Fokina
+2025,2025-01-12,G,GS,128,SF,5,Hard,Jannik Sinner,Ben Shelton
+2025,2025-01-12,G,GS,128,R128,5,Hard,Yoshihito Nishioka,Aziz Dougaz
+2025,2025-01-12,G,GS,128,R64,5,Hard,Carlos Alcaraz,Yoshihito Nishioka
+2025,2025-01-12,G,GS,128,R128,5,Hard,Alex de Minaur,Botic van de Zandschulp
+2025,2025-01-12,G,GS,128,R128,5,Hard,Novak Djokovic,Nishesh Basavareddy
+2025,2025-01-12,G,GS,128,R128,5,Hard,Taylor Fritz,Jenson Brooksby
+2025,2025-01-12,G,GS,128,R64,5,Hard,Francisco Cerundolo,Facundo Diaz Acosta
+2025,2025-01-12,G,GS,128,R64,5,Hard,Marcos Giron,Tomas Martin Etcheverry
+2025,2025-01-12,G,GS,128,R128,5,Hard,Jannik Sinner,Nicolas Jarry
+2025,2025-01-12,G,GS,128,R128,5,Hard,Hady Habib,Yunchaokete Bu
+2025,2025-01-12,G,GS,128,R128,5,Hard,Alex Michelsen,Stefanos Tsitsipas
+2025,2025-01-12,G,GS,128,R32,5,Hard,Jiri Lehecka,Benjamin Bonzi
+2025,2025-01-12,G,GS,128,R16,5,Hard,Alex de Minaur,Alex Michelsen
+2025,2025-01-12,G,GS,128,R64,5,Hard,Novak Djokovic,Jaime Faria
+2025,2025-01-12,G,GS,128,R128,5,Hard,Hubert Hurkacz,Tallon Griekspoor
+2025,2025-01-12,G,GS,128,R128,5,Hard,Lorenzo Musetti,Matteo Arnaldi
+2025,2025-01-12,G,GS,128,R128,5,Hard,Frances Tiafoe,Arthur Rinderknech
+2025,2025-01-12,G,GS,128,R32,5,Hard,Tommy Paul,Roberto Carballes Baena
+2025,2025-01-12,G,GS,128,R128,5,Hard,James Duckworth,Dominic Stricker
+2025,2025-01-12,G,GS,128,R64,5,Hard,Jack Draper,Thanasi Kokkinakis
+2025,2025-01-12,G,GS,128,QF,5,Hard,Ben Shelton,Lorenzo Sonego
+2025,2025-01-12,G,GS,128,R16,5,Hard,Carlos Alcaraz,Jack Draper
+2025,2025-01-12,G,GS,128,R128,5,Hard,Hugo Gaston,Omar Jasika
+2025,2025-01-12,G,GS,128,R64,5,Hard,Lorenzo Sonego,Joao Fonseca
+2025,2025-01-12,G,GS,128,R128,5,Hard,Jiri Lehecka,Li Tu
+2025,2025-01-12,G,GS,128,R64,5,Hard,Fabian Marozsan,Frances Tiafoe
+2025,2025-01-12,G,GS,128,R16,5,Hard,Novak Djokovic,Jiri Lehecka
+2025,2025-01-12,G,GS,128,QF,5,Hard,Jannik Sinner,Alex de Minaur
+2025,2025-01-12,G,GS,128,R128,5,Hard,Roberto Carballes Baena,Alejandro Tabilo
+2025,2025-01-12,G,GS,128,R64,5,Hard,Aleksandar Vukic,Sebastian Korda
+2025,2025-01-12,G,GS,128,R32,5,Hard,Alejandro Davidovich Fokina,Jakub Mensik
+2025,2025-01-12,G,GS,128,R128,5,Hard,Fabian Marozsan,Thiago Seyboth Wild
+2025,2025-01-12,G,GS,128,R128,5,Hard,Miomir Kecmanovic,Dusan Lajovic
+2025,2025-01-12,G,GS,128,R128,5,Hard,Denis Shapovalov,Roberto Bautista Agut
+2025,2025-01-12,G,GS,128,R64,5,Hard,Tomas Machac,Reilly Opelka
+2025,2025-01-12,G,GS,128,R16,5,Hard,Jannik Sinner,Holger Rune
+2025,2025-01-12,G,GS,128,R32,5,Hard,Novak Djokovic,Tomas Machac
+2025,2025-01-12,G,GS,128,R128,5,Hard,James McCabe,Martin Landaluce
+2025,2025-01-12,G,GS,128,R128,5,Hard,Tristan Schoolkate,Taro Daniel
+2025,2025-01-12,G,GS,128,R128,5,Hard,Ugo Humbert,Matteo Gigante
+2025,2025-01-12,G,GS,128,R64,5,Hard,Jannik Sinner,Tristan Schoolkate
+2025,2025-01-27,A,250,28,F,3,Hard,Felix Auger-Aliassime,Aleksandar Kovacevic
+2025,2025-01-27,A,250,28,R32,3,Hard,Christopher Eubanks,Alibek Kachmazov
+2025,2025-01-27,A,250,28,R32,3,Hard,Dominik Koepfer,Gregoire Barrere
+2025,2025-01-27,A,250,28,QF,3,Hard,Felix Auger-Aliassime,Yunchaokete Bu
+2025,2025-01-27,A,250,28,R16,3,Hard,Aleksandar Kovacevic,Mattia Bellucci
+2025,2025-01-27,A,250,28,R16,3,Hard,Alexander Bublik,Dominik Koepfer
+2025,2025-01-27,A,250,28,QF,3,Hard,Jesper de Jong,Tallon Griekspoor
+2025,2025-01-27,A,250,28,R32,3,Hard,Jesper de Jong,Quentin Halys
+2025,2025-01-27,A,250,28,R32,3,Hard,Arthur Cazaux,Stan Wawrinka
+2025,2025-01-27,A,250,28,R32,3,Hard,Richard Gasquet,Adrian Mannarino
+2025,2025-01-27,A,250,28,R16,3,Hard,Nikoloz Basilashvili,Arthur Rinderknech
+2025,2025-01-27,A,250,28,R32,3,Hard,Constant Lestienne,Borna Coric
+2025,2025-01-27,A,250,28,R16,3,Hard,Jesper de Jong,Flavio Cobolli
+2025,2025-01-27,A,250,28,QF,3,Hard,Aleksandar Kovacevic,Alexander Bublik
+2025,2025-01-27,A,250,28,QF,3,Hard,Andrey Rublev,Nikoloz Basilashvili
+2025,2025-01-27,A,250,28,R16,3,Hard,Tallon Griekspoor,Richard Gasquet
+2025,2025-01-27,A,250,28,R32,3,Hard,Yunchaokete Bu,Daniel Altmaier
+2025,2025-01-27,A,250,28,R16,3,Hard,Andrey Rublev,Christopher Eubanks
+2025,2025-01-27,A,250,28,R32,3,Hard,Tallon Griekspoor,Botic van de Zandschulp
+2025,2025-01-27,A,250,28,R16,3,Hard,Felix Auger-Aliassime,Arthur Cazaux
+2025,2025-01-27,A,250,28,SF,3,Hard,Felix Auger-Aliassime,Jesper de Jong
+2025,2025-01-27,A,250,28,R32,3,Hard,Aleksandar Kovacevic,David Goffin
+2025,2025-01-27,A,250,28,R32,3,Hard,Arthur Rinderknech,Harold Mayot
+2025,2025-01-27,A,250,28,R32,3,Hard,Nikoloz Basilashvili,Mikhail Kukushkin
+2025,2025-01-27,A,250,28,R32,3,Hard,Mattia Bellucci,Lucas Pouille
+2025,2025-01-27,A,250,28,SF,3,Hard,Aleksandar Kovacevic,Andrey Rublev
+2025,2025-01-27,A,250,28,R16,3,Hard,Yunchaokete Bu,Constant Lestienne
+2025,2025-02-03,A,500,32,R32,3,Hard,Yoshihito Nishioka,Brandon Nakashima
+2025,2025-02-03,A,500,32,R32,3,Hard,Arthur Fils,Constant Lestienne
+2025,2025-02-03,A,500,32,R16,3,Hard,Jaume Munar,Ben Shelton
+2025,2025-02-03,A,500,32,R16,3,Hard,Carlos Alcaraz,Andrea Vavassori
+2025,2025-02-03,A,500,32,QF,3,Hard,Tommy Paul,Reilly Opelka
+2025,2025-02-03,A,500,32,R32,3,Hard,Alejandro Davidovich Fokina,Brandon Holt
+2025,2025-02-03,A,500,32,R32,3,Hard,Stefanos Tsitsipas,Harold Mayot
+2025,2025-02-03,A,500,32,QF,3,Hard,Carlos Alcaraz,Pedro Martinez
+2025,2025-02-03,A,500,32,R16,3,Hard,Daniel Altmaier,Arthur Fils
+2025,2025-02-03,A,500,32,R16,3,Hard,Tomas Machac,Rinky Hijikata
+2025,2025-02-03,A,500,32,R16,3,Hard,Denis Shapovalov,Taylor Fritz
+2025,2025-02-03,A,500,32,R16,3,Hard,Alex de Minaur,Jakub Mensik
+2025,2025-02-03,A,500,32,QF,3,Hard,Hubert Hurkacz,Andrey Rublev
+2025,2025-02-03,A,500,32,R32,3,Hard,Tallon Griekspoor,Matteo Berrettini
+2025,2025-02-03,A,500,32,R32,3,Hard,Matteo Arnaldi,Christopher Eubanks
+2025,2025-02-03,A,500,32,QF,3,Hard,Denis Shapovalov,Tomas Machac
+2025,2025-02-03,A,500,32,R16,3,Hard,Pedro Martinez,Holger Rune
+2025,2025-02-03,A,500,32,R16,3,Hard,Matteo Arnaldi,Alejandro Davidovich Fokina
+2025,2025-02-03,A,500,32,R32,3,Hard,Daniel Altmaier,Aleksandar Kovacevic
+2025,2025-02-03,A,500,32,R32,3,Hard,Frances Tiafoe,Taro Daniel
+2025,2025-02-03,A,500,32,R32,3,Hard,Cameron Norrie,Alex Michelsen
+2025,2025-02-03,A,500,32,R32,3,Hard,Tomas Machac,Kei Nishikori
+2025,2025-02-03,A,500,32,SF,3,Hard,Carlos Alcaraz,Hubert Hurkacz
+2025,2025-02-03,A,500,32,R16,3,Hard,Stefanos Tsitsipas,Tallon Griekspoor
+2025,2025-02-03,A,500,32,R32,3,Hard,Jiri Lehecka,Alexei Popyrin
+2025,2025-02-03,A,500,32,R16,3,Hard,Casper Ruud,Michael Mmoh
+2025,2025-02-03,A,500,32,R32,3,Hard,Pedro Martinez,Roberto Bautista Agut
+2025,2025-02-03,A,500,32,SF,3,Hard,Casper Ruud,Jaume Munar
+2025,2025-02-03,A,500,32,SF,3,Hard,Denis Shapovalov,Tommy Paul
+2025,2025-02-03,A,500,32,R32,3,Hard,Holger Rune,Lorenzo Sonego
+2025,2025-02-03,A,500,32,R16,3,Hard,Yoshihito Nishioka,Frances Tiafoe
+2025,2025-02-03,A,500,32,R32,3,Hard,Hubert Hurkacz,Flavio Cobolli
+2025,2025-02-03,A,500,32,R16,3,Hard,Mattia Bellucci,Daniil Medvedev
+2025,2025-02-03,A,500,32,SF,3,Hard,Alex de Minaur,Mattia Bellucci
+2025,2025-02-03,A,500,32,R32,3,Hard,Rinky Hijikata,Adrian Mannarino
+2025,2025-02-03,A,500,32,R32,3,Hard,Reilly Opelka,Alexander Shevchenko
+2025,2025-02-03,A,500,32,R32,3,Hard,Carlos Alcaraz,Botic van de Zandschulp
+2025,2025-02-03,A,500,32,R32,3,Hard,Ethan Quinn,Trevor Svajda
+2025,2025-02-03,A,500,32,F,3,Hard,Denis Shapovalov,Casper Ruud
+2025,2025-02-03,A,500,32,R32,3,Hard,Denis Shapovalov,Miomir Kecmanovic
+2025,2025-02-03,A,500,32,R32,3,Hard,Andrey Rublev,Zhizhen Zhang
+2025,2025-02-03,A,500,32,R32,3,Hard,Fabian Marozsan,Jan-Lennard Struff
+2025,2025-02-03,A,500,32,R32,3,Hard,Taylor Fritz,Arthur Rinderknech
+2025,2025-02-03,A,500,32,R32,3,Hard,Tommy Paul,Jenson Brooksby
+2025,2025-02-03,A,500,32,F,3,Hard,Carlos Alcaraz,Alex de Minaur
+2025,2025-02-03,A,500,32,R32,3,Hard,Andrea Vavassori,Felix Auger-Aliassime
+2025,2025-02-03,A,500,32,QF,3,Hard,Casper Ruud,Yoshihito Nishioka
+2025,2025-02-03,A,500,32,R16,3,Hard,Reilly Opelka,Cameron Norrie
+2025,2025-02-03,A,500,32,R32,3,Hard,Jakub Mensik,Alexander Bublik
+2025,2025-02-03,A,500,32,R32,3,Hard,Mattia Bellucci,Mees Rottgering
+2025,2025-02-03,A,500,32,R16,3,Hard,Andrey Rublev,Fabian Marozsan
+2025,2025-02-03,A,500,32,QF,3,Hard,Alex de Minaur,Daniel Altmaier
+2025,2025-02-03,A,500,32,R32,3,Hard,Casper Ruud,James Duckworth
+2025,2025-02-03,A,500,32,R32,3,Hard,Ben Shelton,Aleksandar Vukic
+2025,2025-02-03,A,500,32,R32,3,Hard,Jaume Munar,Yunchaokete Bu
+2025,2025-02-03,A,500,32,R32,3,Hard,Michael Mmoh,Roberto Carballes Baena
+2025,2025-02-03,A,500,32,QF,3,Hard,Mattia Bellucci,Stefanos Tsitsipas
+2025,2025-02-03,A,500,32,R16,3,Hard,Hubert Hurkacz,Jiri Lehecka
+2025,2025-02-03,A,500,32,R32,3,Hard,Daniil Medvedev,Stan Wawrinka
+2025,2025-02-03,A,500,32,R32,3,Hard,Alex de Minaur,David Goffin
+2025,2025-02-03,A,500,32,R16,3,Hard,Tommy Paul,Ethan Quinn
+2025,2025-02-03,A,500,32,QF,3,Hard,Jaume Munar,Matteo Arnaldi
+2025,2025-02-10,A,250,28,QF,3,Hard,Miomir Kecmanovic,Marcos Giron
+2025,2025-02-10,A,250,28,R16,3,Hard,Brandon Nakashima,Reilly Opelka
+2025,2025-02-10,A,250,28,R32,3,Hard,Pierre-Hugues Herbert,Harold Mayot
+2025,2025-02-10,A,250,28,F,3,Hard,Ugo Humbert,Hamad Medjedovic
+2025,2025-02-10,A,250,28,R32,3,Hard,Hamad Medjedovic,Raphael Collignon
+2025,2025-02-10,A,250,28,R32,3,Hard,Michael Mmoh,Alexander Shevchenko
+2025,2025-02-10,A,250,28,R32,3,Hard,Ethan Quinn,Tristan Boyer
+2025,2025-02-10,A,250,28,R32,3,Clay,Corentin Moutet,Sumit Nagal
+2025,2025-02-10,A,250,28,R32,3,Clay,Dusan Lajovic,Roberto Carballes Baena
+2025,2025-02-10,A,250,28,F,3,Clay,Joao Fonseca,Francisco Cerundolo
+2025,2025-02-10,A,250,28,R16,3,Hard,Matteo Arnaldi,Learner Tien
+2025,2025-02-10,A,250,28,QF,3,Hard,Alex Michelsen,Cameron Norrie
+2025,2025-02-10,A,250,28,R32,3,Clay,Mariano Navone,Francisco Comesana
+2025,2025-02-10,A,250,28,R32,3,Clay,Laslo Djere,Alexandre Muller
+2025,2025-02-10,A,250,28,R32,3,Hard,Learner Tien,Adam Walton
+2025,2025-02-10,A,250,28,F,3,Hard,Miomir Kecmanovic,Alejandro Davidovich Fokina
+2025,2025-02-10,A,250,28,R32,3,Hard,Yunchaokete Bu,Rinky Hijikata
+2025,2025-02-10,A,250,28,QF,3,Clay,Laslo Djere,Thiago Seyboth Wild
+2025,2025-02-10,A,250,28,R16,3,Hard,Daniel Altmaier,Otto Virtanen
+2025,2025-02-10,A,250,28,R16,3,Clay,Lorenzo Musetti,Corentin Moutet
+2025,2025-02-10,A,250,28,QF,3,Hard,Ugo Humbert,Lorenzo Sonego
+2025,2025-02-10,A,250,28,QF,3,Hard,Zizou Bergs,Zhizhen Zhang
+2025,2025-02-10,A,250,28,R16,3,Clay,Pedro Martinez,Diego Schwartzman
+2025,2025-02-10,A,250,28,R16,3,Hard,Hamad Medjedovic,Karen Khachanov
+2025,2025-02-10,A,250,28,QF,3,Clay,Joao Fonseca,Mariano Navone
+2025,2025-02-10,A,250,28,R32,3,Hard,Alexander Bublik,Richard Gasquet
+2025,2025-02-10,A,250,28,R32,3,Hard,Zhizhen Zhang,Quentin Halys
+2025,2025-02-10,A,250,28,R32,3,Hard,Brandon Nakashima,James Trotter
+2025,2025-02-10,A,250,28,R16,3,Hard,Jan-Lennard Struff,Hugo Grenier
+2025,2025-02-10,A,250,28,R16,3,Clay,Alexander Zverev,Dusan Lajovic
+2025,2025-02-10,A,250,28,R32,3,Clay,Sebastian Baez,Camilo Ugo Carabelli
+2025,2025-02-10,A,250,28,R32,3,Hard,Alejandro Davidovich Fokina,Taro Daniel
+2025,2025-02-10,A,250,28,R32,3,Hard,Zizou Bergs,Clement Chidekh
+2025,2025-02-10,A,250,28,QF,3,Hard,Hamad Medjedovic,Daniel Altmaier
+2025,2025-02-10,A,250,28,R16,3,Clay,Thiago Seyboth Wild,Sebastian Baez
+2025,2025-02-10,A,250,28,R16,3,Hard,Zhizhen Zhang,Hubert Hurkacz
+2025,2025-02-10,A,250,28,QF,3,Clay,Francisco Cerundolo,Alexander Zverev
+2025,2025-02-10,A,250,28,R32,3,Clay,Joao Fonseca,Tomas Martin Etcheverry
+2025,2025-02-10,A,250,28,R16,3,Hard,Marcos Giron,Ethan Quinn
+2025,2025-02-10,A,250,28,SF,3,Hard,Miomir Kecmanovic,Alex Michelsen
+2025,2025-02-10,A,250,28,R32,3,Hard,Luca Van Assche,Benjamin Bonzi
+2025,2025-02-10,A,250,28,R32,3,Hard,Lorenzo Sonego,Botic van de Zandschulp
+2025,2025-02-10,A,250,28,SF,3,Hard,Alejandro Davidovich Fokina,Matteo Arnaldi
+2025,2025-02-10,A,250,28,R16,3,Hard,Miomir Kecmanovic,Yoshihito Nishioka
+2025,2025-02-10,A,250,28,R32,3,Clay,Federico Coria,Hugo Gaston
+2025,2025-02-10,A,250,28,R16,3,Hard,Zizou Bergs,Nuno Borges
+2025,2025-02-10,A,250,28,R16,3,Clay,Laslo Djere,Alejandro Tabilo
+2025,2025-02-10,A,250,28,QF,3,Hard,Daniil Medvedev,Jan-Lennard Struff
+2025,2025-02-10,A,250,28,R32,3,Hard,Nuno Borges,Stan Wawrinka
+2025,2025-02-10,A,250,28,R32,3,Hard,Mackenzie McDonald,Kei Nishikori
+2025,2025-02-10,A,250,28,R32,3,Clay,Thiago Seyboth Wild,Facundo Diaz Acosta
+2025,2025-02-10,A,250,28,R16,3,Clay,Francisco Cerundolo,Juan Manuel Cerundolo
+2025,2025-02-10,A,250,28,R16,3,Hard,Daniil Medvedev,Pierre-Hugues Herbert
+2025,2025-02-10,A,250,28,R32,3,Hard,Reilly Opelka,Christopher Eubanks
+2025,2025-02-10,A,250,28,R32,3,Hard,Yoshihito Nishioka,Aleksandar Vukic
+2025,2025-02-10,A,250,28,SF,3,Hard,Ugo Humbert,Zizou Bergs
+2025,2025-02-10,A,250,28,R16,3,Clay,Joao Fonseca,Federico Coria
+2025,2025-02-10,A,250,28,R16,3,Hard,Ugo Humbert,Alexander Bublik
+2025,2025-02-10,A,250,28,SF,3,Clay,Francisco Cerundolo,Pedro Martinez
+2025,2025-02-10,A,250,28,R16,3,Hard,Alex Michelsen,Michael Mmoh
+2025,2025-02-10,A,250,28,QF,3,Hard,Matteo Arnaldi,Brandon Nakashima
+2025,2025-02-10,A,250,28,R32,3,Hard,Cameron Norrie,Zachary Svajda
+2025,2025-02-10,A,250,28,R32,3,Clay,Juan Manuel Cerundolo,Roman Andres Burruchaga
+2025,2025-02-10,A,250,28,R32,3,Hard,Hugo Grenier,Arthur Gea
+2025,2025-02-10,A,250,28,R32,3,Clay,Pedro Martinez,Damir Dzumhur
+2025,2025-02-10,A,250,28,R16,3,Hard,Alejandro Davidovich Fokina,Mackenzie McDonald
+2025,2025-02-10,A,250,28,R32,3,Hard,Otto Virtanen,Sebastian Korda
+2025,2025-02-10,A,250,28,R32,3,Hard,Daniel Altmaier,Luca Nardi
+2025,2025-02-10,A,250,28,R16,3,Hard,Taylor Fritz,Yunchaokete Bu
+2025,2025-02-10,A,250,28,R32,3,Clay,Diego Schwartzman,Nicolas Jarry
+2025,2025-02-10,A,250,28,R32,3,Hard,Jan-Lennard Struff,Manuel Guinard
+2025,2025-02-10,A,250,28,R32,3,Clay,Francisco Cerundolo,Luciano Darderi
+2025,2025-02-10,A,250,28,R32,3,Hard,Arthur Rinderknech,Dmitry Popko
+2025,2025-02-10,A,250,28,QF,3,Hard,Alejandro Davidovich Fokina,Taylor Fritz
+2025,2025-02-10,A,250,28,R16,3,Hard,Cameron Norrie,Arthur Rinderknech
+2025,2025-02-10,A,250,28,SF,3,Clay,Joao Fonseca,Laslo Djere
+2025,2025-02-10,A,250,28,R16,3,Hard,Lorenzo Sonego,Luca Van Assche
+2025,2025-02-10,A,250,28,R16,3,Clay,Mariano Navone,Holger Rune
+2025,2025-02-10,A,250,28,SF,3,Hard,Hamad Medjedovic,Daniil Medvedev
+2025,2025-02-10,A,250,28,R32,3,Hard,Miomir Kecmanovic,Borna Gojo
+2025,2025-02-17,A,500,32,R16,3,Hard,Jack Draper,Christopher O'Connell
+2025,2025-02-17,A,500,32,R16,3,Clay,Francisco Cerundolo,Luciano Darderi
+2025,2025-02-17,A,500,32,QF,3,Hard,Andrey Rublev,Alex de Minaur
+2025,2025-02-17,A,500,32,QF,3,Clay,Sebastian Baez,Chun-Hsin Tseng
+2025,2025-02-17,A,500,32,R32,3,Clay,Thiago Monteiro,Facundo Diaz Acosta
+2025,2025-02-17,A,500,32,R32,3,Hard,Daniil Medvedev,Karen Khachanov
+2025,2025-02-17,A,500,32,R32,3,Clay,Jaume Munar,Thiago Seyboth Wild
+2025,2025-02-17,A,500,32,R32,3,Hard,Alex de Minaur,Roman Safiullin
+2025,2025-02-17,A,500,32,R32,3,Hard,Botic van de Zandschulp,Abdullah Shelbayh
+2025,2025-02-17,A,500,32,R32,3,Clay,Jaime Faria,Tomas Barrios Vera
+2025,2025-02-17,A,500,32,R32,3,Hard,Zizou Bergs,Roberto Bautista Agut
+2025,2025-02-17,A,500,32,R32,3,Clay,Chun-Hsin Tseng,Alejandro Tabilo
+2025,2025-02-17,A,500,32,QF,3,Clay,Camilo Ugo Carabelli,Jaime Faria
+2025,2025-02-17,A,500,32,QF,3,Hard,Felix Auger-Aliassime,Daniil Medvedev
+2025,2025-02-17,A,500,32,R16,3,Clay,Alexandre Muller,Tomas Martin Etcheverry
+2025,2025-02-17,A,500,32,R16,3,Hard,Matteo Berrettini,Tallon Griekspoor
+2025,2025-02-17,A,500,32,R32,3,Clay,Francisco Cerundolo,Hugo Gaston
+2025,2025-02-17,A,500,32,R32,3,Hard,Tallon Griekspoor,Jan-Lennard Struff
+2025,2025-02-17,A,500,32,R32,3,Hard,Luca Nardi,Zhizhen Zhang
+2025,2025-02-17,A,500,32,R32,3,Clay,Alexander Zverev,Yunchaokete Bu
+2025,2025-02-17,A,500,32,F,3,Hard,Andrey Rublev,Jack Draper
+2025,2025-02-17,A,500,32,F,3,Clay,Sebastian Baez,Alexandre Muller
+2025,2025-02-17,A,500,32,R32,3,Clay,Alexander Shevchenko,Felipe Meligeni Alves
+2025,2025-02-17,A,500,32,R32,3,Hard,Carlos Alcaraz,Marin Cilic
+2025,2025-02-17,A,500,32,R32,3,Hard,Matteo Berrettini,Novak Djokovic
+2025,2025-02-17,A,500,32,R32,3,Clay,Luciano Darderi,Hugo Dellien
+2025,2025-02-17,A,500,32,R32,3,Hard,Jack Draper,Alexei Popyrin
+2025,2025-02-17,A,500,32,R32,3,Clay,Alexandre Muller,Joao Fonseca
+2025,2025-02-17,A,500,32,R32,3,Hard,Jiri Lehecka,Grigor Dimitrov
+2025,2025-02-17,A,500,32,R32,3,Clay,Francisco Comesana,Gustavo Heide
+2025,2025-02-17,A,500,32,SF,3,Clay,Alexandre Muller,Francisco Comesana
+2025,2025-02-17,A,500,32,SF,3,Hard,Andrey Rublev,Felix Auger-Aliassime
+2025,2025-02-17,A,500,32,R16,3,Clay,Camilo Ugo Carabelli,Damir Dzumhur
+2025,2025-02-17,A,500,32,R16,3,Hard,Alex de Minaur,Botic van de Zandschulp
+2025,2025-02-17,A,500,32,R16,3,Hard,Andrey Rublev,Nuno Borges
+2025,2025-02-17,A,500,32,R16,3,Clay,Jaime Faria,Jaume Munar
+2025,2025-02-17,A,500,32,SF,3,Hard,Jack Draper,Jiri Lehecka
+2025,2025-02-17,A,500,32,SF,3,Clay,Sebastian Baez,Camilo Ugo Carabelli
+2025,2025-02-17,A,500,32,R32,3,Clay,Nicolas Jarry,Juan Manuel Cerundolo
+2025,2025-02-17,A,500,32,R32,3,Hard,Fabian Marozsan,Aziz Dougaz
+2025,2025-02-17,A,500,32,R32,3,Clay,Tomas Martin Etcheverry,Corentin Moutet
+2025,2025-02-17,A,500,32,R32,3,Hard,Christopher O'Connell,Hady Habib
+2025,2025-02-17,A,500,32,R32,3,Clay,Camilo Ugo Carabelli,Pedro Martinez
+2025,2025-02-17,A,500,32,R32,3,Hard,Nuno Borges,Otto Virtanen
+2025,2025-02-17,A,500,32,QF,3,Clay,Francisco Comesana,Alexander Zverev
+2025,2025-02-17,A,500,32,QF,3,Hard,Jack Draper,Matteo Berrettini
+2025,2025-02-17,A,500,32,R16,3,Clay,Sebastian Baez,Mariano Navone
+2025,2025-02-17,A,500,32,R16,3,Hard,Daniil Medvedev,Zizou Bergs
+2025,2025-02-17,A,500,32,R32,3,Hard,Felix Auger-Aliassime,Quentin Halys
+2025,2025-02-17,A,500,32,R32,3,Clay,Sebastian Baez,Roman Andres Burruchaga
+2025,2025-02-17,A,500,32,R16,3,Hard,Jiri Lehecka,Fabian Marozsan
+2025,2025-02-17,A,500,32,R16,3,Clay,Alexander Zverev,Alexander Shevchenko
+2025,2025-02-17,A,500,32,R16,3,Clay,Francisco Comesana,Nicolas Jarry
+2025,2025-02-17,A,500,32,R16,3,Hard,Carlos Alcaraz,Luca Nardi
+2025,2025-02-17,A,500,32,R32,3,Clay,Mariano Navone,Roberto Carballes Baena
+2025,2025-02-17,A,500,32,R32,3,Hard,Hamad Medjedovic,Stefanos Tsitsipas
+2025,2025-02-17,A,500,32,R16,3,Hard,Felix Auger-Aliassime,Hamad Medjedovic
+2025,2025-02-17,A,500,32,R16,3,Clay,Chun-Hsin Tseng,Thiago Monteiro
+2025,2025-02-17,A,500,32,QF,3,Hard,Jiri Lehecka,Carlos Alcaraz
+2025,2025-02-17,A,500,32,QF,3,Clay,Alexandre Muller,Francisco Cerundolo
+2025,2025-02-17,A,500,32,R32,3,Hard,Andrey Rublev,Alexander Bublik
+2025,2025-02-17,A,500,32,R32,3,Clay,Damir Dzumhur,Dusan Lajovic
+2025,2025-02-24,A,250,28,R32,3,Clay,Cristian Garin,Juan Pablo Ficovich
+2025,2025-02-24,A,500,32,R32,3,Hard,David Goffin,Rinky Hijikata
+2025,2025-02-24,A,500,32,R32,3,Hard,Tallon Griekspoor,Roman Safiullin
+2025,2025-02-24,A,250,28,R32,3,Clay,Gustavo Heide,Thiago Seyboth Wild
+2025,2025-02-24,A,500,32,R32,3,Hard,Matteo Berrettini,Gael Monfils
+2025,2025-02-24,A,500,32,R32,3,Hard,Daniel Altmaier,Miomir Kecmanovic
+2025,2025-02-24,A,500,32,SF,3,Hard,Stefanos Tsitsipas,Tallon Griekspoor
+2025,2025-02-24,A,250,28,R16,3,Clay,Camilo Ugo Carabelli,Thiago Monteiro
+2025,2025-02-24,A,250,28,SF,3,Clay,Laslo Djere,Francisco Cerundolo
+2025,2025-02-24,A,500,32,R16,3,Hard,Felix Auger-Aliassime,Nuno Borges
+2025,2025-02-24,A,500,32,SF,3,Hard,Tomas Machac,Brandon Nakashima
+2025,2025-02-24,A,500,32,R16,3,Hard,Alejandro Davidovich Fokina,Frances Tiafoe
+2025,2025-02-24,A,500,32,R16,3,Hard,Rodrigo Pacheco Mendez,Casper Ruud
+2025,2025-02-24,A,500,32,SF,3,Hard,Alejandro Davidovich Fokina,Denis Shapovalov
+2025,2025-02-24,A,500,32,R16,3,Hard,Marin Cilic,Alexei Popyrin
+2025,2025-02-24,A,250,28,SF,3,Clay,Sebastian Baez,Camilo Ugo Carabelli
+2025,2025-02-24,A,250,28,R16,3,Clay,Federico Coria,Alejandro Tabilo
+2025,2025-02-24,A,500,32,SF,3,Hard,Felix Auger-Aliassime,Quentin Halys
+2025,2025-02-24,A,500,32,R32,3,Hard,Tomas Machac,Jakub Mensik
+2025,2025-02-24,A,500,32,R32,3,Hard,Christopher O'Connell,Grigor Dimitrov
+2025,2025-02-24,A,250,28,R32,3,Clay,Jaime Faria,Luciano Darderi
+2025,2025-02-24,A,500,32,R32,3,Hard,Ugo Humbert,Jiri Lehecka
+2025,2025-02-24,A,500,32,R32,3,Hard,Ben Shelton,Flavio Cobolli
+2025,2025-02-24,A,250,28,R32,3,Clay,Tomas Martin Etcheverry,Hugo Gaston
+2025,2025-02-24,A,500,32,QF,3,Hard,Tallon Griekspoor,Daniil Medvedev
+2025,2025-02-24,A,250,28,R16,3,Clay,Damir Dzumhur,Mariano Navone
+2025,2025-02-24,A,500,32,R32,3,Hard,Frances Tiafoe,Alexandre Muller
+2025,2025-02-24,A,250,28,QF,3,Clay,Francisco Cerundolo,Tomas Martin Etcheverry
+2025,2025-02-24,A,500,32,R16,3,Hard,Luca Nardi,Zizou Bergs
+2025,2025-02-24,A,500,32,QF,3,Hard,Tomas Machac,Learner Tien
+2025,2025-02-24,A,250,28,R32,3,Clay,Camilo Ugo Carabelli,Nicolas Jarry
+2025,2025-02-24,A,500,32,R32,3,Hard,Nuno Borges,Arthur Fils
+2025,2025-02-24,A,500,32,R16,3,Hard,Denis Shapovalov,Alex Michelsen
+2025,2025-02-24,A,500,32,R16,3,Hard,Daniil Medvedev,Giovanni Mpetshi Perricard
+2025,2025-02-24,A,250,28,R16,3,Clay,Francisco Cerundolo,Yannick Hanfmann
+2025,2025-02-24,A,500,32,R32,3,Hard,Denis Shapovalov,Nishesh Basavareddy
+2025,2025-02-24,A,250,28,R32,3,Clay,Mariano Navone,Alexander Shevchenko
+2025,2025-02-24,A,500,32,R16,3,Hard,Learner Tien,Alexander Zverev
+2025,2025-02-24,A,500,32,R32,3,Hard,Luca Nardi,Marton Fucsovics
+2025,2025-02-24,A,500,32,R32,3,Hard,Zizou Bergs,Aziz Dougaz
+2025,2025-02-24,A,500,32,R16,3,Hard,Tomas Machac,Daniel Altmaier
+2025,2025-02-24,A,250,28,R32,3,Clay,Damir Dzumhur,Corentin Moutet
+2025,2025-02-24,A,500,32,R32,3,Hard,Alex Michelsen,Yunchaokete Bu
+2025,2025-02-24,A,250,28,R16,3,Clay,Tomas Martin Etcheverry,Cristian Garin
+2025,2025-02-24,A,500,32,R16,3,Hard,Tallon Griekspoor,Ugo Humbert
+2025,2025-02-24,A,500,32,R16,3,Hard,Marcos Giron,Tommy Paul
+2025,2025-02-24,A,500,32,R32,3,Hard,Felix Auger-Aliassime,Alexander Bublik
+2025,2025-02-24,A,250,28,R32,3,Clay,Thiago Monteiro,Juan Manuel Cerundolo
+2025,2025-02-24,A,500,32,QF,3,Hard,Brandon Nakashima,David Goffin
+2025,2025-02-24,A,500,32,R16,3,Hard,Quentin Halys,Roberto Bautista Agut
+2025,2025-02-24,A,250,28,QF,3,Clay,Laslo Djere,Jaime Faria
+2025,2025-02-24,A,500,32,R32,3,Hard,Alejandro Davidovich Fokina,Mattia Bellucci
+2025,2025-02-24,A,250,28,R16,3,Clay,Sebastian Baez,Francisco Comesana
+2025,2025-02-24,A,500,32,QF,3,Hard,Stefanos Tsitsipas,Matteo Berrettini
+2025,2025-02-24,A,500,32,R16,3,Hard,Brandon Nakashima,Holger Rune
+2025,2025-02-24,A,500,32,QF,3,Hard,Denis Shapovalov,Marcos Giron
+2025,2025-02-24,A,500,32,R16,3,Hard,Stefanos Tsitsipas,Karen Khachanov
+2025,2025-02-24,A,250,28,QF,3,Clay,Sebastian Baez,Damir Dzumhur
+2025,2025-02-24,A,250,28,R16,3,Clay,Laslo Djere,Pedro Martinez
+2025,2025-02-24,A,500,32,QF,3,Hard,Quentin Halys,Luca Nardi
+2025,2025-02-24,A,250,28,R32,3,Clay,Federico Coria,Tomas Barrios Vera
+2025,2025-02-24,A,500,32,R32,3,Hard,Roberto Bautista Agut,Fabian Marozsan
+2025,2025-02-24,A,500,32,R32,3,Hard,Alexei Popyrin,Hady Habib
+2025,2025-02-24,A,250,28,R32,3,Clay,Francisco Comesana,Felipe Meligeni Alves
+2025,2025-02-24,A,500,32,R32,3,Hard,Marcos Giron,Adam Walton
+2025,2025-02-24,A,500,32,R32,3,Hard,Rodrigo Pacheco Mendez,Aleksandar Vukic
+2025,2025-02-24,A,500,32,R32,3,Hard,Casper Ruud,Arthur Rinderknech
+2025,2025-02-24,A,500,32,R32,3,Hard,Tommy Paul,Gabriel Diallo
+2025,2025-02-24,A,500,32,R32,3,Hard,Marin Cilic,Alex de Minaur
+2025,2025-02-24,A,500,32,R32,3,Hard,Quentin Halys,Andrey Rublev
+2025,2025-02-24,A,500,32,QF,3,Hard,Felix Auger-Aliassime,Marin Cilic
+2025,2025-02-24,A,250,28,R16,3,Clay,Jaime Faria,Gustavo Heide
+2025,2025-02-24,A,250,28,QF,3,Clay,Camilo Ugo Carabelli,Federico Coria
+2025,2025-02-24,A,500,32,R16,3,Hard,Matteo Berrettini,Christopher O'Connell
+2025,2025-02-24,A,500,32,QF,3,Hard,Alejandro Davidovich Fokina,Rodrigo Pacheco Mendez
+2025,2025-02-24,A,500,32,R16,3,Hard,David Goffin,Ben Shelton
+2025,2025-02-24,A,500,32,R32,3,Hard,Stefanos Tsitsipas,Lorenzo Sonego
+2025,2025-02-24,A,500,32,R32,3,Hard,Holger Rune,Roberto Carballes Baena
+2025,2025-02-24,A,500,32,R32,3,Hard,Alexander Zverev,Matteo Arnaldi
+2025,2025-02-24,A,500,32,R32,3,Hard,Daniil Medvedev,Jan-Lennard Struff
+2025,2025-02-24,A,500,32,F,3,Hard,Stefanos Tsitsipas,Felix Auger-Aliassime
+2025,2025-02-24,A,250,28,R32,3,Clay,Yannick Hanfmann,Facundo Diaz Acosta
+2025,2025-02-24,A,250,28,F,3,Clay,Laslo Djere,Sebastian Baez
+2025,2025-02-24,A,500,32,R32,3,Hard,Giovanni Mpetshi Perricard,Zhizhen Zhang
+2025,2025-02-24,A,500,32,F,3,Hard,Tomas Machac,Alejandro Davidovich Fokina
+2025,2025-02-24,A,500,32,R32,3,Hard,Learner Tien,Cameron Norrie
+2025,2025-02-24,A,500,32,R32,3,Hard,Brandon Nakashima,Benjamin Bonzi
+2025,2025-02-24,A,250,28,R32,3,Clay,Laslo Djere,Ignacio Buse
+2025,2025-02-24,A,500,32,R32,3,Hard,Karen Khachanov,Daniel Evans
+2025,2025-03-05,M,1000,96,R16,3,Hard,Daniil Medvedev,Tommy Paul
+2025,2025-03-05,M,1000,96,R64,3,Hard,Alex Michelsen,Colton Smith
+2025,2025-03-05,M,1000,96,R64,3,Hard,Karen Khachanov,Jakub Mensik
+2025,2025-03-05,M,1000,96,QF,3,Hard,Carlos Alcaraz,Francisco Cerundolo
+2025,2025-03-05,M,1000,96,R128,3,Hard,Colton Smith,Flavio Cobolli
+2025,2025-03-05,M,1000,96,R128,3,Hard,Gabriel Diallo,Zhizhen Zhang
+2025,2025-03-05,M,1000,96,R128,3,Hard,Damir Dzumhur,Roberto Bautista Agut
+2025,2025-03-05,M,1000,96,R32,3,Hard,Taylor Fritz,Alejandro Tabilo
+2025,2025-03-05,M,1000,96,R32,3,Hard,Carlos Alcaraz,Denis Shapovalov
+2025,2025-03-05,M,1000,96,R128,3,Hard,Fabian Marozsan,Pedro Martinez
+2025,2025-03-05,M,1000,96,R128,3,Hard,Tristan Boyer,Aleksandar Vukic
+2025,2025-03-05,M,1000,96,R128,3,Hard,Gael Monfils,Jan-Lennard Struff
+2025,2025-03-05,M,1000,96,R32,3,Hard,Grigor Dimitrov,Gael Monfils
+2025,2025-03-05,M,1000,96,R32,3,Hard,Jack Draper,Jenson Brooksby
+2025,2025-03-05,M,1000,96,R128,3,Hard,David Goffin,Lorenzo Sonego
+2025,2025-03-05,M,1000,96,QF,3,Hard,Jack Draper,Ben Shelton
+2025,2025-03-05,M,1000,96,R128,3,Hard,Mackenzie McDonald,Alejandro Davidovich Fokina
+2025,2025-03-05,M,1000,96,R64,3,Hard,Ben Shelton,Mariano Navone
+2025,2025-03-05,M,1000,96,R128,3,Hard,Mariano Navone,Learner Tien
+2025,2025-03-05,M,1000,96,R64,3,Hard,Daniil Medvedev,Yunchaokete Bu
+2025,2025-03-05,M,1000,96,R16,3,Hard,Arthur Fils,Marcos Giron
+2025,2025-03-05,M,1000,96,R128,3,Hard,Dusan Lajovic,Li Tu
+2025,2025-03-05,M,1000,96,R32,3,Hard,Arthur Fils,Lorenzo Musetti
+2025,2025-03-05,M,1000,96,R64,3,Hard,Ugo Humbert,Kei Nishikori
+2025,2025-03-05,M,1000,96,R64,3,Hard,Grigor Dimitrov,Nuno Borges
+2025,2025-03-05,M,1000,96,R128,3,Hard,Adam Walton,Giulio Zeppieri
+2025,2025-03-05,M,1000,96,R32,3,Hard,Yosuke Watanuki,Frances Tiafoe
+2025,2025-03-05,M,1000,96,R128,3,Hard,Joao Fonseca,Jacob Fearnley
+2025,2025-03-05,M,1000,96,R64,3,Hard,Marcos Giron,Casper Ruud
+2025,2025-03-05,M,1000,96,R128,3,Hard,Botic van de Zandschulp,Nick Kyrgios
+2025,2025-03-05,M,1000,96,R64,3,Hard,Botic van de Zandschulp,Novak Djokovic
+2025,2025-03-05,M,1000,96,F,3,Hard,Jack Draper,Holger Rune
+2025,2025-03-05,M,1000,96,R128,3,Hard,Zizou Bergs,Ethan Quinn
+2025,2025-03-05,M,1000,96,R128,3,Hard,Yunchaokete Bu,Nishesh Basavareddy
+2025,2025-03-05,M,1000,96,R64,3,Hard,Francisco Cerundolo,Mackenzie McDonald
+2025,2025-03-05,M,1000,96,R64,3,Hard,Alexei Popyrin,Zizou Bergs
+2025,2025-03-05,M,1000,96,R32,3,Hard,Tallon Griekspoor,Giovanni Mpetshi Perricard
+2025,2025-03-05,M,1000,96,R64,3,Hard,Gael Monfils,Sebastian Korda
+2025,2025-03-05,M,1000,96,R64,3,Hard,Holger Rune,Corentin Moutet
+2025,2025-03-05,M,1000,96,R32,3,Hard,Marcos Giron,Alexei Popyrin
+2025,2025-03-05,M,1000,96,R128,3,Hard,Christopher O'Connell,Roberto Carballes Baena
+2025,2025-03-05,M,1000,96,R128,3,Hard,Rinky Hijikata,Alexander Shevchenko
+2025,2025-03-05,M,1000,96,R64,3,Hard,Denis Shapovalov,Adam Walton
+2025,2025-03-05,M,1000,96,R64,3,Hard,Frances Tiafoe,Damir Dzumhur
+2025,2025-03-05,M,1000,96,R32,3,Hard,Daniil Medvedev,Alex Michelsen
+2025,2025-03-05,M,1000,96,R128,3,Hard,Kei Nishikori,Jaume Munar
+2025,2025-03-05,M,1000,96,R64,3,Hard,Hubert Hurkacz,Hugo Gaston
+2025,2025-03-05,M,1000,96,R32,3,Hard,Stefanos Tsitsipas,Matteo Berrettini
+2025,2025-03-05,M,1000,96,R128,3,Hard,Marcos Giron,Nikoloz Basilashvili
+2025,2025-03-05,M,1000,96,R64,3,Hard,Stefanos Tsitsipas,Thiago Seyboth Wild
+2025,2025-03-05,M,1000,96,R128,3,Hard,Matteo Arnaldi,Aleksandar Kovacevic
+2025,2025-03-05,M,1000,96,R128,3,Hard,Thiago Seyboth Wild,Alexandre Muller
+2025,2025-03-05,M,1000,96,SF,3,Hard,Jack Draper,Carlos Alcaraz
+2025,2025-03-05,M,1000,96,R64,3,Hard,Alejandro Tabilo,Dusan Lajovic
+2025,2025-03-05,M,1000,96,R64,3,Hard,Arthur Fils,Gabriel Diallo
+2025,2025-03-05,M,1000,96,R16,3,Hard,Carlos Alcaraz,Grigor Dimitrov
+2025,2025-03-05,M,1000,96,R16,3,Hard,Francisco Cerundolo,Alex de Minaur
+2025,2025-03-05,M,1000,96,R64,3,Hard,Lorenzo Musetti,Roman Safiullin
+2025,2025-03-05,M,1000,96,R128,3,Hard,Jenson Brooksby,Benjamin Bonzi
+2025,2025-03-05,M,1000,96,R64,3,Hard,Taylor Fritz,Matteo Gigante
+2025,2025-03-05,M,1000,96,R128,3,Hard,Matteo Gigante,Sebastian Baez
+2025,2025-03-05,M,1000,96,SF,3,Hard,Holger Rune,Daniil Medvedev
+2025,2025-03-05,M,1000,96,R64,3,Hard,Matteo Berrettini,Christopher O'Connell
+2025,2025-03-05,M,1000,96,R32,3,Hard,Holger Rune,Ugo Humbert
+2025,2025-03-05,M,1000,96,R64,3,Hard,Alex de Minaur,David Goffin
+2025,2025-03-05,M,1000,96,R32,3,Hard,Tommy Paul,Cameron Norrie
+2025,2025-03-05,M,1000,96,R64,3,Hard,Yosuke Watanuki,Tomas Machac
+2025,2025-03-05,M,1000,96,R128,3,Hard,Quentin Halys,Pablo Carreno Busta
+2025,2025-03-05,M,1000,96,R64,3,Hard,Carlos Alcaraz,Quentin Halys
+2025,2025-03-05,M,1000,96,R32,3,Hard,Alex de Minaur,Hubert Hurkacz
+2025,2025-03-05,M,1000,96,QF,3,Hard,Daniil Medvedev,Arthur Fils
+2025,2025-03-05,M,1000,96,R64,3,Hard,Jack Draper,Joao Fonseca
+2025,2025-03-05,M,1000,96,R128,3,Hard,Hugo Gaston,Luciano Darderi
+2025,2025-03-05,M,1000,96,R64,3,Hard,Tommy Paul,Tristan Boyer
+2025,2025-03-05,M,1000,96,R128,3,Hard,Jakub Mensik,Tomas Martin Etcheverry
+2025,2025-03-05,M,1000,96,R16,3,Hard,Jack Draper,Taylor Fritz
+2025,2025-03-05,M,1000,96,R128,3,Hard,Nuno Borges,Arthur Rinderknech
+2025,2025-03-05,M,1000,96,R64,3,Hard,Giovanni Mpetshi Perricard,Fabian Marozsan
+2025,2025-03-05,M,1000,96,R32,3,Hard,Ben Shelton,Karen Khachanov
+2025,2025-03-05,M,1000,96,R16,3,Hard,Holger Rune,Stefanos Tsitsipas
+2025,2025-03-05,M,1000,96,R64,3,Hard,Matteo Arnaldi,Andrey Rublev
+2025,2025-03-05,M,1000,96,R64,3,Hard,Brandon Nakashima,Rinky Hijikata
+2025,2025-03-05,M,1000,96,R16,3,Hard,Tallon Griekspoor,Yosuke Watanuki
+2025,2025-03-05,M,1000,96,R128,3,Hard,Corentin Moutet,Jordan Thompson
+2025,2025-03-05,M,1000,96,R32,3,Hard,Brandon Nakashima,Matteo Arnaldi
+2025,2025-03-05,M,1000,96,R64,3,Hard,Tallon Griekspoor,Alexander Zverev
+2025,2025-03-05,M,1000,96,R128,3,Hard,Tallon Griekspoor,Miomir Kecmanovic
+2025,2025-03-05,M,1000,96,R16,3,Hard,Ben Shelton,Brandon Nakashima
+2025,2025-03-05,M,1000,96,R64,3,Hard,Cameron Norrie,Jiri Lehecka
+2025,2025-03-05,M,1000,96,R64,3,Hard,Jenson Brooksby,Felix Auger-Aliassime
+2025,2025-03-05,M,1000,96,QF,3,Hard,Holger Rune,Tallon Griekspoor
+2025,2025-03-05,M,1000,96,R128,3,Hard,Cameron Norrie,Luca Nardi
+2025,2025-03-05,M,1000,96,R32,3,Hard,Francisco Cerundolo,Botic van de Zandschulp
+2025,2025-03-05,M,1000,96,R128,3,Hard,Roman Safiullin,Reilly Opelka
+2025,2025-03-05,M,1000,96,R128,3,Hard,Yosuke Watanuki,Alexander Bublik
+2025,2025-03-19,M,1000,96,R32,3,Hard,Taylor Fritz,Denis Shapovalov
+2025,2025-03-19,M,1000,96,R128,3,Hard,Roman Safiullin,Jenson Brooksby
+2025,2025-03-19,M,1000,96,R128,3,Hard,Gael Monfils,Fabian Marozsan
+2025,2025-03-19,M,1000,96,R64,3,Hard,Karen Khachanov,Nick Kyrgios
+2025,2025-03-19,M,1000,96,R64,3,Hard,Reilly Opelka,Holger Rune
+2025,2025-03-19,M,1000,96,R64,3,Hard,Denis Shapovalov,Thiago Agustin Tirante
+2025,2025-03-19,M,1000,96,R32,3,Hard,Alexander Zverev,Jordan Thompson
+2025,2025-03-19,M,1000,96,R64,3,Hard,Alejandro Tabilo,Corentin Moutet
+2025,2025-03-19,M,1000,96,R128,3,Hard,Zizou Bergs,Nuno Borges
+2025,2025-03-19,M,1000,96,R128,3,Hard,Thiago Agustin Tirante,Flavio Cobolli
+2025,2025-03-19,M,1000,96,R128,3,Hard,Miomir Kecmanovic,Aleksandar Kovacevic
+2025,2025-03-19,M,1000,96,R64,3,Hard,Casper Ruud,Miomir Kecmanovic
+2025,2025-03-19,M,1000,96,F,3,Hard,Jakub Mensik,Novak Djokovic
+2025,2025-03-19,M,1000,96,R32,3,Hard,Arthur Fils,Frances Tiafoe
+2025,2025-03-19,M,1000,96,R128,3,Hard,Quentin Halys,Thiago Seyboth Wild
+2025,2025-03-19,M,1000,96,R64,3,Hard,Taylor Fritz,Lorenzo Sonego
+2025,2025-03-19,M,1000,96,R64,3,Hard,Tomas Machac,Matteo Arnaldi
+2025,2025-03-19,M,1000,96,R64,3,Hard,Grigor Dimitrov,Federico Cina
+2025,2025-03-19,M,1000,96,R128,3,Hard,Roberto Carballes Baena,Christopher O'Connell
+2025,2025-03-19,M,1000,96,R32,3,Hard,Adam Walton,Coleman Wong
+2025,2025-03-19,M,1000,96,R128,3,Hard,Camilo Ugo Carabelli,Brandon Holt
+2025,2025-03-19,M,1000,96,R128,3,Hard,Chun-Hsin Tseng,Mattia Bellucci
+2025,2025-03-19,M,1000,96,R64,3,Hard,Zizou Bergs,Andrey Rublev
+2025,2025-03-19,M,1000,96,R16,3,Hard,Taylor Fritz,Adam Walton
+2025,2025-03-19,M,1000,96,QF,3,Hard,Novak Djokovic,Sebastian Korda
+2025,2025-03-19,M,1000,96,R128,3,Hard,Corentin Moutet,Alexander Blockx
+2025,2025-03-19,M,1000,96,R64,3,Hard,Stefanos Tsitsipas,Chun-Hsin Tseng
+2025,2025-03-19,M,1000,96,R128,3,Hard,Alexander Bublik,Sebastian Baez
+2025,2025-03-19,M,1000,96,R32,3,Hard,Lorenzo Musetti,Felix Auger-Aliassime
+2025,2025-03-19,M,1000,96,R128,3,Hard,Nick Kyrgios,Mackenzie McDonald
+2025,2025-03-19,M,1000,96,R32,3,Hard,Grigor Dimitrov,Karen Khachanov
+2025,2025-03-19,M,1000,96,R32,3,Hard,Brandon Nakashima,David Goffin
+2025,2025-03-19,M,1000,96,R128,3,Hard,Jordan Thompson,Marcos Giron
+2025,2025-03-19,M,1000,96,R128,3,Hard,Yunchaokete Bu,Cameron Norrie
+2025,2025-03-19,M,1000,96,R128,3,Hard,Alejandro Davidovich Fokina,Jan-Lennard Struff
+2025,2025-03-19,M,1000,96,R32,3,Hard,Novak Djokovic,Camilo Ugo Carabelli
+2025,2025-03-19,M,1000,96,R128,3,Hard,Luciano Darderi,Pedro Martinez
+2025,2025-03-19,M,1000,96,R128,3,Hard,Hugo Gaston,Yoshihito Nishioka
+2025,2025-03-19,M,1000,96,R64,3,Hard,Sebastian Korda,Eliot Spizzirri
+2025,2025-03-19,M,1000,96,QF,3,Hard,Grigor Dimitrov,Francisco Cerundolo
+2025,2025-03-19,M,1000,96,R16,3,Hard,Matteo Berrettini,Alex de Minaur
+2025,2025-03-19,M,1000,96,R64,3,Hard,Matteo Berrettini,Hugo Gaston
+2025,2025-03-19,M,1000,96,R128,3,Hard,Coleman Wong,Daniel Altmaier
+2025,2025-03-19,M,1000,96,R128,3,Hard,Gabriel Diallo,Tomas Martin Etcheverry
+2025,2025-03-19,M,1000,96,R128,3,Hard,Joao Fonseca,Learner Tien
+2025,2025-03-19,M,1000,96,R32,3,Hard,Casper Ruud,Alejandro Tabilo
+2025,2025-03-19,M,1000,96,R64,3,Hard,Felix Auger-Aliassime,Tristan Schoolkate
+2025,2025-03-19,M,1000,96,QF,3,Hard,Jakub Mensik,Arthur Fils
+2025,2025-03-19,M,1000,96,R16,3,Hard,Sebastian Korda,Gael Monfils
+2025,2025-03-19,M,1000,96,R64,3,Hard,Joao Fonseca,Ugo Humbert
+2025,2025-03-19,M,1000,96,R64,3,Hard,Alexander Zverev,Jacob Fearnley
+2025,2025-03-19,M,1000,96,R128,3,Hard,Jacob Fearnley,Benjamin Bonzi
+2025,2025-03-19,M,1000,96,R128,3,Hard,Reilly Opelka,Christopher Eubanks
+2025,2025-03-19,M,1000,96,R32,3,Hard,Gael Monfils,Jaume Munar
+2025,2025-03-19,M,1000,96,R16,3,Hard,Arthur Fils,Alexander Zverev
+2025,2025-03-19,M,1000,96,R64,3,Hard,Gael Monfils,Jiri Lehecka
+2025,2025-03-19,M,1000,96,R64,3,Hard,Jaume Munar,Daniil Medvedev
+2025,2025-03-19,M,1000,96,R16,3,Hard,Jakub Mensik,Tomas Machac
+2025,2025-03-19,M,1000,96,R32,3,Hard,Sebastian Korda,Stefanos Tsitsipas
+2025,2025-03-19,M,1000,96,R128,3,Hard,Federico Cina,Francisco Comesana
+2025,2025-03-19,M,1000,96,R64,3,Hard,Jordan Thompson,Giovanni Mpetshi Perricard
+2025,2025-03-19,M,1000,96,R64,3,Hard,Alex de Minaur,Yunchaokete Bu
+2025,2025-03-19,M,1000,96,R128,3,Hard,Eliot Spizzirri,Billy Harris
+2025,2025-03-19,M,1000,96,R16,3,Hard,Novak Djokovic,Lorenzo Musetti
+2025,2025-03-19,M,1000,96,QF,3,Hard,Taylor Fritz,Matteo Berrettini
+2025,2025-03-19,M,1000,96,R64,3,Hard,Lorenzo Musetti,Quentin Halys
+2025,2025-03-19,M,1000,96,R128,3,Hard,Alexandre Muller,Rei Sakamoto
+2025,2025-03-19,M,1000,96,R32,3,Hard,Francisco Cerundolo,Tommy Paul
+2025,2025-03-19,M,1000,96,R64,3,Hard,Arthur Fils,Gabriel Diallo
+2025,2025-03-19,M,1000,96,R128,3,Hard,David Goffin,Aleksandar Vukic
+2025,2025-03-19,M,1000,96,R64,3,Hard,David Goffin,Carlos Alcaraz
+2025,2025-03-19,M,1000,96,R32,3,Hard,Joao Fonseca,Alex de Minaur
+2025,2025-03-19,M,1000,96,R64,3,Hard,Tommy Paul,Alexander Bublik
+2025,2025-03-19,M,1000,96,R32,3,Hard,Tomas Machac,Reilly Opelka
+2025,2025-03-19,M,1000,96,R64,3,Hard,Roman Safiullin,Alexei Popyrin
+2025,2025-03-19,M,1000,96,R64,3,Hard,Novak Djokovic,Rinky Hijikata
+2025,2025-03-19,M,1000,96,R128,3,Hard,Rinky Hijikata,Hamad Medjedovic
+2025,2025-03-19,M,1000,96,SF,3,Hard,Jakub Mensik,Taylor Fritz
+2025,2025-03-19,M,1000,96,R16,3,Hard,Francisco Cerundolo,Casper Ruud
+2025,2025-03-19,M,1000,96,R64,3,Hard,Coleman Wong,Ben Shelton
+2025,2025-03-19,M,1000,96,R128,3,Hard,Tristan Schoolkate,Ethan Quinn
+2025,2025-03-19,M,1000,96,R64,3,Hard,Adam Walton,Luciano Darderi
+2025,2025-03-19,M,1000,96,R16,3,Hard,Grigor Dimitrov,Brandon Nakashima
+2025,2025-03-19,M,1000,96,SF,3,Hard,Novak Djokovic,Grigor Dimitrov
+2025,2025-03-19,M,1000,96,R64,3,Hard,Camilo Ugo Carabelli,Alex Michelsen
+2025,2025-03-19,M,1000,96,R128,3,Hard,Jaume Munar,Arthur Rinderknech
+2025,2025-03-19,M,1000,96,R128,3,Hard,Jakub Mensik,Roberto Bautista Agut
+2025,2025-03-19,M,1000,96,R128,3,Hard,Lorenzo Sonego,Mariano Navone
+2025,2025-03-19,M,1000,96,R64,3,Hard,Jakub Mensik,Jack Draper
+2025,2025-03-19,M,1000,96,R32,3,Hard,Jakub Mensik,Roman Safiullin
+2025,2025-03-19,M,1000,96,R64,3,Hard,Francisco Cerundolo,Alexandre Muller
+2025,2025-03-19,M,1000,96,R32,3,Hard,Matteo Berrettini,Zizou Bergs
+2025,2025-03-19,M,1000,96,R128,3,Hard,Matteo Arnaldi,Yibing Wu
+2025,2025-03-19,M,1000,96,R64,3,Hard,Brandon Nakashima,Roberto Carballes Baena
+2025,2025-03-19,M,1000,96,R64,3,Hard,Frances Tiafoe,Alejandro Davidovich Fokina
+2025,2025-03-31,A,250,28,R16,3,Clay,Mattia Bellucci,Pierre-Hugues Herbert
+2025,2025-03-31,A,250,28,SF,3,Clay,Frances Tiafoe,Brandon Nakashima
+2025,2025-03-31,A,250,28,R16,3,Clay,Frances Tiafoe,Adam Walton
+2025,2025-03-31,A,250,28,SF,3,Clay,Sebastian Baez,Marton Fucsovics
+2025,2025-03-31,A,250,28,R32,3,Clay,Otto Virtanen,Daniel Altmaier
+2025,2025-03-31,A,250,28,R16,3,Clay,Damir Dzumhur,Filip Cristian Jianu
+2025,2025-03-31,A,250,28,QF,3,Clay,Kamil Majchrzak,Alexandre Muller
+2025,2025-03-31,A,250,28,R32,3,Clay,Marton Fucsovics,Luca Nardi
+2025,2025-03-31,A,250,28,R32,3,Clay,Ethan Quinn,Jordan Thompson
+2025,2025-03-31,A,250,28,R16,3,Clay,Nuno Borges,Raphael Collignon
+2025,2025-03-31,A,250,28,R32,3,Clay,Hugo Gaston,Juan Manuel Cerundolo
+2025,2025-03-31,A,250,28,R32,3,Clay,Francisco Comesana,Martin Klizan
+2025,2025-03-31,A,250,28,R32,3,Clay,Aleksandar Kovacevic,Tomas Martin Etcheverry
+2025,2025-03-31,A,250,28,R32,3,Clay,Corentin Denolly,Brandon Holt
+2025,2025-03-31,A,250,28,R32,3,Clay,Roberto Bautista Agut,Yunchaokete Bu
+2025,2025-03-31,A,250,28,R32,3,Clay,Luciano Darderi,Tristan Boyer
+2025,2025-03-31,A,250,28,R16,3,Clay,Roberto Carballes Baena,Otto Virtanen
+2025,2025-03-31,A,250,28,R32,3,Clay,Colton Smith,James Duckworth
+2025,2025-03-31,A,250,28,R32,3,Clay,Mariano Navone,Laslo Djere
+2025,2025-03-31,A,250,28,QF,3,Clay,Tallon Griekspoor,Mattia Bellucci
+2025,2025-03-31,A,250,28,R16,3,Clay,Pedro Martinez,Stan Wawrinka
+2025,2025-03-31,A,250,28,R32,3,Clay,Roberto Carballes Baena,Taha Baadi
+2025,2025-03-31,A,250,28,SF,3,Clay,Flavio Cobolli,Damir Dzumhur
+2025,2025-03-31,A,250,28,R16,3,Clay,Alex Michelsen,Adrian Mannarino
+2025,2025-03-31,A,250,28,SF,3,Clay,Jenson Brooksby,Tommy Paul
+2025,2025-03-31,A,250,28,R16,3,Clay,Tallon Griekspoor,Pablo Carreno Busta
+2025,2025-03-31,A,250,28,SF,3,Clay,Luciano Darderi,Roberto Carballes Baena
+2025,2025-03-31,A,250,28,R16,3,Clay,Colton Smith,Ethan Quinn
+2025,2025-03-31,A,250,28,R32,3,Clay,Camilo Ugo Carabelli,Radu Albot
+2025,2025-03-31,A,250,28,R16,3,Clay,Vit Kopriva,Lorenzo Sonego
+2025,2025-03-31,A,250,28,R16,3,Clay,Sebastian Baez,Gabriel Diallo
+2025,2025-03-31,A,250,28,R32,3,Clay,Christopher Eubanks,Rinky Hijikata
+2025,2025-03-31,A,250,28,QF,3,Clay,Jenson Brooksby,Aleksandar Kovacevic
+2025,2025-03-31,A,250,28,R16,3,Clay,Brandon Nakashima,Mackenzie McDonald
+2025,2025-03-31,A,250,28,R32,3,Clay,Damir Dzumhur,Valentin Vacherot
+2025,2025-03-31,A,250,28,R32,3,Clay,Mattia Bellucci,Pavel Kotov
+2025,2025-03-31,A,250,28,QF,3,Clay,Sebastian Baez,Francisco Comesana
+2025,2025-03-31,A,250,28,R32,3,Clay,Kamil Majchrzak,Jaume Munar
+2025,2025-03-31,A,250,28,R32,3,Clay,Adrian Mannarino,Yannick Hanfmann
+2025,2025-03-31,A,250,28,R16,3,Clay,Filip Misolic,Camilo Ugo Carabelli
+2025,2025-03-31,A,250,28,R16,3,Clay,Flavio Cobolli,Richard Gasquet
+2025,2025-03-31,A,250,28,R32,3,Clay,Alex Michelsen,Learner Tien
+2025,2025-03-31,A,250,28,R32,3,Clay,Jesper de Jong,Elliot Benchetrit
+2025,2025-03-31,A,250,28,QF,3,Clay,Marton Fucsovics,Christopher O'Connell
+2025,2025-03-31,A,250,28,R32,3,Clay,Pierre-Hugues Herbert,Federico Coria
+2025,2025-03-31,A,250,28,R32,3,Clay,Filip Cristian Jianu,Nishesh Basavareddy
+2025,2025-03-31,A,250,28,R16,3,Clay,Christopher Eubanks,Kei Nishikori
+2025,2025-03-31,A,250,28,QF,3,Clay,Tommy Paul,Colton Smith
+2025,2025-03-31,A,250,28,R32,3,Clay,Kei Nishikori,Mitchell Krueger
+2025,2025-03-31,A,250,28,R16,3,Clay,Francisco Comesana,Roberto Bautista Agut
+2025,2025-03-31,A,250,28,R16,3,Clay,Luciano Darderi,Hugo Gaston
+2025,2025-03-31,A,250,28,R32,3,Clay,Filip Misolic,Alexander Shevchenko
+2025,2025-03-31,A,250,28,R16,3,Clay,Tommy Paul,Cristian Garin
+2025,2025-03-31,A,250,28,SF,3,Clay,Tallon Griekspoor,Kamil Majchrzak
+2025,2025-03-31,A,250,28,R32,3,Clay,Pablo Carreno Busta,Younes Lalami Laaroussi
+2025,2025-03-31,A,250,28,R32,3,Clay,Richard Gasquet,Botic van de Zandschulp
+2025,2025-03-31,A,250,28,R32,3,Clay,Stan Wawrinka,Timofey Skatov
+2025,2025-03-31,A,250,28,F,3,Clay,Luciano Darderi,Tallon Griekspoor
+2025,2025-03-31,A,250,28,R16,3,Clay,Christopher O'Connell,Nicolas Jarry
+2025,2025-03-31,A,250,28,R32,3,Clay,Hugo Dellien,Aleksandar Vukic
+2025,2025-03-31,A,250,28,QF,3,Clay,Flavio Cobolli,Filip Misolic
+2025,2025-03-31,A,250,28,R16,3,Clay,Aleksandar Kovacevic,Corentin Denolly
+2025,2025-03-31,A,250,28,QF,3,Clay,Frances Tiafoe,Alex Michelsen
+2025,2025-03-31,A,250,28,QF,3,Clay,Brandon Nakashima,Christopher Eubanks
+2025,2025-03-31,A,250,28,R16,3,Clay,Jenson Brooksby,Alejandro Tabilo
+2025,2025-03-31,A,250,28,QF,3,Clay,Damir Dzumhur,Pedro Martinez
+2025,2025-03-31,A,250,28,R16,3,Clay,Marton Fucsovics,Mariano Navone
+2025,2025-03-31,A,250,28,R32,3,Clay,Adam Walton,Michael Mmoh
+2025,2025-03-31,A,250,28,R32,3,Clay,Mackenzie McDonald,Daniel Elahi Galan
+2025,2025-03-31,A,250,28,R32,3,Clay,Cristian Garin,Alexander Ritschard
+2025,2025-03-31,A,250,28,F,3,Clay,Jenson Brooksby,Frances Tiafoe
+2025,2025-03-31,A,250,28,R32,3,Clay,Jenson Brooksby,Taro Daniel
+2025,2025-03-31,A,250,28,R16,3,Clay,Kamil Majchrzak,Jesper de Jong
+2025,2025-03-31,A,250,28,QF,3,Clay,Luciano Darderi,Vit Kopriva
+2025,2025-03-31,A,250,28,QF,3,Clay,Roberto Carballes Baena,Nuno Borges
+2025,2025-03-31,A,250,28,R32,3,Clay,Christopher O'Connell,Dusan Lajovic
+2025,2025-03-31,A,250,28,R16,3,Clay,Alexandre Muller,Hugo Dellien
+2025,2025-03-31,A,250,28,F,3,Clay,Flavio Cobolli,Sebastian Baez
+2025,2025-03-31,A,250,28,R32,3,Clay,Vit Kopriva,Borna Gojo
+2025,2025-03-31,A,250,28,R32,3,Clay,Raphael Collignon,Fabio Fognini
+2025,2025-03-31,A,250,28,R32,3,Clay,Gabriel Diallo,Chun-Hsin Tseng
+2025,2025-04-06,M,1000,56,R32,3,Clay,Daniel Altmaier,Richard Gasquet
+2025,2025-04-06,M,1000,56,R32,3,Clay,Alexei Popyrin,Frances Tiafoe
+2025,2025-04-06,M,1000,56,R64,3,Clay,Alejandro Davidovich Fokina,Ben Shelton
+2025,2025-04-06,M,1000,56,QF,3,Clay,Alejandro Davidovich Fokina,Alexei Popyrin
+2025,2025-04-06,M,1000,56,R16,3,Clay,Grigor Dimitrov,Alejandro Tabilo
+2025,2025-04-06,M,1000,56,R64,3,Clay,Tomas Machac,Sebastian Baez
+2025,2025-04-06,M,1000,56,R16,3,Clay,Alex de Minaur,Daniil Medvedev
+2025,2025-04-06,M,1000,56,QF,3,Clay,Carlos Alcaraz,Arthur Fils
+2025,2025-04-06,M,1000,56,R64,3,Clay,Tomas Martin Etcheverry,Corentin Moutet
+2025,2025-04-06,M,1000,56,R32,3,Clay,Casper Ruud,Roberto Bautista Agut
+2025,2025-04-06,M,1000,56,R32,3,Clay,Carlos Alcaraz,Francisco Cerundolo
+2025,2025-04-06,M,1000,56,R64,3,Clay,Gael Monfils,Fabian Marozsan
+2025,2025-04-06,M,1000,56,R32,3,Clay,Matteo Berrettini,Alexander Zverev
+2025,2025-04-06,M,1000,56,R64,3,Clay,Alejandro Tabilo,Stan Wawrinka
+2025,2025-04-06,M,1000,56,R64,3,Clay,Nuno Borges,Holger Rune
+2025,2025-04-06,M,1000,56,R64,3,Clay,Richard Gasquet,Matteo Arnaldi
+2025,2025-04-06,M,1000,56,R32,3,Clay,Alejandro Tabilo,Novak Djokovic
+2025,2025-04-06,M,1000,56,R32,3,Clay,Grigor Dimitrov,Valentin Vacherot
+2025,2025-04-06,M,1000,56,R64,3,Clay,Daniel Altmaier,Felix Auger-Aliassime
+2025,2025-04-06,M,1000,56,R64,3,Clay,Pedro Martinez,Lorenzo Sonego
+2025,2025-04-06,M,1000,56,R32,3,Clay,Lorenzo Musetti,Jiri Lehecka
+2025,2025-04-06,M,1000,56,F,3,Clay,Carlos Alcaraz,Lorenzo Musetti
+2025,2025-04-06,M,1000,56,R64,3,Clay,Jordan Thompson,Giovanni Mpetshi Perricard
+2025,2025-04-06,M,1000,56,R64,3,Clay,Grigor Dimitrov,Nicolas Jarry
+2025,2025-04-06,M,1000,56,R16,3,Clay,Arthur Fils,Andrey Rublev
+2025,2025-04-06,M,1000,56,SF,3,Clay,Lorenzo Musetti,Alex de Minaur
+2025,2025-04-06,M,1000,56,R32,3,Clay,Daniil Medvedev,Alexandre Muller
+2025,2025-04-06,M,1000,56,R64,3,Clay,Jiri Lehecka,Sebastian Korda
+2025,2025-04-06,M,1000,56,R32,3,Clay,Nuno Borges,Pedro Martinez
+2025,2025-04-06,M,1000,56,R64,3,Clay,Arthur Fils,Tallon Griekspoor
+2025,2025-04-06,M,1000,56,R64,3,Clay,Flavio Cobolli,Dusan Lajovic
+2025,2025-04-06,M,1000,56,R32,3,Clay,Stefanos Tsitsipas,Jordan Thompson
+2025,2025-04-06,M,1000,56,R64,3,Clay,Lorenzo Musetti,Yunchaokete Bu
+2025,2025-04-06,M,1000,56,R64,3,Clay,Francisco Cerundolo,Fabio Fognini
+2025,2025-04-06,M,1000,56,R32,3,Clay,Alex de Minaur,Tomas Machac
+2025,2025-04-06,M,1000,56,R64,3,Clay,Roberto Bautista Agut,Brandon Nakashima
+2025,2025-04-06,M,1000,56,SF,3,Clay,Carlos Alcaraz,Alejandro Davidovich Fokina
+2025,2025-04-06,M,1000,56,R16,3,Clay,Carlos Alcaraz,Daniel Altmaier
+2025,2025-04-06,M,1000,56,R64,3,Clay,Valentin Vacherot,Jan-Lennard Struff
+2025,2025-04-06,M,1000,56,R32,3,Clay,Jack Draper,Marcos Giron
+2025,2025-04-06,M,1000,56,R64,3,Clay,Marcos Giron,Denis Shapovalov
+2025,2025-04-06,M,1000,56,R16,3,Clay,Lorenzo Musetti,Matteo Berrettini
+2025,2025-04-06,M,1000,56,R32,3,Clay,Andrey Rublev,Gael Monfils
+2025,2025-04-06,M,1000,56,R64,3,Clay,Alexandre Muller,Camilo Ugo Carabelli
+2025,2025-04-06,M,1000,56,R16,3,Clay,Alejandro Davidovich Fokina,Jack Draper
+2025,2025-04-06,M,1000,56,QF,3,Clay,Lorenzo Musetti,Stefanos Tsitsipas
+2025,2025-04-06,M,1000,56,R64,3,Clay,Alexei Popyrin,Ugo Humbert
+2025,2025-04-06,M,1000,56,R64,3,Clay,Frances Tiafoe,Miomir Kecmanovic
+2025,2025-04-06,M,1000,56,QF,3,Clay,Alex de Minaur,Grigor Dimitrov
+2025,2025-04-06,M,1000,56,R16,3,Clay,Alexei Popyrin,Casper Ruud
+2025,2025-04-06,M,1000,56,R64,3,Clay,Daniil Medvedev,Karen Khachanov
+2025,2025-04-06,M,1000,56,R32,3,Clay,Arthur Fils,Flavio Cobolli
+2025,2025-04-06,M,1000,56,R16,3,Clay,Stefanos Tsitsipas,Nuno Borges
+2025,2025-04-06,M,1000,56,R64,3,Clay,Matteo Berrettini,Mariano Navone
+2025,2025-04-06,M,1000,56,R32,3,Clay,Alejandro Davidovich Fokina,Tomas Martin Etcheverry
+2025,2025-04-14,A,500,32,R32,3,Clay,Tallon Griekspoor,Learner Tien
+2025,2025-04-14,A,500,32,R32,3,Clay,Zizou Bergs,Alexander Bublik
+2025,2025-04-14,A,500,32,R32,3,Clay,Carlos Alcaraz,Ethan Quinn
+2025,2025-04-14,A,500,32,R16,3,Clay,Luciano Darderi,Miomir Kecmanovic
+2025,2025-04-14,A,500,32,R32,3,Clay,Stefanos Tsitsipas,Reilly Opelka
+2025,2025-04-14,A,500,32,SF,3,Clay,Alexander Zverev,Fabian Marozsan
+2025,2025-04-14,A,500,32,R32,3,Clay,Sebastian Korda,Matteo Arnaldi
+2025,2025-04-14,A,500,32,SF,3,Clay,Ben Shelton,Francisco Cerundolo
+2025,2025-04-14,A,500,32,R16,3,Clay,Ben Shelton,Botic van de Zandschulp
+2025,2025-04-14,A,500,32,R32,3,Clay,Laslo Djere,Arthur Rinderknech
+2025,2025-04-14,A,500,32,F,3,Clay,Holger Rune,Carlos Alcaraz
+2025,2025-04-14,A,500,32,R32,3,Clay,Diego Dedura,Denis Shapovalov
+2025,2025-04-14,A,500,32,R32,3,Clay,Yannick Hanfmann,Jakub Mensik
+2025,2025-04-14,A,500,32,R32,3,Clay,Hamad Medjedovic,Giovanni Mpetshi Perricard
+2025,2025-04-14,A,500,32,R16,3,Clay,Francisco Cerundolo,Alexander Shevchenko
+2025,2025-04-14,A,500,32,QF,3,Clay,Alexander Zverev,Tallon Griekspoor
+2025,2025-04-14,A,500,32,R32,3,Clay,Alejandro Davidovich Fokina,Stan Wawrinka
+2025,2025-04-14,A,500,32,R32,3,Clay,Luciano Darderi,Christopher O'Connell
+2025,2025-04-14,A,500,32,R16,3,Clay,Alexander Zverev,Daniel Altmaier
+2025,2025-04-14,A,500,32,R32,3,Clay,Francisco Cerundolo,Jan-Lennard Struff
+2025,2025-04-14,A,500,32,QF,3,Clay,Karen Khachanov,Alejandro Davidovich Fokina
+2025,2025-04-14,A,500,32,R16,3,Clay,Stefanos Tsitsipas,Sebastian Korda
+2025,2025-04-14,A,500,32,R16,3,Clay,Arthur Fils,Pedro Martinez
+2025,2025-04-14,A,500,32,R32,3,Clay,Alexander Shevchenko,Flavio Cobolli
+2025,2025-04-14,A,500,32,QF,3,Clay,Holger Rune,Casper Ruud
+2025,2025-04-14,A,500,32,R16,3,Clay,Tallon Griekspoor,Yannick Hanfmann
+2025,2025-04-14,A,500,32,R32,3,Clay,Miomir Kecmanovic,Marcos Giron
+2025,2025-04-14,A,500,32,QF,3,Clay,Fabian Marozsan,Zizou Bergs
+2025,2025-04-14,A,500,32,R32,3,Clay,Andrey Rublev,Jesper de Jong
+2025,2025-04-14,A,500,32,R32,3,Clay,Casper Ruud,Daniel Elahi Galan
+2025,2025-04-14,A,500,32,R16,3,Clay,David Goffin,Mariano Navone
+2025,2025-04-14,A,500,32,R16,3,Clay,Carlos Alcaraz,Laslo Djere
+2025,2025-04-14,A,500,32,QF,3,Clay,Francisco Cerundolo,David Goffin
+2025,2025-04-14,A,500,32,R32,3,Clay,Jaume Munar,Frances Tiafoe
+2025,2025-04-14,A,500,32,R16,3,Clay,Fabian Marozsan,Ugo Humbert
+2025,2025-04-14,A,500,32,R16,3,Clay,Karen Khachanov,Jaume Munar
+2025,2025-04-14,A,500,32,R32,3,Clay,Botic van de Zandschulp,Roberto Bautista Agut
+2025,2025-04-14,A,500,32,R32,3,Clay,David Goffin,Billy Harris
+2025,2025-04-14,A,500,32,QF,3,Clay,Carlos Alcaraz,Alex de Minaur
+2025,2025-04-14,A,500,32,R32,3,Clay,Holger Rune,Albert Ramos-Vinolas
+2025,2025-04-14,A,500,32,R32,3,Clay,Sebastian Baez,Damir Dzumhur
+2025,2025-04-14,A,500,32,R32,3,Clay,Mariano Navone,Felix Auger-Aliassime
+2025,2025-04-14,A,500,32,QF,3,Clay,Arthur Fils,Stefanos Tsitsipas
+2025,2025-04-14,A,500,32,R16,3,Clay,Alejandro Davidovich Fokina,Andrey Rublev
+2025,2025-04-14,A,500,32,R32,3,Clay,Ben Shelton,Borna Gojo
+2025,2025-04-14,A,500,32,R16,3,Clay,Zizou Bergs,Diego Dedura
+2025,2025-04-14,A,500,32,QF,3,Clay,Ben Shelton,Luciano Darderi
+2025,2025-04-14,A,500,32,R32,3,Clay,Karen Khachanov,Cameron Norrie
+2025,2025-04-14,A,500,32,R16,3,Clay,Alex de Minaur,Jacob Fearnley
+2025,2025-04-14,A,500,32,R16,3,Clay,Holger Rune,Sebastian Baez
+2025,2025-04-14,A,500,32,SF,3,Clay,Carlos Alcaraz,Arthur Fils
+2025,2025-04-14,A,500,32,R32,3,Clay,Ugo Humbert,Nicolas Jarry
+2025,2025-04-14,A,500,32,R32,3,Clay,Jacob Fearnley,Roberto Carballes Baena
+2025,2025-04-14,A,500,32,R32,3,Clay,Pedro Martinez,Brandon Nakashima
+2025,2025-04-14,A,500,32,R32,3,Clay,Alexander Zverev,Alexandre Muller
+2025,2025-04-14,A,500,32,R32,3,Clay,Daniel Altmaier,Chun-Hsin Tseng
+2025,2025-04-14,A,500,32,R32,3,Clay,Arthur Fils,Pablo Carreno Busta
+2025,2025-04-14,A,500,32,F,3,Clay,Alexander Zverev,Ben Shelton
+2025,2025-04-14,A,500,32,R32,3,Clay,Alex de Minaur,Tomas Martin Etcheverry
+2025,2025-04-14,A,500,32,SF,3,Clay,Holger Rune,Karen Khachanov
+2025,2025-04-14,A,500,32,R32,3,Clay,Fabian Marozsan,Justin Engel
+2025,2025-04-14,A,500,32,R16,3,Clay,Casper Ruud,Hamad Medjedovic
+2025,2025-04-23,M,1000,96,R32,3,Clay,Lorenzo Musetti,Stefanos Tsitsipas
+2025,2025-04-23,M,1000,96,R16,3,Clay,Matteo Arnaldi,Frances Tiafoe
+2025,2025-04-23,M,1000,96,R128,3,Clay,Reilly Opelka,Rinky Hijikata
+2025,2025-04-23,M,1000,96,R64,3,Clay,Daniil Medvedev,Laslo Djere
+2025,2025-04-23,M,1000,96,R128,3,Clay,Jan-Lennard Struff,Botic van de Zandschulp
+2025,2025-04-23,M,1000,96,R64,3,Clay,Frances Tiafoe,Luciano Darderi
+2025,2025-04-23,M,1000,96,QF,3,Clay,Casper Ruud,Daniil Medvedev
+2025,2025-04-23,M,1000,96,R32,3,Clay,Tommy Paul,Karen Khachanov
+2025,2025-04-23,M,1000,96,R64,3,Clay,Alejandro Davidovich Fokina,Nuno Borges
+2025,2025-04-23,M,1000,96,R128,3,Clay,Nicolas Jarry,Daniel Altmaier
+2025,2025-04-23,M,1000,96,R64,3,Clay,Jack Draper,Tallon Griekspoor
+2025,2025-04-23,M,1000,96,R16,3,Clay,Jakub Mensik,Alexander Bublik
+2025,2025-04-23,M,1000,96,R16,3,Clay,Francisco Cerundolo,Alexander Zverev
+2025,2025-04-23,M,1000,96,R64,3,Clay,Matteo Berrettini,Marcos Giron
+2025,2025-04-23,M,1000,96,R128,3,Clay,Roberto Bautista Agut,Jaume Munar
+2025,2025-04-23,M,1000,96,R64,3,Clay,Alexander Zverev,Roberto Bautista Agut
+2025,2025-04-23,M,1000,96,R32,3,Clay,Jack Draper,Matteo Berrettini
+2025,2025-04-23,M,1000,96,R128,3,Clay,Mariano Navone,Giovanni Mpetshi Perricard
+2025,2025-04-23,M,1000,96,QF,3,Clay,Francisco Cerundolo,Jakub Mensik
+2025,2025-04-23,M,1000,96,R64,3,Clay,Alexandre Muller,Ugo Humbert
+2025,2025-04-23,M,1000,96,R64,3,Clay,Juan Manuel Cerundolo,Felix Auger-Aliassime
+2025,2025-04-23,M,1000,96,R16,3,Clay,Jack Draper,Tommy Paul
+2025,2025-04-23,M,1000,96,R128,3,Clay,Harold Mayot,Corentin Moutet
+2025,2025-04-23,M,1000,96,R128,3,Clay,Arthur Rinderknech,Roman Safiullin
+2025,2025-04-23,M,1000,96,R32,3,Clay,Alex de Minaur,Denis Shapovalov
+2025,2025-04-23,M,1000,96,R128,3,Clay,Juan Manuel Cerundolo,Aleksandar Kovacevic
+2025,2025-04-23,M,1000,96,R128,3,Clay,Ethan Quinn,Dusan Lajovic
+2025,2025-04-23,M,1000,96,R32,3,Clay,Brandon Nakashima,Flavio Cobolli
+2025,2025-04-23,M,1000,96,R64,3,Clay,Francisco Comesana,Arthur Fils
+2025,2025-04-23,M,1000,96,R64,3,Clay,Cameron Norrie,Jiri Lehecka
+2025,2025-04-23,M,1000,96,R32,3,Clay,Alexander Bublik,Andrey Rublev
+2025,2025-04-23,M,1000,96,R64,3,Clay,Stefanos Tsitsipas,Jan-Lennard Struff
+2025,2025-04-23,M,1000,96,R128,3,Clay,Gael Monfils,Borna Gojo
+2025,2025-04-23,M,1000,96,R128,3,Clay,Tallon Griekspoor,Vit Kopriva
+2025,2025-04-23,M,1000,96,R64,3,Clay,Andrey Rublev,Gael Monfils
+2025,2025-04-23,M,1000,96,R128,3,Clay,Christopher O'Connell,Camilo Ugo Carabelli
+2025,2025-04-23,M,1000,96,R16,3,Clay,Gabriel Diallo,Grigor Dimitrov
+2025,2025-04-23,M,1000,96,R64,3,Clay,Sebastian Korda,Federico Cina
+2025,2025-04-23,M,1000,96,R64,3,Clay,Damir Dzumhur,Sebastian Baez
+2025,2025-04-23,M,1000,96,SF,3,Clay,Jack Draper,Lorenzo Musetti
+2025,2025-04-23,M,1000,96,SF,3,Clay,Casper Ruud,Francisco Cerundolo
+2025,2025-04-23,M,1000,96,R128,3,Clay,Matteo Arnaldi,Borna Coric
+2025,2025-04-23,M,1000,96,R64,3,Clay,Matteo Arnaldi,Novak Djokovic
+2025,2025-04-23,M,1000,96,R128,3,Clay,Alexandre Muller,David Goffin
+2025,2025-04-23,M,1000,96,R64,3,Clay,Casper Ruud,Arthur Rinderknech
+2025,2025-04-23,M,1000,96,R16,3,Clay,Lorenzo Musetti,Alex de Minaur
+2025,2025-04-23,M,1000,96,R64,3,Clay,Alexander Bublik,Alexei Popyrin
+2025,2025-04-23,M,1000,96,R64,3,Clay,Lorenzo Musetti,Tomas Martin Etcheverry
+2025,2025-04-23,M,1000,96,R32,3,Clay,Jakub Mensik,Ben Shelton
+2025,2025-04-23,M,1000,96,R64,3,Clay,Gabriel Diallo,Kamil Majchrzak
+2025,2025-04-23,M,1000,96,R128,3,Clay,Gabriel Diallo,Zizou Bergs
+2025,2025-04-23,M,1000,96,R64,3,Clay,Francisco Cerundolo,Harold Mayot
+2025,2025-04-23,M,1000,96,R32,3,Clay,Daniil Medvedev,Juan Manuel Cerundolo
+2025,2025-04-23,M,1000,96,R128,3,Clay,Damir Dzumhur,Mattia Bellucci
+2025,2025-04-23,M,1000,96,R128,3,Clay,Cameron Norrie,Martin Landaluce
+2025,2025-04-23,M,1000,96,R64,3,Clay,Grigor Dimitrov,Nicolas Jarry
+2025,2025-04-23,M,1000,96,R64,3,Clay,Jakub Mensik,Ethan Quinn
+2025,2025-04-23,M,1000,96,R32,3,Clay,Casper Ruud,Sebastian Korda
+2025,2025-04-23,M,1000,96,F,3,Clay,Casper Ruud,Jack Draper
+2025,2025-04-23,M,1000,96,R64,3,Clay,Alex de Minaur,Lorenzo Sonego
+2025,2025-04-23,M,1000,96,R128,3,Clay,Lorenzo Sonego,Miomir Kecmanovic
+2025,2025-04-23,M,1000,96,R64,3,Clay,Taylor Fritz,Christopher O'Connell
+2025,2025-04-23,M,1000,96,R128,3,Clay,Luciano Darderi,Quentin Halys
+2025,2025-04-23,M,1000,96,R32,3,Clay,Francisco Cerundolo,Francisco Comesana
+2025,2025-04-23,M,1000,96,R128,3,Clay,Flavio Cobolli,Fabian Marozsan
+2025,2025-04-23,M,1000,96,R128,3,Clay,Benjamin Bonzi,Marin Cilic
+2025,2025-04-23,M,1000,96,R32,3,Clay,Alexander Zverev,Alejandro Davidovich Fokina
+2025,2025-04-23,M,1000,96,R64,3,Clay,Benjamin Bonzi,Hubert Hurkacz
+2025,2025-04-23,M,1000,96,R64,3,Clay,Denis Shapovalov,Kei Nishikori
+2025,2025-04-23,M,1000,96,R128,3,Clay,Marcos Giron,Learner Tien
+2025,2025-04-23,M,1000,96,R128,3,Clay,Alexander Bublik,Alex Michelsen
+2025,2025-04-23,M,1000,96,R32,3,Clay,Taylor Fritz,Benjamin Bonzi
+2025,2025-04-23,M,1000,96,R64,3,Clay,Ben Shelton,Mariano Navone
+2025,2025-04-23,M,1000,96,R64,3,Clay,Jacob Fearnley,Tomas Machac
+2025,2025-04-23,M,1000,96,QF,3,Clay,Lorenzo Musetti,Gabriel Diallo
+2025,2025-04-23,M,1000,96,R64,3,Clay,Karen Khachanov,Reilly Opelka
+2025,2025-04-23,M,1000,96,R64,3,Clay,Brandon Nakashima,Sebastian Ofner
+2025,2025-04-23,M,1000,96,R16,3,Clay,Daniil Medvedev,Brandon Nakashima
+2025,2025-04-23,M,1000,96,R128,3,Clay,Federico Cina,Coleman Wong
+2025,2025-04-23,M,1000,96,R128,3,Clay,Sebastian Ofner,Hugo Gaston
+2025,2025-04-23,M,1000,96,R128,3,Clay,Laslo Djere,Fabio Fognini
+2025,2025-04-23,M,1000,96,R128,3,Clay,Nuno Borges,Pablo Carreno Busta
+2025,2025-04-23,M,1000,96,R32,3,Clay,Gabriel Diallo,Cameron Norrie
+2025,2025-04-23,M,1000,96,R32,3,Clay,Matteo Arnaldi,Damir Dzumhur
+2025,2025-04-23,M,1000,96,R128,3,Clay,Francisco Comesana,Pedro Martinez
+2025,2025-04-23,M,1000,96,R32,3,Clay,Frances Tiafoe,Alexandre Muller
+2025,2025-04-23,M,1000,96,R32,3,Clay,Grigor Dimitrov,Jacob Fearnley
+2025,2025-04-23,M,1000,96,R128,3,Clay,Jacob Fearnley,Yunchaokete Bu
+2025,2025-04-23,M,1000,96,R128,3,Clay,Tomas Martin Etcheverry,Hamad Medjedovic
+2025,2025-04-23,M,1000,96,R16,3,Clay,Casper Ruud,Taylor Fritz
+2025,2025-04-23,M,1000,96,R64,3,Clay,Flavio Cobolli,Holger Rune
+2025,2025-04-23,M,1000,96,R128,3,Clay,Joao Fonseca,Elmer Moller
+2025,2025-04-23,M,1000,96,R64,3,Clay,Tommy Paul,Joao Fonseca
+2025,2025-04-23,M,1000,96,R128,3,Clay,Kei Nishikori,Aleksandar Vukic
+2025,2025-04-23,M,1000,96,QF,3,Clay,Jack Draper,Matteo Arnaldi
+2025,2025-05-07,M,1000,96,R64,3,Clay,Tomas Machac,Learner Tien
+2025,2025-05-07,M,1000,96,R16,3,Clay,Jack Draper,Corentin Moutet
+2025,2025-05-07,M,1000,96,QF,3,Clay,Jannik Sinner,Casper Ruud
+2025,2025-05-07,M,1000,96,R64,3,Clay,Karen Khachanov,Roman Andres Burruchaga
+2025,2025-05-07,M,1000,96,R32,3,Clay,Lorenzo Musetti,Brandon Nakashima
+2025,2025-05-07,M,1000,96,R128,3,Clay,Learner Tien,Reilly Opelka
+2025,2025-05-07,M,1000,96,R128,3,Clay,Fabian Marozsan,Joao Fonseca
+2025,2025-05-07,M,1000,96,R128,3,Clay,Nicolas Jarry,Hugo Gaston
+2025,2025-05-07,M,1000,96,R64,3,Clay,Vit Kopriva,Sebastian Baez
+2025,2025-05-07,M,1000,96,R16,3,Clay,Jannik Sinner,Francisco Cerundolo
+2025,2025-05-07,M,1000,96,R32,3,Clay,Jack Draper,Vit Kopriva
+2025,2025-05-07,M,1000,96,R128,3,Clay,Jaume Munar,Tomas Barrios Vera
+2025,2025-05-07,M,1000,96,R128,3,Clay,Mariano Navone,Federico Cina
+2025,2025-05-07,M,1000,96,R64,3,Clay,Jannik Sinner,Mariano Navone
+2025,2025-05-07,M,1000,96,R64,3,Clay,Jesper de Jong,Alejandro Davidovich Fokina
+2025,2025-05-07,M,1000,96,R128,3,Clay,Tallon Griekspoor,Miomir Kecmanovic
+2025,2025-05-07,M,1000,96,R32,3,Clay,Corentin Moutet,Holger Rune
+2025,2025-05-07,M,1000,96,R16,3,Clay,Casper Ruud,Jaume Munar
+2025,2025-05-07,M,1000,96,R64,3,Clay,Jack Draper,Luciano Darderi
+2025,2025-05-07,M,1000,96,R32,3,Clay,Daniil Medvedev,Alexei Popyrin
+2025,2025-05-07,M,1000,96,R64,3,Clay,Francesco Passaro,Grigor Dimitrov
+2025,2025-05-07,M,1000,96,R128,3,Clay,Carlos Taberner,Aleksandar Kovacevic
+2025,2025-05-07,M,1000,96,QF,3,Clay,Tommy Paul,Hubert Hurkacz
+2025,2025-05-07,M,1000,96,R16,3,Clay,Carlos Alcaraz,Karen Khachanov
+2025,2025-05-07,M,1000,96,R64,3,Clay,Tommy Paul,Roberto Bautista Agut
+2025,2025-05-07,M,1000,96,R128,3,Clay,Corentin Moutet,Rinky Hijikata
+2025,2025-05-07,M,1000,96,R32,3,Clay,Jaume Munar,Sebastian Korda
+2025,2025-05-07,M,1000,96,R64,3,Clay,Daniil Medvedev,Cameron Norrie
+2025,2025-05-07,M,1000,96,R32,3,Clay,Tommy Paul,Tomas Machac
+2025,2025-05-07,M,1000,96,R128,3,Clay,Camilo Ugo Carabelli,Pablo Carreno Busta
+2025,2025-05-07,M,1000,96,R64,3,Clay,Alexander Zverev,Camilo Ugo Carabelli
+2025,2025-05-07,M,1000,96,R64,3,Clay,Francisco Cerundolo,Nicolas Jarry
+2025,2025-05-07,M,1000,96,R64,3,Clay,Fabian Marozsan,Andrey Rublev
+2025,2025-05-07,M,1000,96,R128,3,Clay,Roman Andres Burruchaga,Lorenzo Sonego
+2025,2025-05-07,M,1000,96,R16,3,Clay,Lorenzo Musetti,Daniil Medvedev
+2025,2025-05-07,M,1000,96,SF,3,Clay,Jannik Sinner,Tommy Paul
+2025,2025-05-07,M,1000,96,R64,3,Clay,Carlos Alcaraz,Dusan Lajovic
+2025,2025-05-07,M,1000,96,R128,3,Clay,Dusan Lajovic,Yoshihito Nishioka
+2025,2025-05-07,M,1000,96,R64,3,Clay,Matteo Berrettini,Jacob Fearnley
+2025,2025-05-07,M,1000,96,R64,3,Clay,Casper Ruud,Alexander Bublik
+2025,2025-05-07,M,1000,96,R128,3,Clay,Marcos Giron,Gabriel Diallo
+2025,2025-05-07,M,1000,96,R128,3,Clay,Luciano Darderi,Yunchaokete Bu
+2025,2025-05-07,M,1000,96,R128,3,Clay,Alexander Bublik,Roman Safiullin
+2025,2025-05-07,M,1000,96,R64,3,Clay,Laslo Djere,Alex Michelsen
+2025,2025-05-07,M,1000,96,SF,3,Clay,Carlos Alcaraz,Lorenzo Musetti
+2025,2025-05-07,M,1000,96,R16,3,Clay,Alexander Zverev,Arthur Fils
+2025,2025-05-07,M,1000,96,R64,3,Clay,Jakub Mensik,Matteo Gigante
+2025,2025-05-07,M,1000,96,R64,3,Clay,Sebastian Ofner,Frances Tiafoe
+2025,2025-05-07,M,1000,96,R64,3,Clay,Vilius Gaubas,Denis Shapovalov
+2025,2025-05-07,M,1000,96,R128,3,Clay,Aleksandar Vukic,Nicolas Moreno De Alboran
+2025,2025-05-07,M,1000,96,R32,3,Clay,Alex de Minaur,Hugo Dellien
+2025,2025-05-07,M,1000,96,R64,3,Clay,Alexei Popyrin,Carlos Taberner
+2025,2025-05-07,M,1000,96,R32,3,Clay,Casper Ruud,Matteo Berrettini
+2025,2025-05-07,M,1000,96,R64,3,Clay,Jaume Munar,Ben Shelton
+2025,2025-05-07,M,1000,96,R64,3,Clay,Stefanos Tsitsipas,Alexandre Muller
+2025,2025-05-07,M,1000,96,R128,3,Clay,Jacob Fearnley,Fabio Fognini
+2025,2025-05-07,M,1000,96,R128,3,Clay,Vit Kopriva,Quentin Halys
+2025,2025-05-07,M,1000,96,R32,3,Clay,Hubert Hurkacz,Marcos Giron
+2025,2025-05-07,M,1000,96,R128,3,Clay,Pedro Martinez,Mattia Bellucci
+2025,2025-05-07,M,1000,96,R128,3,Clay,Luca Nardi,Flavio Cobolli
+2025,2025-05-07,M,1000,96,R64,3,Clay,Brandon Nakashima,Jordan Thompson
+2025,2025-05-07,M,1000,96,R32,3,Clay,Jannik Sinner,Jesper de Jong
+2025,2025-05-07,M,1000,96,R64,3,Clay,Hubert Hurkacz,Pedro Martinez
+2025,2025-05-07,M,1000,96,R128,3,Clay,Francesco Passaro,Chun-Hsin Tseng
+2025,2025-05-07,M,1000,96,R64,3,Clay,Marcos Giron,Taylor Fritz
+2025,2025-05-07,M,1000,96,R32,3,Clay,Francisco Cerundolo,Sebastian Ofner
+2025,2025-05-07,M,1000,96,F,3,Clay,Carlos Alcaraz,Jannik Sinner
+2025,2025-05-07,M,1000,96,R128,3,Clay,Otto Virtanen,Hamad Medjedovic
+2025,2025-05-07,M,1000,96,R64,3,Clay,Lorenzo Musetti,Otto Virtanen
+2025,2025-05-07,M,1000,96,R128,3,Clay,Laslo Djere,Tomas Martin Etcheverry
+2025,2025-05-07,M,1000,96,R32,3,Clay,Jakub Mensik,Fabian Marozsan
+2025,2025-05-07,M,1000,96,R64,3,Clay,Arthur Fils,Tallon Griekspoor
+2025,2025-05-07,M,1000,96,R128,3,Clay,Vilius Gaubas,Damir Dzumhur
+2025,2025-05-07,M,1000,96,R64,3,Clay,Sebastian Korda,Aleksandar Vukic
+2025,2025-05-07,M,1000,96,R128,3,Clay,Jordan Thompson,Giovanni Mpetshi Perricard
+2025,2025-05-07,M,1000,96,R64,3,Clay,Holger Rune,Francisco Comesana
+2025,2025-05-07,M,1000,96,QF,3,Clay,Carlos Alcaraz,Jack Draper
+2025,2025-05-07,M,1000,96,R16,3,Clay,Hubert Hurkacz,Jakub Mensik
+2025,2025-05-07,M,1000,96,R128,3,Clay,Francisco Comesana,Daniel Altmaier
+2025,2025-05-07,M,1000,96,R64,3,Clay,Alex de Minaur,Luca Nardi
+2025,2025-05-07,M,1000,96,R32,3,Clay,Arthur Fils,Stefanos Tsitsipas
+2025,2025-05-07,M,1000,96,R128,3,Clay,Alexandre Muller,Jiri Lehecka
+2025,2025-05-07,M,1000,96,R32,3,Clay,Karen Khachanov,Francesco Passaro
+2025,2025-05-07,M,1000,96,R128,3,Clay,Cameron Norrie,Christopher O'Connell
+2025,2025-05-07,M,1000,96,R32,3,Clay,Carlos Alcaraz,Laslo Djere
+2025,2025-05-07,M,1000,96,R128,3,Clay,Sebastian Ofner,Roberto Carballes Baena
+2025,2025-05-07,M,1000,96,R128,3,Clay,Jesper de Jong,Alexander Shevchenko
+2025,2025-05-07,M,1000,96,R128,3,Clay,Roberto Bautista Agut,Matteo Arnaldi
+2025,2025-05-07,M,1000,96,R32,3,Clay,Alexander Zverev,Vilius Gaubas
+2025,2025-05-07,M,1000,96,R64,3,Clay,Hugo Dellien,Thiago Seyboth Wild
+2025,2025-05-07,M,1000,96,R16,3,Clay,Tommy Paul,Alex de Minaur
+2025,2025-05-07,M,1000,96,QF,3,Clay,Lorenzo Musetti,Alexander Zverev
+2025,2025-05-07,M,1000,96,R64,3,Clay,Corentin Moutet,Ugo Humbert
+2025,2025-05-07,M,1000,96,R128,3,Clay,Thiago Seyboth Wild,Nuno Borges
+2025,2025-05-07,M,1000,96,R128,3,Clay,Matteo Gigante,Arthur Rinderknech
+2025,2025-05-18,A,500,32,R32,3,Clay,Luciano Darderi,Diego Dedura
+2025,2025-05-18,A,500,32,R32,3,Clay,Giovanni Mpetshi Perricard,Alexander Bublik
+2025,2025-05-18,A,250,28,QF,3,Clay,Novak Djokovic,Matteo Arnaldi
+2025,2025-05-18,A,500,32,R16,3,Clay,Flavio Cobolli,Alejandro Davidovich Fokina
+2025,2025-05-18,A,500,32,SF,3,Clay,Andrey Rublev,Felix Auger-Aliassime
+2025,2025-05-18,A,250,28,R16,3,Clay,Sebastian Ofner,Nuno Borges
+2025,2025-05-18,A,500,32,SF,3,Clay,Flavio Cobolli,Tomas Martin Etcheverry
+2025,2025-05-18,A,250,28,R16,3,Clay,Karen Khachanov,Kei Nishikori
+2025,2025-05-18,A,250,28,QF,3,Clay,Cameron Norrie,Alexei Popyrin
+2025,2025-05-18,A,500,32,R16,3,Clay,Roberto Bautista Agut,Frances Tiafoe
+2025,2025-05-18,A,500,32,R32,3,Clay,Felix Auger-Aliassime,Daniel Altmaier
+2025,2025-05-18,A,250,28,R32,3,Clay,Cameron Norrie,Dominic Stricker
+2025,2025-05-18,A,500,32,R32,3,Clay,Brandon Nakashima,Raphael Collignon
+2025,2025-05-18,A,250,28,R32,3,Clay,Marton Fucsovics,Zizou Bergs
+2025,2025-05-18,A,500,32,R32,3,Clay,Alejandro Davidovich Fokina,Gael Monfils
+2025,2025-05-18,A,500,32,R16,3,Clay,Tomas Martin Etcheverry,Camilo Ugo Carabelli
+2025,2025-05-18,A,250,28,F,3,Clay,Novak Djokovic,Hubert Hurkacz
+2025,2025-05-18,A,250,28,R32,3,Clay,Quentin Halys,Jaume Munar
+2025,2025-05-18,A,500,32,QF,3,Clay,Felix Auger-Aliassime,Alexandre Muller
+2025,2025-05-18,A,500,32,R32,3,Clay,Camilo Ugo Carabelli,Sebastian Baez
+2025,2025-05-18,A,250,28,R32,3,Clay,Kei Nishikori,Learner Tien
+2025,2025-05-18,A,500,32,R16,3,Clay,Alexandre Muller,Alexander Zverev
+2025,2025-05-18,A,500,32,R16,3,Clay,Felix Auger-Aliassime,Giovanni Mpetshi Perricard
+2025,2025-05-18,A,500,32,R32,3,Clay,Tomas Martin Etcheverry,Francisco Comesana
+2025,2025-05-18,A,500,32,QF,3,Clay,Andrey Rublev,Luciano Darderi
+2025,2025-05-18,A,500,32,R16,3,Clay,Jiri Lehecka,Francisco Cerundolo
+2025,2025-05-18,A,500,32,R32,3,Clay,Flavio Cobolli,Vitaliy Sachko
+2025,2025-05-18,A,500,32,QF,3,Clay,Tomas Martin Etcheverry,Jiri Lehecka
+2025,2025-05-18,A,250,28,R16,3,Clay,Novak Djokovic,Marton Fucsovics
+2025,2025-05-18,A,250,28,SF,3,Clay,Novak Djokovic,Cameron Norrie
+2025,2025-05-18,A,500,32,R16,3,Clay,Andrey Rublev,Justin Engel
+2025,2025-05-18,A,250,28,R32,3,Clay,Hubert Hurkacz,Arthur Cazaux
+2025,2025-05-18,A,250,28,R32,3,Clay,Nuno Borges,Alex Michelsen
+2025,2025-05-18,A,500,32,R32,3,Clay,Roberto Bautista Agut,Marcos Giron
+2025,2025-05-18,A,500,32,R32,3,Clay,Jiri Lehecka,Borna Gojo
+2025,2025-05-18,A,500,32,R32,3,Clay,Francisco Cerundolo,Pedro Martinez
+2025,2025-05-18,A,250,28,R32,3,Clay,Sebastian Ofner,Ivan Gakhov
+2025,2025-05-18,A,500,32,R32,3,Clay,Frances Tiafoe,Yunchaokete Bu
+2025,2025-05-18,A,250,28,R32,3,Clay,Arthur Rinderknech,Miomir Kecmanovic
+2025,2025-05-18,A,250,28,SF,3,Clay,Hubert Hurkacz,Sebastian Ofner
+2025,2025-05-18,A,500,32,R16,3,Clay,Luciano Darderi,Brandon Nakashima
+2025,2025-05-18,A,500,32,QF,3,Clay,Flavio Cobolli,Roberto Bautista Agut
+2025,2025-05-18,A,250,28,R16,3,Clay,Matteo Arnaldi,Fabian Marozsan
+2025,2025-05-18,A,250,28,R16,3,Clay,Hubert Hurkacz,Arthur Rinderknech
+2025,2025-05-18,A,250,28,R32,3,Clay,Jacob Fearnley,Dusan Lajovic
+2025,2025-05-18,A,500,32,R32,3,Clay,Andrey Rublev,Damir Dzumhur
+2025,2025-05-18,A,250,28,R16,3,Clay,Cameron Norrie,Tomas Machac
+2025,2025-05-18,A,500,32,R32,3,Clay,Alexander Zverev,Aleksandar Kovacevic
+2025,2025-05-18,A,250,28,QF,3,Clay,Sebastian Ofner,Karen Khachanov
+2025,2025-05-18,A,250,28,R32,3,Clay,Fabian Marozsan,Karue Sell
+2025,2025-05-18,A,250,28,R32,3,Clay,Matteo Arnaldi,Hugo Gaston
+2025,2025-05-18,A,500,32,R32,3,Clay,Alexandre Muller,Elias Ymer
+2025,2025-05-18,A,250,28,QF,3,Clay,Hubert Hurkacz,Taylor Fritz
+2025,2025-05-18,A,250,28,R16,3,Clay,Alexei Popyrin,Jacob Fearnley
+2025,2025-05-18,A,500,32,F,3,Clay,Flavio Cobolli,Andrey Rublev
+2025,2025-05-18,A,500,32,R32,3,Clay,Justin Engel,Jan-Lennard Struff
+2025,2025-05-18,A,250,28,R32,3,Clay,Alexei Popyrin,Nicolas Jarry
+2025,2025-05-18,A,250,28,R16,3,Clay,Taylor Fritz,Quentin Halys
+2025,2025-05-25,G,GS,128,R128,5,Clay,Juan Manuel Cerundolo,Alex Michelsen
+2025,2025-05-25,G,GS,128,R32,5,Clay,Alexander Zverev,Flavio Cobolli
+2025,2025-05-25,G,GS,128,R128,5,Clay,Reilly Opelka,Rinky Hijikata
+2025,2025-05-25,G,GS,128,R128,5,Clay,Pierre-Hugues Herbert,Benjamin Bonzi
+2025,2025-05-25,G,GS,128,R128,5,Clay,Giovanni Mpetshi Perricard,Zizou Bergs
+2025,2025-05-25,G,GS,128,R64,5,Clay,Matteo Gigante,Stefanos Tsitsipas
+2025,2025-05-25,G,GS,128,R64,5,Clay,Alexander Bublik,Alex de Minaur
+2025,2025-05-25,G,GS,128,R64,5,Clay,Flavio Cobolli,Matteo Arnaldi
+2025,2025-05-25,G,GS,128,R128,5,Clay,Frances Tiafoe,Roman Safiullin
+2025,2025-05-25,G,GS,128,R32,5,Clay,Jannik Sinner,Jiri Lehecka
+2025,2025-05-25,G,GS,128,R64,5,Clay,Alexei Popyrin,Alejandro Tabilo
+2025,2025-05-25,G,GS,128,R128,5,Clay,Casper Ruud,Albert Ramos-Vinolas
+2025,2025-05-25,G,GS,128,R128,5,Clay,Corentin Moutet,Clement Tabur
+2025,2025-05-25,G,GS,128,R128,5,Clay,Flavio Cobolli,Marin Cilic
+2025,2025-05-25,G,GS,128,R128,5,Clay,Matteo Arnaldi,Felix Auger-Aliassime
+2025,2025-05-25,G,GS,128,R128,5,Clay,Novak Djokovic,Mackenzie McDonald
+2025,2025-05-25,G,GS,128,R64,5,Clay,Nuno Borges,Casper Ruud
+2025,2025-05-25,G,GS,128,R128,5,Clay,Nuno Borges,Kyrian Jacquet
+2025,2025-05-25,G,GS,128,F,5,Clay,Carlos Alcaraz,Jannik Sinner
+2025,2025-05-25,G,GS,128,R32,5,Clay,Andrey Rublev,Arthur Fils
+2025,2025-05-25,G,GS,128,R64,5,Clay,Alexander Zverev,Jesper de Jong
+2025,2025-05-25,G,GS,128,R128,5,Clay,Pablo Carreno Busta,Francisco Comesana
+2025,2025-05-25,G,GS,128,R64,5,Clay,Henrique Rocha,Jakub Mensik
+2025,2025-05-25,G,GS,128,R128,5,Clay,Damir Dzumhur,Thiago Agustin Tirante
+2025,2025-05-25,G,GS,128,R64,5,Clay,Ben Shelton,Hugo Gaston
+2025,2025-05-25,G,GS,128,R128,5,Clay,Mariano Navone,Brandon Nakashima
+2025,2025-05-25,G,GS,128,R128,5,Clay,Joao Fonseca,Hubert Hurkacz
+2025,2025-05-25,G,GS,128,R32,5,Clay,Tallon Griekspoor,Ethan Quinn
+2025,2025-05-25,G,GS,128,R128,5,Clay,Hamad Medjedovic,Kamil Majchrzak
+2025,2025-05-25,G,GS,128,R64,5,Clay,Novak Djokovic,Corentin Moutet
+2025,2025-05-25,G,GS,128,R128,5,Clay,Emilio Nava,Botic van de Zandschulp
+2025,2025-05-25,G,GS,128,R16,5,Clay,Alexander Zverev,Tallon Griekspoor
+2025,2025-05-25,G,GS,128,QF,5,Clay,Lorenzo Musetti,Frances Tiafoe
+2025,2025-05-25,G,GS,128,R64,5,Clay,Holger Rune,Emilio Nava
+2025,2025-05-25,G,GS,128,R128,5,Clay,Alejandro Tabilo,Arthur Cazaux
+2025,2025-05-25,G,GS,128,R128,5,Clay,Denis Shapovalov,Pedro Martinez
+2025,2025-05-25,G,GS,128,R128,5,Clay,Gabriel Diallo,Francisco Cerundolo
+2025,2025-05-25,G,GS,128,R128,5,Clay,Marton Fucsovics,Tristan Schoolkate
+2025,2025-05-25,G,GS,128,R32,5,Clay,Frances Tiafoe,Sebastian Korda
+2025,2025-05-25,G,GS,128,R128,5,Clay,Arthur Fils,Nicolas Jarry
+2025,2025-05-25,G,GS,128,R128,5,Clay,Matteo Gigante,Benjamin Hassan
+2025,2025-05-25,G,GS,128,R128,5,Clay,Cameron Norrie,Daniil Medvedev
+2025,2025-05-25,G,GS,128,R128,5,Clay,Alejandro Davidovich Fokina,Pablo Llamas Ruiz
+2025,2025-05-25,G,GS,128,R32,5,Clay,Ben Shelton,Matteo Gigante
+2025,2025-05-25,G,GS,128,R32,5,Clay,Carlos Alcaraz,Damir Dzumhur
+2025,2025-05-25,G,GS,128,R128,5,Clay,Stefanos Tsitsipas,Tomas Martin Etcheverry
+2025,2025-05-25,G,GS,128,R128,5,Clay,Federico Agustin Gomez,Aleksandar Kovacevic
+2025,2025-05-25,G,GS,128,R128,5,Clay,Jiri Lehecka,Jordan Thompson
+2025,2025-05-25,G,GS,128,R128,5,Clay,Jaume Munar,Camilo Ugo Carabelli
+2025,2025-05-25,G,GS,128,R32,5,Clay,Daniel Altmaier,Hamad Medjedovic
+2025,2025-05-25,G,GS,128,R128,5,Clay,Tommy Paul,Elmer Moller
+2025,2025-05-25,G,GS,128,R128,5,Clay,Tallon Griekspoor,Marcos Giron
+2025,2025-05-25,G,GS,128,R128,5,Clay,Filip Misolic,Yunchaokete Bu
+2025,2025-05-25,G,GS,128,R64,5,Clay,Quentin Halys,Miomir Kecmanovic
+2025,2025-05-25,G,GS,128,R128,5,Clay,Alexei Popyrin,Yoshihito Nishioka
+2025,2025-05-25,G,GS,128,QF,5,Clay,Carlos Alcaraz,Tommy Paul
+2025,2025-05-25,G,GS,128,R16,5,Clay,Novak Djokovic,Cameron Norrie
+2025,2025-05-25,G,GS,128,R64,5,Clay,Filip Misolic,Denis Shapovalov
+2025,2025-05-25,G,GS,128,R128,5,Clay,Holger Rune,Roberto Bautista Agut
+2025,2025-05-25,G,GS,128,R128,5,Clay,Adam Walton,Maximilian Marterer
+2025,2025-05-25,G,GS,128,R128,5,Clay,Alexander Shevchenko,Dusan Lajovic
+2025,2025-05-25,G,GS,128,R128,5,Clay,Jacob Fearnley,Stan Wawrinka
+2025,2025-05-25,G,GS,128,R32,5,Clay,Alexei Popyrin,Nuno Borges
+2025,2025-05-25,G,GS,128,R128,5,Clay,Karen Khachanov,Aleksandar Vukic
+2025,2025-05-25,G,GS,128,R64,5,Clay,Sebastian Korda,Jenson Brooksby
+2025,2025-05-25,G,GS,128,QF,5,Clay,Jannik Sinner,Alexander Bublik
+2025,2025-05-25,G,GS,128,R16,5,Clay,Lorenzo Musetti,Holger Rune
+2025,2025-05-25,G,GS,128,R128,5,Clay,Quentin Halys,Tomas Machac
+2025,2025-05-25,G,GS,128,R64,5,Clay,Jacob Fearnley,Ugo Humbert
+2025,2025-05-25,G,GS,128,R64,5,Clay,Jannik Sinner,Richard Gasquet
+2025,2025-05-25,G,GS,128,R128,5,Clay,Richard Gasquet,Terence Atmane
+2025,2025-05-25,G,GS,128,R128,5,Clay,Ben Shelton,Lorenzo Sonego
+2025,2025-05-25,G,GS,128,R128,5,Clay,Alexander Bublik,James Duckworth
+2025,2025-05-25,G,GS,128,R32,5,Clay,Lorenzo Musetti,Mariano Navone
+2025,2025-05-25,G,GS,128,R16,5,Clay,Jannik Sinner,Andrey Rublev
+2025,2025-05-25,G,GS,128,R64,5,Clay,Mariano Navone,Reilly Opelka
+2025,2025-05-25,G,GS,128,R64,5,Clay,Lorenzo Musetti,Daniel Elahi Galan
+2025,2025-05-25,G,GS,128,R16,5,Clay,Alexander Bublik,Jack Draper
+2025,2025-05-25,G,GS,128,R32,5,Clay,Holger Rune,Quentin Halys
+2025,2025-05-25,G,GS,128,R128,5,Clay,Alex de Minaur,Laslo Djere
+2025,2025-05-25,G,GS,128,R128,5,Clay,Jannik Sinner,Arthur Rinderknech
+2025,2025-05-25,G,GS,128,R128,5,Clay,Hugo Gaston,Ugo Blanchet
+2025,2025-05-25,G,GS,128,R64,5,Clay,Jiri Lehecka,Alejandro Davidovich Fokina
+2025,2025-05-25,G,GS,128,R128,5,Clay,Miomir Kecmanovic,Sebastian Baez
+2025,2025-05-25,G,GS,128,R64,5,Clay,Cameron Norrie,Federico Agustin Gomez
+2025,2025-05-25,G,GS,128,R16,5,Clay,Frances Tiafoe,Daniel Altmaier
+2025,2025-05-25,G,GS,128,QF,5,Clay,Novak Djokovic,Alexander Zverev
+2025,2025-05-25,G,GS,128,R128,5,Clay,Sebastian Ofner,Jan-Lennard Struff
+2025,2025-05-25,G,GS,128,R64,5,Clay,Frances Tiafoe,Pablo Carreno Busta
+2025,2025-05-25,G,GS,128,R32,5,Clay,Tommy Paul,Karen Khachanov
+2025,2025-05-25,G,GS,128,R128,5,Clay,Ugo Humbert,Christopher O'Connell
+2025,2025-05-25,G,GS,128,R128,5,Clay,Andrey Rublev,Lloyd Harris
+2025,2025-05-25,G,GS,128,R128,5,Clay,Ethan Quinn,Grigor Dimitrov
+2025,2025-05-25,G,GS,128,R64,5,Clay,Andrey Rublev,Adam Walton
+2025,2025-05-25,G,GS,128,R64,5,Clay,Carlos Alcaraz,Fabian Marozsan
+2025,2025-05-25,G,GS,128,R128,5,Clay,Fabian Marozsan,Luca Nardi
+2025,2025-05-25,G,GS,128,R128,5,Clay,Jakub Mensik,Alexandre Muller
+2025,2025-05-25,G,GS,128,R32,5,Clay,Cameron Norrie,Jacob Fearnley
+2025,2025-05-25,G,GS,128,R64,5,Clay,Tommy Paul,Marton Fucsovics
+2025,2025-05-25,G,GS,128,R32,5,Clay,Alexander Bublik,Henrique Rocha
+2025,2025-05-25,G,GS,128,R64,5,Clay,Joao Fonseca,Pierre-Hugues Herbert
+2025,2025-05-25,G,GS,128,R128,5,Clay,Alexander Zverev,Learner Tien
+2025,2025-05-25,G,GS,128,R128,5,Clay,Jack Draper,Mattia Bellucci
+2025,2025-05-25,G,GS,128,R128,5,Clay,Lorenzo Musetti,Yannick Hanfmann
+2025,2025-05-25,G,GS,128,R128,5,Clay,Vit Kopriva,Thiago Monteiro
+2025,2025-05-25,G,GS,128,R64,5,Clay,Daniel Altmaier,Vit Kopriva
+2025,2025-05-25,G,GS,128,SF,5,Clay,Jannik Sinner,Novak Djokovic
+2025,2025-05-25,G,GS,128,R16,5,Clay,Tommy Paul,Alexei Popyrin
+2025,2025-05-25,G,GS,128,R128,5,Clay,Jenson Brooksby,Jaime Faria
+2025,2025-05-25,G,GS,128,R64,5,Clay,Ethan Quinn,Alexander Shevchenko
+2025,2025-05-25,G,GS,128,R128,5,Clay,Sebastian Korda,Luciano Darderi
+2025,2025-05-25,G,GS,128,R64,5,Clay,Tallon Griekspoor,Gabriel Diallo
+2025,2025-05-25,G,GS,128,R16,5,Clay,Carlos Alcaraz,Ben Shelton
+2025,2025-05-25,G,GS,128,SF,5,Clay,Carlos Alcaraz,Lorenzo Musetti
+2025,2025-05-25,G,GS,128,R128,5,Clay,Daniel Altmaier,Taylor Fritz
+2025,2025-05-25,G,GS,128,R64,5,Clay,Hamad Medjedovic,Juan Manuel Cerundolo
+2025,2025-05-25,G,GS,128,R128,5,Clay,Gael Monfils,Hugo Dellien
+2025,2025-05-25,G,GS,128,R128,5,Clay,Daniel Elahi Galan,Valentin Royer
+2025,2025-05-25,G,GS,128,R128,5,Clay,Jesper de Jong,Francesco Passaro
+2025,2025-05-25,G,GS,128,R64,5,Clay,Jack Draper,Gael Monfils
+2025,2025-05-25,G,GS,128,R32,5,Clay,Jack Draper,Joao Fonseca
+2025,2025-05-25,G,GS,128,R64,5,Clay,Karen Khachanov,Sebastian Ofner
+2025,2025-05-25,G,GS,128,R32,5,Clay,Novak Djokovic,Filip Misolic
+2025,2025-05-25,G,GS,128,R128,5,Clay,Henrique Rocha,Nikoloz Basilashvili
+2025,2025-05-25,G,GS,128,R64,5,Clay,Damir Dzumhur,Giovanni Mpetshi Perricard
+2025,2025-05-25,G,GS,128,R128,5,Clay,Carlos Alcaraz,Giulio Zeppieri
+2025,2025-05-25,G,GS,128,R64,5,Clay,Arthur Fils,Jaume Munar
+2025,2025-06-09,A,250,28,R16,3,Grass,Justin Engel,Alex Michelsen
+2025,2025-06-09,A,250,28,QF,3,Grass,Alexander Zverev,Brandon Nakashima
+2025,2025-06-09,A,250,28,R32,3,Grass,Arthur Rinderknech,Denis Shapovalov
+2025,2025-06-09,A,250,28,R16,3,Grass,Alexander Zverev,Corentin Moutet
+2025,2025-06-09,A,250,28,R32,3,Grass,Alex Michelsen,Gael Monfils
+2025,2025-06-09,A,250,28,QF,3,Grass,Ugo Humbert,Nuno Borges
+2025,2025-06-09,A,250,28,R16,3,Grass,Mark Lajal,Hubert Hurkacz
+2025,2025-06-09,A,250,28,R16,3,Grass,Zizou Bergs,Alexei Popyrin
+2025,2025-06-09,A,250,28,QF,3,Grass,Gabriel Diallo,Karen Khachanov
+2025,2025-06-09,A,250,28,R32,3,Grass,Justin Engel,James Duckworth
+2025,2025-06-09,A,250,28,R16,3,Grass,Brandon Nakashima,Learner Tien
+2025,2025-06-09,A,250,28,R32,3,Grass,Marton Fucsovics,Yannick Hanfmann
+2025,2025-06-09,A,250,28,QF,3,Grass,Ben Shelton,Jiri Lehecka
+2025,2025-06-09,A,250,28,R32,3,Grass,Mackenzie McDonald,Mattia Bellucci
+2025,2025-06-09,A,250,28,R16,3,Grass,Felix Auger-Aliassime,Giovanni Mpetshi Perricard
+2025,2025-06-09,A,250,28,R32,3,Grass,Daniel Evans,Rinky Hijikata
+2025,2025-06-09,A,250,28,R32,3,Grass,Learner Tien,Yoshihito Nishioka
+2025,2025-06-09,A,250,28,R32,3,Grass,Jan-Lennard Struff,Matteo Arnaldi
+2025,2025-06-09,A,250,28,F,3,Grass,Gabriel Diallo,Zizou Bergs
+2025,2025-06-09,A,250,28,R32,3,Grass,Adrian Mannarino,Christopher O'Connell
+2025,2025-06-09,A,250,28,R16,3,Grass,Marton Fucsovics,Arthur Rinderknech
+2025,2025-06-09,A,250,28,R32,3,Grass,Zizou Bergs,Alexander Blockx
+2025,2025-06-09,A,250,28,SF,3,Grass,Alexander Zverev,Ben Shelton
+2025,2025-06-09,A,250,28,SF,3,Grass,Taylor Fritz,Felix Auger-Aliassime
+2025,2025-06-09,A,250,28,R16,3,Grass,Taylor Fritz,Quentin Halys
+2025,2025-06-09,A,250,28,R32,3,Grass,Jiri Lehecka,Benjamin Bonzi
+2025,2025-06-09,A,250,28,R32,3,Grass,Brandon Nakashima,Jacob Fearnley
+2025,2025-06-09,A,250,28,R16,3,Grass,Ugo Humbert,Daniel Evans
+2025,2025-06-09,A,250,28,SF,3,Grass,Gabriel Diallo,Ugo Humbert
+2025,2025-06-09,A,250,28,R32,3,Grass,Nicolas Jarry,Luciano Darderi
+2025,2025-06-09,A,250,28,R32,3,Grass,Hubert Hurkacz,Roberto Bautista Agut
+2025,2025-06-09,A,250,28,R32,3,Grass,Corentin Moutet,Fabio Fognini
+2025,2025-06-09,A,250,28,R32,3,Grass,Mark Lajal,Laslo Djere
+2025,2025-06-09,A,250,28,F,3,Grass,Taylor Fritz,Alexander Zverev
+2025,2025-06-09,A,250,28,R32,3,Grass,Reilly Opelka,Jesper de Jong
+2025,2025-06-09,A,250,28,R32,3,Grass,Pierre-Hugues Herbert,Damir Dzumhur
+2025,2025-06-09,A,250,28,SF,3,Grass,Zizou Bergs,Reilly Opelka
+2025,2025-06-09,A,250,28,R16,3,Grass,Reilly Opelka,Nicolas Jarry
+2025,2025-06-09,A,250,28,QF,3,Grass,Felix Auger-Aliassime,Justin Engel
+2025,2025-06-09,A,250,28,R32,3,Grass,Gabriel Diallo,Aleksandar Vukic
+2025,2025-06-09,A,250,28,R16,3,Grass,Ben Shelton,Pierre-Hugues Herbert
+2025,2025-06-09,A,250,28,R16,3,Grass,Karen Khachanov,Mackenzie McDonald
+2025,2025-06-09,A,250,28,R32,3,Grass,Quentin Halys,Lorenzo Sonego
+2025,2025-06-09,A,250,28,QF,3,Grass,Zizou Bergs,Mark Lajal
+2025,2025-06-09,A,250,28,R32,3,Grass,Giovanni Mpetshi Perricard,Roman Safiullin
+2025,2025-06-09,A,250,28,R32,3,Grass,Otto Virtanen,Tomas Martin Etcheverry
+2025,2025-06-09,A,250,28,R32,3,Grass,Nuno Borges,Nishesh Basavareddy
+2025,2025-06-09,A,250,28,QF,3,Grass,Reilly Opelka,Daniil Medvedev
+2025,2025-06-09,A,250,28,R16,3,Grass,Gabriel Diallo,Jordan Thompson
+2025,2025-06-09,A,250,28,R16,3,Grass,Jiri Lehecka,Jan-Lennard Struff
+2025,2025-06-09,A,250,28,R32,3,Grass,Jordan Thompson,Aleksandar Kovacevic
+2025,2025-06-09,A,250,28,QF,3,Grass,Taylor Fritz,Marton Fucsovics
+2025,2025-06-09,A,250,28,R16,3,Grass,Daniil Medvedev,Adrian Mannarino
+2025,2025-06-16,A,500,32,R32,3,Grass,Felix Auger-Aliassime,Laslo Djere
+2025,2025-06-16,A,500,32,R32,3,Grass,Arthur Rinderknech,Ben Shelton
+2025,2025-06-16,A,500,32,R32,3,Grass,Jakub Mensik,Cameron Norrie
+2025,2025-06-16,A,500,32,R32,3,Grass,Fabian Marozsan,Miomir Kecmanovic
+2025,2025-06-16,A,500,32,R16,3,Grass,Jack Draper,Alexei Popyrin
+2025,2025-06-16,A,500,32,SF,3,Grass,Jiri Lehecka,Jack Draper
+2025,2025-06-16,A,500,32,R16,3,Grass,Flavio Cobolli,Denis Shapovalov
+2025,2025-06-16,A,500,32,SF,3,Grass,Alexander Bublik,Karen Khachanov
+2025,2025-06-16,A,500,32,SF,3,Grass,Daniil Medvedev,Alexander Zverev
+2025,2025-06-16,A,500,32,R16,3,Grass,Alexander Zverev,Lorenzo Sonego
+2025,2025-06-16,A,500,32,SF,3,Grass,Carlos Alcaraz,Roberto Bautista Agut
+2025,2025-06-16,A,500,32,R16,3,Grass,Brandon Nakashima,Daniel Evans
+2025,2025-06-16,A,500,32,R32,3,Grass,Tomas Machac,Jesper de Jong
+2025,2025-06-16,A,500,32,R32,3,Grass,Roberto Bautista Agut,Nuno Borges
+2025,2025-06-16,A,500,32,R32,3,Grass,Reilly Opelka,Camilo Ugo Carabelli
+2025,2025-06-16,A,500,32,R32,3,Grass,Karen Khachanov,Zizou Bergs
+2025,2025-06-16,A,500,32,R32,3,Grass,Denis Shapovalov,Ugo Humbert
+2025,2025-06-16,A,500,32,R16,3,Grass,Jacob Fearnley,Corentin Moutet
+2025,2025-06-16,A,500,32,QF,3,Grass,Roberto Bautista Agut,Holger Rune
+2025,2025-06-16,A,500,32,R32,3,Grass,Brandon Nakashima,Giovanni Mpetshi Perricard
+2025,2025-06-16,A,500,32,R16,3,Grass,Alex Michelsen,Stefanos Tsitsipas
+2025,2025-06-16,A,500,32,QF,3,Grass,Alexander Bublik,Tomas Machac
+2025,2025-06-16,A,500,32,R32,3,Grass,Alex Michelsen,Francisco Cerundolo
+2025,2025-06-16,A,500,32,R16,3,Grass,Arthur Rinderknech,Reilly Opelka
+2025,2025-06-16,A,500,32,R32,3,Grass,Gabriel Diallo,Billy Harris
+2025,2025-06-16,A,500,32,R16,3,Grass,Alexander Bublik,Jannik Sinner
+2025,2025-06-16,A,500,32,R16,3,Grass,Tomas Machac,Fabian Marozsan
+2025,2025-06-16,A,500,32,R32,3,Grass,Jiri Lehecka,Alex de Minaur
+2025,2025-06-16,A,500,32,R16,3,Grass,Carlos Alcaraz,Jaume Munar
+2025,2025-06-16,A,500,32,R32,3,Grass,Stefanos Tsitsipas,Luciano Darderi
+2025,2025-06-16,A,500,32,QF,3,Grass,Karen Khachanov,Tomas Martin Etcheverry
+2025,2025-06-16,A,500,32,R16,3,Grass,Daniil Medvedev,Quentin Halys
+2025,2025-06-16,A,500,32,R32,3,Grass,Daniel Evans,Frances Tiafoe
+2025,2025-06-16,A,500,32,QF,3,Grass,Carlos Alcaraz,Arthur Rinderknech
+2025,2025-06-16,A,500,32,R16,3,Grass,Jiri Lehecka,Gabriel Diallo
+2025,2025-06-16,A,500,32,R32,3,Grass,Flavio Cobolli,Joao Fonseca
+2025,2025-06-16,A,500,32,QF,3,Grass,Daniil Medvedev,Alex Michelsen
+2025,2025-06-16,A,500,32,R16,3,Grass,Tomas Martin Etcheverry,Andrey Rublev
+2025,2025-06-16,A,500,32,QF,3,Grass,Jack Draper,Brandon Nakashima
+2025,2025-06-16,A,500,32,R16,3,Grass,Roberto Bautista Agut,Jakub Mensik
+2025,2025-06-16,A,500,32,R32,3,Grass,Jack Draper,Jenson Brooksby
+2025,2025-06-16,A,500,32,R32,3,Grass,Corentin Moutet,Taylor Fritz
+2025,2025-06-16,A,500,32,R32,3,Grass,Lorenzo Sonego,Jan-Lennard Struff
+2025,2025-06-16,A,500,32,R32,3,Grass,Quentin Halys,Benjamin Bonzi
+2025,2025-06-16,A,500,32,R32,3,Grass,Daniil Medvedev,Daniel Altmaier
+2025,2025-06-16,A,500,32,R32,3,Grass,Alexander Zverev,Marcos Giron
+2025,2025-06-16,A,500,32,R32,3,Grass,Jacob Fearnley,Alex Bolt
+2025,2025-06-16,A,500,32,R32,3,Grass,Alexei Popyrin,Aleksandar Vukic
+2025,2025-06-16,A,500,32,R16,3,Grass,Holger Rune,Mackenzie McDonald
+2025,2025-06-16,A,500,32,QF,3,Grass,Jiri Lehecka,Jacob Fearnley
+2025,2025-06-16,A,500,32,R16,3,Grass,Karen Khachanov,Felix Auger-Aliassime
+2025,2025-06-16,A,500,32,QF,3,Grass,Alexander Zverev,Flavio Cobolli
+2025,2025-06-16,A,500,32,R32,3,Grass,Mackenzie McDonald,Gael Monfils
+2025,2025-06-16,A,500,32,R32,3,Grass,Andrey Rublev,Sebastian Ofner
+2025,2025-06-16,A,500,32,R32,3,Grass,Jannik Sinner,Yannick Hanfmann
+2025,2025-06-16,A,500,32,F,3,Grass,Carlos Alcaraz,Jiri Lehecka
+2025,2025-06-16,A,500,32,R32,3,Grass,Jaume Munar,Jordan Thompson
+2025,2025-06-16,A,500,32,R32,3,Grass,Carlos Alcaraz,Adam Walton
+2025,2025-06-16,A,500,32,R32,3,Grass,Alexander Bublik,Alexandre Muller
+2025,2025-06-16,A,500,32,F,3,Grass,Alexander Bublik,Daniil Medvedev
+2025,2025-06-16,A,500,32,R32,3,Grass,Tomas Martin Etcheverry,Pedro Martinez
+2025,2025-06-16,A,500,32,R32,3,Grass,Holger Rune,Christopher O'Connell
+2025,2025-06-22,A,250,28,R32,3,Grass,Roman Safiullin,Alexandre Muller
+2025,2025-06-22,A,250,28,R16,3,Grass,Gabriel Diallo,Laslo Djere
+2025,2025-06-22,A,250,28,QF,3,Grass,Corentin Moutet,Learner Tien
+2025,2025-06-22,A,250,28,R32,3,Grass,Gabriel Diallo,Jaume Munar
+2025,2025-06-22,A,250,28,R16,3,Grass,Learner Tien,Ben Shelton
+2025,2025-06-22,A,250,28,R16,3,Grass,Corentin Moutet,Daniel Altmaier
+2025,2025-06-22,A,250,28,R32,3,Grass,Laslo Djere,Yunchaokete Bu
+2025,2025-06-22,A,250,28,QF,3,Grass,Alex Michelsen,Roberto Bautista Agut
+2025,2025-06-22,A,250,28,R16,3,Grass,Tallon Griekspoor,Ethan Quinn
+2025,2025-06-22,A,250,28,R32,3,Grass,Hamad Medjedovic,Nishesh Basavareddy
+2025,2025-06-22,A,250,28,R32,3,Grass,Bernard Tomic,Rinky Hijikata
+2025,2025-06-22,A,250,28,R32,3,Grass,Corentin Moutet,Pedro Martinez
+2025,2025-06-22,A,250,28,R16,3,Grass,Hamad Medjedovic,Roman Safiullin
+2025,2025-06-22,A,250,28,SF,3,Grass,Corentin Moutet,Alex Michelsen
+2025,2025-06-22,A,250,28,SF,3,Grass,Tallon Griekspoor,Felix Auger-Aliassime
+2025,2025-06-22,A,250,28,R16,3,Grass,Felix Auger-Aliassime,Arthur Rinderknech
+2025,2025-06-22,A,250,28,R32,3,Grass,Daniel Altmaier,Fabio Fognini
+2025,2025-06-22,A,250,28,R32,3,Grass,Roberto Bautista Agut,Tomas Martin Etcheverry
+2025,2025-06-22,A,250,28,R32,3,Grass,Learner Tien,Justin Engel
+2025,2025-06-22,A,250,28,F,3,Grass,Tallon Griekspoor,Corentin Moutet
+2025,2025-06-22,A,250,28,R32,3,Grass,Brandon Holt,Benjamin Bonzi
+2025,2025-06-22,A,250,28,QF,3,Grass,Tallon Griekspoor,Gabriel Diallo
+2025,2025-06-22,A,250,28,R16,3,Grass,Alex Michelsen,Brandon Holt
+2025,2025-06-22,A,250,28,R32,3,Grass,Arthur Rinderknech,Damir Dzumhur
+2025,2025-06-22,A,250,28,R32,3,Grass,Ethan Quinn,Camilo Ugo Carabelli
+2025,2025-06-22,A,250,28,R16,3,Grass,Roberto Bautista Agut,Bernard Tomic
+2025,2025-06-22,A,250,28,QF,3,Grass,Felix Auger-Aliassime,Hamad Medjedovic
+2025,2025-06-23,A,250,28,F,3,Grass,Taylor Fritz,Jenson Brooksby
+2025,2025-06-23,A,250,28,R32,3,Grass,Joao Fonseca,Zizou Bergs
+2025,2025-06-23,A,250,28,R32,3,Grass,Reilly Opelka,George Loffhagen
+2025,2025-06-23,A,250,28,R16,3,Grass,Jakub Mensik,Reilly Opelka
+2025,2025-06-23,A,250,28,QF,3,Grass,Ugo Humbert,Billy Harris
+2025,2025-06-23,A,250,28,R32,3,Grass,Lorenzo Sonego,Fabian Marozsan
+2025,2025-06-23,A,250,28,R32,3,Grass,Daniel Evans,Miomir Kecmanovic
+2025,2025-06-23,A,250,28,QF,3,Grass,Jenson Brooksby,Daniel Evans
+2025,2025-06-23,A,250,28,R16,3,Grass,Alejandro Davidovich Fokina,James Duckworth
+2025,2025-06-23,A,250,28,QF,3,Grass,Taylor Fritz,Marcos Giron
+2025,2025-06-23,A,250,28,R16,3,Grass,Billy Harris,Mattia Bellucci
+2025,2025-06-23,A,250,28,R32,3,Grass,Nuno Borges,Jack Pinnington Jones
+2025,2025-06-23,A,250,28,R16,3,Grass,Taylor Fritz,Joao Fonseca
+2025,2025-06-23,A,250,28,R32,3,Grass,Billy Harris,Cameron Norrie
+2025,2025-06-23,A,250,28,R32,3,Grass,Mattia Bellucci,Quentin Halys
+2025,2025-06-23,A,250,28,R16,3,Grass,Marcos Giron,Jacob Fearnley
+2025,2025-06-23,A,250,28,R32,3,Grass,Jenson Brooksby,Francisco Comesana
+2025,2025-06-23,A,250,28,R16,3,Grass,Ugo Humbert,Lorenzo Sonego
+2025,2025-06-23,A,250,28,QF,3,Grass,Alejandro Davidovich Fokina,Jakub Mensik
+2025,2025-06-23,A,250,28,R32,3,Grass,Marcos Giron,Luciano Darderi
+2025,2025-06-23,A,250,28,R32,3,Grass,James Duckworth,Aleksandar Vukic
+2025,2025-06-23,A,250,28,SF,3,Grass,Taylor Fritz,Alejandro Davidovich Fokina
+2025,2025-06-23,A,250,28,R16,3,Grass,Jenson Brooksby,Nuno Borges
+2025,2025-06-23,A,250,28,R16,3,Grass,Daniel Evans,Tommy Paul
+2025,2025-06-23,A,250,28,SF,3,Grass,Jenson Brooksby,Ugo Humbert
+2025,2025-06-23,A,250,28,R32,3,Grass,Alejandro Davidovich Fokina,Chun-Hsin Tseng
+2025,2025-06-23,A,250,28,R32,3,Grass,Jacob Fearnley,Flavio Cobolli
+2025,2025-06-30,G,GS,128,R128,5,Grass,Miomir Kecmanovic,Alex Michelsen
+2025,2025-06-30,G,GS,128,R128,5,Grass,Flavio Cobolli,Beibit Zhukayev
+2025,2025-06-30,G,GS,128,R16,5,Grass,Flavio Cobolli,Marin Cilic
+2025,2025-06-30,G,GS,128,R128,5,Grass,Jordan Thompson,Vit Kopriva
+2025,2025-06-30,G,GS,128,R64,5,Grass,Novak Djokovic,Daniel Evans
+2025,2025-06-30,G,GS,128,R128,5,Grass,Joao Fonseca,Jacob Fearnley
+2025,2025-06-30,G,GS,128,R64,5,Grass,Jordan Thompson,Benjamin Bonzi
+2025,2025-06-30,G,GS,128,QF,5,Grass,Taylor Fritz,Karen Khachanov
+2025,2025-06-30,G,GS,128,R128,5,Grass,Tommy Paul,Johannus Monday
+2025,2025-06-30,G,GS,128,R32,5,Grass,Karen Khachanov,Nuno Borges
+2025,2025-06-30,G,GS,128,R32,5,Grass,Andrey Rublev,Adrian Mannarino
+2025,2025-06-30,G,GS,128,R128,5,Grass,Mariano Navone,Denis Shapovalov
+2025,2025-06-30,G,GS,128,R128,5,Grass,Adrian Mannarino,Christopher O'Connell
+2025,2025-06-30,G,GS,128,R128,5,Grass,Alex de Minaur,Roberto Carballes Baena
+2025,2025-06-30,G,GS,128,R128,5,Grass,Cameron Norrie,Roberto Bautista Agut
+2025,2025-06-30,G,GS,128,R128,5,Grass,Frances Tiafoe,Elmer Moller
+2025,2025-06-30,G,GS,128,R128,5,Grass,Pedro Martinez,George Loffhagen
+2025,2025-06-30,G,GS,128,R128,5,Grass,Valentin Royer,Stefanos Tsitsipas
+2025,2025-06-30,G,GS,128,R128,5,Grass,Arthur Cazaux,Adam Walton
+2025,2025-06-30,G,GS,128,R32,5,Grass,Carlos Alcaraz,Jan-Lennard Struff
+2025,2025-06-30,G,GS,128,R32,5,Grass,Kamil Majchrzak,Arthur Rinderknech
+2025,2025-06-30,G,GS,128,R128,5,Grass,Sebastian Ofner,Hamad Medjedovic
+2025,2025-06-30,G,GS,128,QF,5,Grass,Carlos Alcaraz,Cameron Norrie
+2025,2025-06-30,G,GS,128,R128,5,Grass,Jenson Brooksby,Tallon Griekspoor
+2025,2025-06-30,G,GS,128,R64,5,Grass,Luciano Darderi,Arthur Fery
+2025,2025-06-30,G,GS,128,R128,5,Grass,Benjamin Bonzi,Daniil Medvedev
+2025,2025-06-30,G,GS,128,R64,5,Grass,Miomir Kecmanovic,Jesper de Jong
+2025,2025-06-30,G,GS,128,R16,5,Grass,Novak Djokovic,Alex de Minaur
+2025,2025-06-30,G,GS,128,R128,5,Grass,Jack Pinnington Jones,Tomas Martin Etcheverry
+2025,2025-06-30,G,GS,128,R128,5,Grass,Jesper de Jong,Christopher Eubanks
+2025,2025-06-30,G,GS,128,R128,5,Grass,Reilly Opelka,Alexander Shevchenko
+2025,2025-06-30,G,GS,128,R128,5,Grass,Botic van de Zandschulp,Matteo Arnaldi
+2025,2025-06-30,G,GS,128,R32,5,Grass,Marin Cilic,Jaume Munar
+2025,2025-06-30,G,GS,128,R64,5,Grass,Ben Shelton,Rinky Hijikata
+2025,2025-06-30,G,GS,128,R64,5,Grass,Adrian Mannarino,Valentin Royer
+2025,2025-06-30,G,GS,128,R128,5,Grass,Felix Auger-Aliassime,James Duckworth
+2025,2025-06-30,G,GS,128,R128,5,Grass,Kamil Majchrzak,Matteo Berrettini
+2025,2025-06-30,G,GS,128,R128,5,Grass,Daniel Evans,Jay Clarke
+2025,2025-06-30,G,GS,128,R128,5,Grass,Fabian Marozsan,James McCabe
+2025,2025-06-30,G,GS,128,R32,5,Grass,Jannik Sinner,Pedro Martinez
+2025,2025-06-30,G,GS,128,R128,5,Grass,Nuno Borges,Francisco Cerundolo
+2025,2025-06-30,G,GS,128,R64,5,Grass,Jaume Munar,Fabian Marozsan
+2025,2025-06-30,G,GS,128,R128,5,Grass,Nicolas Jarry,Holger Rune
+2025,2025-06-30,G,GS,128,R64,5,Grass,Joao Fonseca,Jenson Brooksby
+2025,2025-06-30,G,GS,128,F,5,Grass,Jannik Sinner,Carlos Alcaraz
+2025,2025-06-30,G,GS,128,R128,5,Grass,Learner Tien,Nishesh Basavareddy
+2025,2025-06-30,G,GS,128,R64,5,Grass,Nicolas Jarry,Learner Tien
+2025,2025-06-30,G,GS,128,R128,5,Grass,Billy Harris,Dusan Lajovic
+2025,2025-06-30,G,GS,128,R64,5,Grass,Marin Cilic,Jack Draper
+2025,2025-06-30,G,GS,128,R32,5,Grass,Grigor Dimitrov,Sebastian Ofner
+2025,2025-06-30,G,GS,128,R128,5,Grass,Jaume Munar,Alexander Bublik
+2025,2025-06-30,G,GS,128,R128,5,Grass,Novak Djokovic,Alexandre Muller
+2025,2025-06-30,G,GS,128,R128,5,Grass,Ethan Quinn,Henry Searle
+2025,2025-06-30,G,GS,128,R64,5,Grass,Andrey Rublev,Lloyd Harris
+2025,2025-06-30,G,GS,128,R128,5,Grass,Jan-Lennard Struff,Filip Misolic
+2025,2025-06-30,G,GS,128,R64,5,Grass,Marton Fucsovics,Gael Monfils
+2025,2025-06-30,G,GS,128,R32,5,Grass,Flavio Cobolli,Jakub Mensik
+2025,2025-06-30,G,GS,128,R128,5,Grass,Brandon Nakashima,Yunchaokete Bu
+2025,2025-06-30,G,GS,128,R128,5,Grass,Alejandro Davidovich Fokina,Brandon Holt
+2025,2025-06-30,G,GS,128,R64,5,Grass,Cameron Norrie,Frances Tiafoe
+2025,2025-06-30,G,GS,128,R32,5,Grass,Ben Shelton,Marton Fucsovics
+2025,2025-06-30,G,GS,128,R128,5,Grass,Oliver Tarvet,Leandro Riedi
+2025,2025-06-30,G,GS,128,R64,5,Grass,Carlos Alcaraz,Oliver Tarvet
+2025,2025-06-30,G,GS,128,R64,5,Grass,Grigor Dimitrov,Corentin Moutet
+2025,2025-06-30,G,GS,128,R32,5,Grass,Alex de Minaur,August Holmgren
+2025,2025-06-30,G,GS,128,R128,5,Grass,Gael Monfils,Ugo Humbert
+2025,2025-06-30,G,GS,128,SF,5,Grass,Jannik Sinner,Novak Djokovic
+2025,2025-06-30,G,GS,128,R64,5,Grass,Arthur Rinderknech,Cristian Garin
+2025,2025-06-30,G,GS,128,R128,5,Grass,Cristian Garin,Chris Rodesch
+2025,2025-06-30,G,GS,128,R64,5,Grass,Jakub Mensik,Marcos Giron
+2025,2025-06-30,G,GS,128,R128,5,Grass,Shintaro Mochizuki,Giulio Zeppieri
+2025,2025-06-30,G,GS,128,R16,5,Grass,Cameron Norrie,Nicolas Jarry
+2025,2025-06-30,G,GS,128,R128,5,Grass,Jack Draper,Sebastian Baez
+2025,2025-06-30,G,GS,128,R64,5,Grass,Brandon Nakashima,Reilly Opelka
+2025,2025-06-30,G,GS,128,R128,5,Grass,Taylor Fritz,Giovanni Mpetshi Perricard
+2025,2025-06-30,G,GS,128,R128,5,Grass,Nikoloz Basilashvili,Lorenzo Musetti
+2025,2025-06-30,G,GS,128,R128,5,Grass,Gabriel Diallo,Daniel Altmaier
+2025,2025-06-30,G,GS,128,R128,5,Grass,Lorenzo Sonego,Jaime Faria
+2025,2025-06-30,G,GS,128,R64,5,Grass,Lorenzo Sonego,Nikoloz Basilashvili
+2025,2025-06-30,G,GS,128,R128,5,Grass,Marin Cilic,Raphael Collignon
+2025,2025-06-30,G,GS,128,R16,5,Grass,Carlos Alcaraz,Andrey Rublev
+2025,2025-06-30,G,GS,128,R64,5,Grass,Flavio Cobolli,Jack Pinnington Jones
+2025,2025-06-30,G,GS,128,R128,5,Grass,Karen Khachanov,Mackenzie McDonald
+2025,2025-06-30,G,GS,128,R64,5,Grass,Kamil Majchrzak,Ethan Quinn
+2025,2025-06-30,G,GS,128,R128,5,Grass,Arthur Rinderknech,Alexander Zverev
+2025,2025-06-30,G,GS,128,SF,5,Grass,Carlos Alcaraz,Taylor Fritz
+2025,2025-06-30,G,GS,128,R128,5,Grass,Marton Fucsovics,Aleksandar Kovacevic
+2025,2025-06-30,G,GS,128,R32,5,Grass,Novak Djokovic,Miomir Kecmanovic
+2025,2025-06-30,G,GS,128,R64,5,Grass,Sebastian Ofner,Tommy Paul
+2025,2025-06-30,G,GS,128,R128,5,Grass,Carlos Alcaraz,Fabio Fognini
+2025,2025-06-30,G,GS,128,R64,5,Grass,Jan-Lennard Struff,Felix Auger-Aliassime
+2025,2025-06-30,G,GS,128,R32,5,Grass,Lorenzo Sonego,Brandon Nakashima
+2025,2025-06-30,G,GS,128,R64,5,Grass,Mattia Bellucci,Jiri Lehecka
+2025,2025-06-30,G,GS,128,QF,5,Grass,Jannik Sinner,Ben Shelton
+2025,2025-06-30,G,GS,128,R64,5,Grass,Karen Khachanov,Shintaro Mochizuki
+2025,2025-06-30,G,GS,128,R128,5,Grass,Jiri Lehecka,Hugo Dellien
+2025,2025-06-30,G,GS,128,R64,5,Grass,August Holmgren,Tomas Machac
+2025,2025-06-30,G,GS,128,R128,5,Grass,Arthur Fery,Alexei Popyrin
+2025,2025-06-30,G,GS,128,R16,5,Grass,Taylor Fritz,Jordan Thompson
+2025,2025-06-30,G,GS,128,R128,5,Grass,Marcos Giron,Camilo Ugo Carabelli
+2025,2025-06-30,G,GS,128,R128,5,Grass,Corentin Moutet,Francisco Comesana
+2025,2025-06-30,G,GS,128,R32,5,Grass,Nicolas Jarry,Joao Fonseca
+2025,2025-06-30,G,GS,128,R128,5,Grass,August Holmgren,Quentin Halys
+2025,2025-06-30,G,GS,128,R16,5,Grass,Jannik Sinner,Grigor Dimitrov
+2025,2025-06-30,G,GS,128,R64,5,Grass,Alejandro Davidovich Fokina,Botic van de Zandschulp
+2025,2025-06-30,G,GS,128,R128,5,Grass,Andrey Rublev,Laslo Djere
+2025,2025-06-30,G,GS,128,R128,5,Grass,Aleksandar Vukic,Chun-Hsin Tseng
+2025,2025-06-30,G,GS,128,R64,5,Grass,Jannik Sinner,Aleksandar Vukic
+2025,2025-06-30,G,GS,128,R32,5,Grass,Taylor Fritz,Alejandro Davidovich Fokina
+2025,2025-06-30,G,GS,128,R128,5,Grass,Rinky Hijikata,David Goffin
+2025,2025-06-30,G,GS,128,R128,5,Grass,Ben Shelton,Alex Bolt
+2025,2025-06-30,G,GS,128,R32,5,Grass,Jordan Thompson,Luciano Darderi
+2025,2025-06-30,G,GS,128,R64,5,Grass,Pedro Martinez,Mariano Navone
+2025,2025-06-30,G,GS,128,R128,5,Grass,Lloyd Harris,Zizou Bergs
+2025,2025-06-30,G,GS,128,R128,5,Grass,Jannik Sinner,Luca Nardi
+2025,2025-06-30,G,GS,128,R64,5,Grass,Taylor Fritz,Gabriel Diallo
+2025,2025-06-30,G,GS,128,R16,5,Grass,Ben Shelton,Lorenzo Sonego
+2025,2025-06-30,G,GS,128,R128,5,Grass,Tomas Machac,Damir Dzumhur
+2025,2025-06-30,G,GS,128,R32,5,Grass,Cameron Norrie,Mattia Bellucci
+2025,2025-06-30,G,GS,128,R128,5,Grass,Jakub Mensik,Hugo Gaston
+2025,2025-06-30,G,GS,128,R128,5,Grass,Grigor Dimitrov,Yoshihito Nishioka
+2025,2025-06-30,G,GS,128,R16,5,Grass,Karen Khachanov,Kamil Majchrzak
+2025,2025-06-30,G,GS,128,R64,5,Grass,Alex de Minaur,Arthur Cazaux
+2025,2025-06-30,G,GS,128,R128,5,Grass,Luciano Darderi,Roman Safiullin
+2025,2025-06-30,G,GS,128,R64,5,Grass,Nuno Borges,Billy Harris
+2025,2025-06-30,G,GS,128,R128,5,Grass,Mattia Bellucci,Oliver Crawford
+2025,2025-06-30,G,GS,128,QF,5,Grass,Novak Djokovic,Flavio Cobolli
+2025,2025-07-14,A,250,28,R16,3,Clay,Camilo Ugo Carabelli,Botic van de Zandschulp
+2025,2025-07-14,A,250,28,R32,3,Clay,Kamil Majchrzak,Terence Atmane
+2025,2025-07-14,A,250,28,QF,3,Clay,Francisco Cerundolo,Damir Dzumhur
+2025,2025-07-14,A,250,28,R32,3,Clay,Juan Manuel Cerundolo,Jan-Lennard Struff
+2025,2025-07-14,A,250,28,R16,3,Hard,Juan Pablo Ficovich,Quentin Halys
+2025,2025-07-14,A,250,28,R32,3,Clay,Vit Kopriva,Hugo Dellien
+2025,2025-07-14,A,250,28,QF,3,Hard,Denis Shapovalov,Tristan Schoolkate
+2025,2025-07-14,A,250,28,R32,3,Hard,Govind Nanda,Colton Smith
+2025,2025-07-14,A,250,28,R32,3,Hard,James Duckworth,Adrian Mannarino
+2025,2025-07-14,A,250,28,R16,3,Clay,Francisco Cerundolo,Mariano Navone
+2025,2025-07-14,A,250,28,R16,3,Clay,Francisco Comesana,Roberto Carballes Baena
+2025,2025-07-14,A,250,28,R32,3,Clay,Camilo Ugo Carabelli,Cristian Garin
+2025,2025-07-14,A,250,28,SF,3,Clay,Juan Manuel Cerundolo,Ignacio Buse
+2025,2025-07-14,A,250,28,SF,3,Clay,Alexander Bublik,Arthur Cazaux
+2025,2025-07-14,A,250,28,R32,3,Clay,Botic van de Zandschulp,Mikael Ymer
+2025,2025-07-14,A,250,28,R16,3,Clay,Alexander Bublik,Alexander Shevchenko
+2025,2025-07-14,A,250,28,R16,3,Clay,Damir Dzumhur,Hugo Gaston
+2025,2025-07-14,A,250,28,QF,3,Hard,Adam Walton,James Duckworth
+2025,2025-07-14,A,250,28,R32,3,Clay,Jesper de Jong,William Rejchtman Vinciguerra
+2025,2025-07-14,A,250,28,R16,3,Hard,Aleksandar Kovacevic,Luis Carlos Alvarez
+2025,2025-07-14,A,250,28,R32,3,Clay,David Goffin,Martin Landaluce
+2025,2025-07-14,A,250,28,QF,3,Clay,Luciano Darderi,Sebastian Baez
+2025,2025-07-14,A,250,28,R32,3,Clay,Ignacio Buse,Laslo Djere
+2025,2025-07-14,A,250,28,R16,3,Clay,Filip Misolic,Nuno Borges
+2025,2025-07-14,A,250,28,R32,3,Clay,Hugo Gaston,Chun-Hsin Tseng
+2025,2025-07-14,A,250,28,R32,3,Clay,Francisco Comesana,Marco Trungelliti
+2025,2025-07-14,A,250,28,R16,3,Clay,Jerome Kym,Francesco Passaro
+2025,2025-07-14,A,250,28,R32,3,Clay,Elias Ymer,Tristan Boyer
+2025,2025-07-14,A,250,28,QF,3,Clay,Juan Manuel Cerundolo,Casper Ruud
+2025,2025-07-14,A,250,28,R16,3,Clay,Jesper de Jong,Vit Kopriva
+2025,2025-07-14,A,250,28,R32,3,Clay,Francesco Passaro,Arthur Rinderknech
+2025,2025-07-14,A,250,28,SF,3,Clay,Luciano Darderi,Francisco Cerundolo
+2025,2025-07-14,A,250,28,R16,3,Clay,Casper Ruud,Dominic Stricker
+2025,2025-07-14,A,250,28,F,3,Hard,Denis Shapovalov,Aleksandar Kovacevic
+2025,2025-07-14,A,250,28,R16,3,Clay,Juan Manuel Cerundolo,David Goffin
+2025,2025-07-14,A,250,28,R32,3,Hard,Alex Hernandez,Taro Daniel
+2025,2025-07-14,A,250,28,SF,3,Clay,Jesper de Jong,Camilo Ugo Carabelli
+2025,2025-07-14,A,250,28,R32,3,Clay,Jerome Kym,Calvin Hemery
+2025,2025-07-14,A,250,28,R16,3,Clay,Tallon Griekspoor,Andrea Pellegrino
+2025,2025-07-14,A,250,28,QF,3,Clay,Ignacio Buse,Roman Andres Burruchaga
+2025,2025-07-14,A,250,28,R32,3,Clay,Luciano Darderi,Raphael Collignon
+2025,2025-07-14,A,250,28,R16,3,Clay,Arthur Cazaux,Tomas Martin Etcheverry
+2025,2025-07-14,A,250,28,R32,3,Clay,Roberto Carballes Baena,Carlos Taberner
+2025,2025-07-14,A,250,28,R32,3,Hard,Juan Pablo Ficovich,Alibek Kachmazov
+2025,2025-07-14,A,250,28,R32,3,Clay,Damir Dzumhur,Sebastian Ofner
+2025,2025-07-14,A,250,28,QF,3,Clay,Arthur Cazaux,Jerome Kym
+2025,2025-07-14,A,250,28,R16,3,Clay,Roman Andres Burruchaga,Patrick Zahraj
+2025,2025-07-14,A,250,28,R32,3,Hard,Emilio Nava,Aleksandar Vukic
+2025,2025-07-14,A,250,28,R32,3,Hard,Luis Carlos Alvarez,James McCabe
+2025,2025-07-14,A,250,28,SF,3,Hard,Aleksandar Kovacevic,Andrey Rublev
+2025,2025-07-14,A,250,28,R16,3,Hard,Adam Walton,Nishesh Basavareddy
+2025,2025-07-14,A,250,28,R32,3,Clay,Alexander Shevchenko,Stan Wawrinka
+2025,2025-07-14,A,250,28,R32,3,Clay,Arthur Cazaux,Nikoloz Basilashvili
+2025,2025-07-14,A,250,28,R32,3,Clay,Mariano Navone,Tomas Barrios Vera
+2025,2025-07-14,A,250,28,F,3,Clay,Luciano Darderi,Jesper de Jong
+2025,2025-07-14,A,250,28,R16,3,Hard,James Duckworth,Alejandro Davidovich Fokina
+2025,2025-07-14,A,250,28,SF,3,Hard,Denis Shapovalov,Adam Walton
+2025,2025-07-14,A,250,28,R32,3,Hard,Aleksandar Kovacevic,Hady Habib
+2025,2025-07-14,A,250,28,R32,3,Hard,Yunchaokete Bu,Alan Magadan
+2025,2025-07-14,A,250,28,R16,3,Clay,Ignacio Buse,Kamil Majchrzak
+2025,2025-07-14,A,250,28,R32,3,Clay,Nicolai Budkov Kjaer,Thiago Monteiro
+2025,2025-07-14,A,250,28,QF,3,Clay,Alexander Bublik,Francisco Comesana
+2025,2025-07-14,A,250,28,QF,3,Hard,Andrey Rublev,Emilio Nava
+2025,2025-07-14,A,250,28,R16,3,Hard,Tristan Schoolkate,Daniel Altmaier
+2025,2025-07-14,A,250,28,QF,3,Clay,Camilo Ugo Carabelli,Filip Misolic
+2025,2025-07-14,A,250,28,R32,3,Hard,Adam Walton,Rodrigo Pacheco Mendez
+2025,2025-07-14,A,250,28,R16,3,Clay,Sebastian Baez,Nicolai Budkov Kjaer
+2025,2025-07-14,A,250,28,R16,3,Hard,Andrey Rublev,Alex Hernandez
+2025,2025-07-14,A,250,28,R32,3,Clay,Andrea Pellegrino,Jaime Faria
+2025,2025-07-14,A,250,28,R32,3,Clay,Filip Misolic,Elmer Moller
+2025,2025-07-14,A,250,28,R32,3,Hard,Daniel Altmaier,Mitchell Krueger
+2025,2025-07-14,A,250,28,R32,3,Hard,Tristan Schoolkate,Yibing Wu
+2025,2025-07-14,A,250,28,R32,3,Clay,Dominic Stricker,Pierre-Hugues Herbert
+2025,2025-07-14,A,250,28,R16,3,Hard,Emilio Nava,Yunchaokete Bu
+2025,2025-07-14,A,250,28,F,3,Clay,Alexander Bublik,Juan Manuel Cerundolo
+2025,2025-07-14,A,250,28,R16,3,Clay,Luciano Darderi,Elias Ymer
+2025,2025-07-14,A,250,28,R32,3,Clay,Roman Andres Burruchaga,Dalibor Svrcina
+2025,2025-07-14,A,250,28,R32,3,Hard,Nishesh Basavareddy,Nicolas Mejia
+2025,2025-07-14,A,250,28,QF,3,Clay,Jesper de Jong,Tallon Griekspoor
+2025,2025-07-14,A,250,28,R16,3,Hard,Denis Shapovalov,Govind Nanda
+2025,2025-07-14,A,250,28,QF,3,Hard,Aleksandar Kovacevic,Juan Pablo Ficovich
+2025,2025-07-20,A,250,28,R32,3,Clay,Stan Wawrinka,Alvaro Guillen Meza
+2025,2025-07-20,A,250,28,R32,3,Clay,Carlos Taberner,Pierre-Hugues Herbert
+2025,2025-07-20,A,250,28,F,3,Clay,Luciano Darderi,Carlos Taberner
+2025,2025-07-20,A,250,28,R32,3,Clay,Chun-Hsin Tseng,Giulio Zeppieri
+2025,2025-07-20,A,250,28,R32,3,Clay,Francesco Passaro,Matej Dodig
+2025,2025-07-20,A,250,28,QF,3,Clay,Camilo Ugo Carabelli,Pablo Llamas Ruiz
+2025,2025-07-20,A,250,28,R16,3,Clay,Damir Dzumhur,Stan Wawrinka
+2025,2025-07-20,A,250,28,R16,3,Clay,Titouan Droguet,Vit Kopriva
+2025,2025-07-20,A,250,28,QF,3,Clay,Luciano Darderi,Dino Prizmic
+2025,2025-07-20,A,250,28,R32,3,Clay,Pablo Llamas Ruiz,Kamil Majchrzak
+2025,2025-07-20,A,250,28,R16,3,Clay,Carlos Taberner,Francisco Cerundolo
+2025,2025-07-20,A,250,28,R32,3,Clay,Nikoloz Basilashvili,Roberto Carballes Baena
+2025,2025-07-20,A,250,28,R16,3,Clay,Pablo Llamas Ruiz,Terence Atmane
+2025,2025-07-20,A,250,28,QF,3,Clay,Carlos Taberner,Jesper de Jong
+2025,2025-07-20,A,250,28,QF,3,Clay,Damir Dzumhur,Titouan Droguet
+2025,2025-07-20,A,250,28,R16,3,Clay,Camilo Ugo Carabelli,Francesco Passaro
+2025,2025-07-20,A,250,28,R32,3,Clay,Dino Prizmic,Elmer Moller
+2025,2025-07-20,A,250,28,R16,3,Clay,Jesper de Jong,Mariano Navone
+2025,2025-07-20,A,250,28,R32,3,Clay,Terence Atmane,Dusan Lajovic
+2025,2025-07-20,A,250,28,R16,3,Clay,Dino Prizmic,Nikoloz Basilashvili
+2025,2025-07-20,A,250,28,SF,3,Clay,Carlos Taberner,Damir Dzumhur
+2025,2025-07-20,A,250,28,R32,3,Clay,Titouan Droguet,Cristian Garin
+2025,2025-07-20,A,250,28,R32,3,Clay,Jesper de Jong,Mili Poljicak
+2025,2025-07-20,A,250,28,R32,3,Clay,Mariano Navone,Tomas Barrios Vera
+2025,2025-07-20,A,250,28,R32,3,Clay,Vit Kopriva,Raphael Collignon
+2025,2025-07-20,A,250,28,SF,3,Clay,Luciano Darderi,Camilo Ugo Carabelli
+2025,2025-07-20,A,250,28,R16,3,Clay,Luciano Darderi,Chun-Hsin Tseng
+2025,2025-07-21,A,500,48,R16,3,Hard,Frances Tiafoe,Flavio Cobolli
+2025,2025-07-21,A,250,28,SF,3,Clay,Alexander Bublik,Botic van de Zandschulp
+2025,2025-07-21,A,500,48,R64,3,Hard,Aleksandar Kovacevic,Quentin Halys
+2025,2025-07-21,A,500,48,R64,3,Hard,Yibing Wu,Gael Monfils
+2025,2025-07-21,A,500,48,QF,3,Hard,Alex de Minaur,Brandon Nakashima
+2025,2025-07-21,A,250,28,R16,3,Clay,Arthur Rinderknech,Norbert Gombos
+2025,2025-07-21,A,500,48,R32,3,Hard,Corentin Moutet,Alexandre Muller
+2025,2025-07-21,A,250,28,R32,3,Clay,Botic van de Zandschulp,Nicolas Jarry
+2025,2025-07-21,A,500,48,R32,3,Hard,Cameron Norrie,Lorenzo Musetti
+2025,2025-07-21,A,250,28,R32,3,Clay,Alexander Shevchenko,Daniel Elahi Galan
+2025,2025-07-21,A,250,28,R32,3,Clay,Marton Fucsovics,Joel Schwaerzler
+2025,2025-07-21,A,250,28,R32,3,Clay,Filip Misolic,Tomas Martin Etcheverry
+2025,2025-07-21,A,500,48,R32,3,Hard,Brandon Nakashima,Ethan Quinn
+2025,2025-07-21,A,500,48,R32,3,Hard,Daniel Evans,Alex Michelsen
+2025,2025-07-21,A,500,48,QF,3,Hard,Corentin Moutet,Daniil Medvedev
+2025,2025-07-21,A,250,28,R16,3,Clay,Yannick Hanfmann,Sebastian Baez
+2025,2025-07-21,A,500,48,R16,3,Hard,Ben Shelton,Gabriel Diallo
+2025,2025-07-21,A,250,28,SF,3,Clay,Arthur Cazaux,Arthur Rinderknech
+2025,2025-07-21,A,500,48,R32,3,Hard,Gabriel Diallo,Fabian Marozsan
+2025,2025-07-21,A,250,28,R32,3,Clay,Francisco Comesana,Tristan Boyer
+2025,2025-07-21,A,500,48,R64,3,Hard,Jaume Munar,Marcos Giron
+2025,2025-07-21,A,250,28,R16,3,Clay,Alexander Bublik,Thiago Agustin Tirante
+2025,2025-07-21,A,250,28,R32,3,Clay,Arthur Rinderknech,Facundo Bagnis
+2025,2025-07-21,A,500,48,R32,3,Hard,Matteo Arnaldi,Lorenzo Sonego
+2025,2025-07-21,A,250,28,QF,3,Clay,Alexander Bublik,Alexander Shevchenko
+2025,2025-07-21,A,500,48,F,3,Hard,Alex de Minaur,Alejandro Davidovich Fokina
+2025,2025-07-21,A,250,28,R16,3,Clay,Arthur Cazaux,Francisco Comesana
+2025,2025-07-21,A,250,28,R16,3,Clay,Jan-Lennard Struff,Pedro Martinez
+2025,2025-07-21,A,500,48,R64,3,Hard,Yunchaokete Bu,David Goffin
+2025,2025-07-21,A,500,48,R64,3,Hard,Mackenzie McDonald,Colton Smith
+2025,2025-07-21,A,500,48,R32,3,Hard,Taylor Fritz,Aleksandar Vukic
+2025,2025-07-21,A,250,28,QF,3,Clay,Botic van de Zandschulp,Thiago Seyboth Wild
+2025,2025-07-21,A,250,28,R32,3,Clay,Norbert Gombos,Hugo Gaston
+2025,2025-07-21,A,250,28,R16,3,Clay,Alexander Shevchenko,Marton Fucsovics
+2025,2025-07-21,A,500,48,R64,3,Hard,Ethan Quinn,Christopher O'Connell
+2025,2025-07-21,A,250,28,R32,3,Clay,Arthur Cazaux,Ignacio Buse
+2025,2025-07-21,A,500,48,R32,3,Hard,Ben Shelton,Mackenzie McDonald
+2025,2025-07-21,A,500,48,R64,3,Hard,Zachary Svajda,Miomir Kecmanovic
+2025,2025-07-21,A,500,48,R32,3,Hard,Learner Tien,Andrey Rublev
+2025,2025-07-21,A,500,48,R64,3,Hard,Cameron Norrie,Billy Harris
+2025,2025-07-21,A,250,28,R32,3,Clay,Jan-Lennard Struff,Sebastian Ofner
+2025,2025-07-21,A,500,48,R32,3,Hard,Frances Tiafoe,Aleksandar Kovacevic
+2025,2025-07-21,A,250,28,R32,3,Clay,Yannick Hanfmann,Lukas Neumayer
+2025,2025-07-21,A,250,28,R16,3,Clay,Thiago Seyboth Wild,Roberto Bautista Agut
+2025,2025-07-21,A,500,48,SF,3,Hard,Alex de Minaur,Corentin Moutet
+2025,2025-07-21,A,500,48,R64,3,Hard,Alexandre Muller,Beibit Zhukayev
+2025,2025-07-21,A,500,48,R64,3,Hard,Fabian Marozsan,Benjamin Bonzi
+2025,2025-07-21,A,250,28,QF,3,Clay,Arthur Cazaux,Jan-Lennard Struff
+2025,2025-07-21,A,500,48,R16,3,Hard,Brandon Nakashima,Cameron Norrie
+2025,2025-07-21,A,500,48,R64,3,Hard,Learner Tien,Emilio Nava
+2025,2025-07-21,A,250,28,QF,3,Clay,Arthur Rinderknech,Yannick Hanfmann
+2025,2025-07-21,A,500,48,R16,3,Hard,Alex de Minaur,Jiri Lehecka
+2025,2025-07-21,A,250,28,R16,3,Clay,Botic van de Zandschulp,Filip Misolic
+2025,2025-07-21,A,500,48,SF,3,Hard,Alejandro Davidovich Fokina,Ben Shelton
+2025,2025-07-21,A,500,48,R32,3,Hard,Flavio Cobolli,Yoshihito Nishioka
+2025,2025-07-21,A,500,48,R64,3,Hard,Matteo Arnaldi,Daniel Altmaier
+2025,2025-07-21,A,500,48,R32,3,Hard,Alejandro Davidovich Fokina,Jaume Munar
+2025,2025-07-21,A,500,48,QF,3,Hard,Ben Shelton,Frances Tiafoe
+2025,2025-07-21,A,500,48,R16,3,Hard,Corentin Moutet,Daniel Evans
+2025,2025-07-21,A,500,48,R32,3,Hard,Jiri Lehecka,Zachary Svajda
+2025,2025-07-21,A,500,48,R16,3,Hard,Alejandro Davidovich Fokina,Learner Tien
+2025,2025-07-21,A,500,48,R64,3,Hard,Aleksandar Vukic,Giovanni Mpetshi Perricard
+2025,2025-07-21,A,500,48,R32,3,Hard,Yibing Wu,Alexei Popyrin
+2025,2025-07-21,A,500,48,R32,3,Hard,Daniil Medvedev,Reilly Opelka
+2025,2025-07-21,A,250,28,R32,3,Clay,Thiago Seyboth Wild,Justin Engel
+2025,2025-07-21,A,500,48,R64,3,Hard,Reilly Opelka,Murphy Cassone
+2025,2025-07-21,A,500,48,R16,3,Hard,Taylor Fritz,Matteo Arnaldi
+2025,2025-07-21,A,500,48,R32,3,Hard,Alex de Minaur,Yunchaokete Bu
+2025,2025-07-21,A,250,28,F,3,Clay,Alexander Bublik,Arthur Cazaux
+2025,2025-07-21,A,500,48,R16,3,Hard,Daniil Medvedev,Yibing Wu
+2025,2025-07-21,A,500,48,R64,3,Hard,Yoshihito Nishioka,Jenson Brooksby
+2025,2025-07-21,A,500,48,R64,3,Hard,Daniel Evans,Zizou Bergs
+2025,2025-07-21,A,250,28,R32,3,Clay,Thiago Agustin Tirante,Jaime Faria
+2025,2025-07-21,A,500,48,QF,3,Hard,Alejandro Davidovich Fokina,Taylor Fritz
+2025,2025-07-27,M,1000,96,R64,3,Hard,Emilio Nava,Terence Atmane
+2025,2025-07-27,M,1000,96,R16,3,Hard,Alex de Minaur,Frances Tiafoe
+2025,2025-07-27,M,1000,96,QF,3,Hard,Alexander Zverev,Alexei Popyrin
+2025,2025-07-27,M,1000,96,R64,3,Hard,Fabian Marozsan,Felix Auger-Aliassime
+2025,2025-07-27,M,1000,96,R32,3,Hard,Andrey Rublev,Lorenzo Sonego
+2025,2025-07-27,M,1000,96,R128,3,Hard,Emilio Nava,Zizou Bergs
+2025,2025-07-27,M,1000,96,R128,3,Hard,Tomas Martin Etcheverry,Pierre-Hugues Herbert
+2025,2025-07-27,M,1000,96,R128,3,Hard,Reilly Opelka,Sebastian Ofner
+2025,2025-07-27,M,1000,96,R64,3,Hard,Aleksandar Vukic,Cameron Norrie
+2025,2025-07-27,M,1000,96,R16,3,Hard,Alexander Zverev,Francisco Cerundolo
+2025,2025-07-27,M,1000,96,R32,3,Hard,Frances Tiafoe,Aleksandar Vukic
+2025,2025-07-27,M,1000,96,R128,3,Hard,Dalibor Svrcina,Alexander Blockx
+2025,2025-07-27,M,1000,96,R128,3,Hard,Adam Walton,Benjamin Bonzi
+2025,2025-07-27,M,1000,96,R64,3,Hard,Alexander Zverev,Adam Walton
+2025,2025-07-27,M,1000,96,R64,3,Hard,Matteo Arnaldi,Tristan Schoolkate
+2025,2025-07-27,M,1000,96,R128,3,Hard,Pablo Carreno Busta,Liam Draxl
+2025,2025-07-27,M,1000,96,R16,3,Hard,Alexei Popyrin,Holger Rune
+2025,2025-07-27,M,1000,96,R64,3,Hard,Frances Tiafoe,Yosuke Watanuki
+2025,2025-07-27,M,1000,96,R32,3,Hard,Alejandro Davidovich Fokina,Jakub Mensik
+2025,2025-07-27,M,1000,96,R128,3,Hard,Corentin Moutet,Jenson Brooksby
+2025,2025-07-27,M,1000,96,R64,3,Hard,Flavio Cobolli,Alexis Galarneau
+2025,2025-07-27,M,1000,96,QF,3,Hard,Karen Khachanov,Alex Michelsen
+2025,2025-07-27,M,1000,96,R16,3,Hard,Ben Shelton,Flavio Cobolli
+2025,2025-07-27,M,1000,96,R128,3,Hard,Christopher O'Connell,Chun-Hsin Tseng
+2025,2025-07-27,M,1000,96,R64,3,Hard,Karen Khachanov,Juan Pablo Ficovich
+2025,2025-07-27,M,1000,96,R32,3,Hard,Alexei Popyrin,Daniil Medvedev
+2025,2025-07-27,M,1000,96,R64,3,Hard,Jakub Mensik,Tristan Boyer
+2025,2025-07-27,M,1000,96,R32,3,Hard,Karen Khachanov,Emilio Nava
+2025,2025-07-27,M,1000,96,R64,3,Hard,Taylor Fritz,Roberto Carballes Baena
+2025,2025-07-27,M,1000,96,R128,3,Hard,Roberto Carballes Baena,Camilo Ugo Carabelli
+2025,2025-07-27,M,1000,96,R64,3,Hard,Tomas Martin Etcheverry,Tallon Griekspoor
+2025,2025-07-27,M,1000,96,R128,3,Hard,Fabian Marozsan,Hugo Dellien
+2025,2025-07-27,M,1000,96,R64,3,Hard,Reilly Opelka,Tomas Machac
+2025,2025-07-27,M,1000,96,R16,3,Hard,Andrey Rublev,Alejandro Davidovich Fokina
+2025,2025-07-27,M,1000,96,SF,3,Hard,Karen Khachanov,Alexander Zverev
+2025,2025-07-27,M,1000,96,R128,3,Hard,Adrian Mannarino,Marcos Giron
+2025,2025-07-27,M,1000,96,R64,3,Hard,Ben Shelton,Adrian Mannarino
+2025,2025-07-27,M,1000,96,R64,3,Hard,Alexandre Muller,Miomir Kecmanovic
+2025,2025-07-27,M,1000,96,R64,3,Hard,Holger Rune,Giovanni Mpetshi Perricard
+2025,2025-07-27,M,1000,96,R128,3,Hard,James Duckworth,Juncheng Shang
+2025,2025-07-27,M,1000,96,R128,3,Hard,Giovanni Mpetshi Perricard,Shintaro Mochizuki
+2025,2025-07-27,M,1000,96,R128,3,Hard,Yosuke Watanuki,Daniel Altmaier
+2025,2025-07-27,M,1000,96,R64,3,Hard,Brandon Nakashima,Ethan Quinn
+2025,2025-07-27,M,1000,96,SF,3,Hard,Ben Shelton,Taylor Fritz
+2025,2025-07-27,M,1000,96,R16,3,Hard,Taylor Fritz,Jiri Lehecka
+2025,2025-07-27,M,1000,96,R64,3,Hard,Learner Tien,Denis Shapovalov
+2025,2025-07-27,M,1000,96,R64,3,Hard,Francisco Cerundolo,Jaume Munar
+2025,2025-07-27,M,1000,96,R64,3,Hard,Gabriel Diallo,Matteo Gigante
+2025,2025-07-27,M,1000,96,R128,3,Hard,Nicolas Arseneault,Valentin Royer
+2025,2025-07-27,M,1000,96,R32,3,Hard,Casper Ruud,Nuno Borges
+2025,2025-07-27,M,1000,96,R64,3,Hard,Alejandro Davidovich Fokina,Corentin Moutet
+2025,2025-07-27,M,1000,96,R32,3,Hard,Holger Rune,Alexandre Muller
+2025,2025-07-27,M,1000,96,R64,3,Hard,Daniil Medvedev,Dalibor Svrcina
+2025,2025-07-27,M,1000,96,R64,3,Hard,Jiri Lehecka,Mackenzie McDonald
+2025,2025-07-27,M,1000,96,R128,3,Hard,Aleksandar Vukic,Pedro Martinez
+2025,2025-07-27,M,1000,96,R128,3,Hard,Miomir Kecmanovic,Quentin Halys
+2025,2025-07-27,M,1000,96,R32,3,Hard,Alex Michelsen,Lorenzo Musetti
+2025,2025-07-27,M,1000,96,R128,3,Hard,Tomas Barrios Vera,Gael Monfils
+2025,2025-07-27,M,1000,96,R128,3,Hard,Roman Safiullin,Ugo Blanchet
+2025,2025-07-27,M,1000,96,R64,3,Hard,Lorenzo Sonego,Yunchaokete Bu
+2025,2025-07-27,M,1000,96,R32,3,Hard,Alexander Zverev,Matteo Arnaldi
+2025,2025-07-27,M,1000,96,R64,3,Hard,Alex Michelsen,Tomas Barrios Vera
+2025,2025-07-27,M,1000,96,R64,3,Hard,Lorenzo Musetti,James Duckworth
+2025,2025-07-27,M,1000,96,R128,3,Hard,Alexis Galarneau,Arthur Rinderknech
+2025,2025-07-27,M,1000,96,R32,3,Hard,Francisco Cerundolo,Tomas Martin Etcheverry
+2025,2025-07-27,M,1000,96,F,3,Hard,Ben Shelton,Karen Khachanov
+2025,2025-07-27,M,1000,96,R64,3,Hard,Andrey Rublev,Hugo Gaston
+2025,2025-07-27,M,1000,96,R128,3,Hard,Hugo Gaston,Mattia Bellucci
+2025,2025-07-27,M,1000,96,R128,3,Hard,Ethan Quinn,Yoshihito Nishioka
+2025,2025-07-27,M,1000,96,R32,3,Hard,Learner Tien,Reilly Opelka
+2025,2025-07-27,M,1000,96,R128,3,Hard,Matteo Gigante,Borna Coric
+2025,2025-07-27,M,1000,96,R64,3,Hard,Arthur Fils,Pablo Carreno Busta
+2025,2025-07-27,M,1000,96,R64,3,Hard,Alexei Popyrin,Nicolas Arseneault
+2025,2025-07-27,M,1000,96,R64,3,Hard,Alex de Minaur,Francisco Comesana
+2025,2025-07-27,M,1000,96,R128,3,Hard,Yunchaokete Bu,Vit Kopriva
+2025,2025-07-27,M,1000,96,QF,3,Hard,Ben Shelton,Alex de Minaur
+2025,2025-07-27,M,1000,96,R16,3,Hard,Alex Michelsen,Learner Tien
+2025,2025-07-27,M,1000,96,R64,3,Hard,Casper Ruud,Roman Safiullin
+2025,2025-07-27,M,1000,96,R128,3,Hard,Francisco Comesana,Damir Dzumhur
+2025,2025-07-27,M,1000,96,R32,3,Hard,Jiri Lehecka,Arthur Fils
+2025,2025-07-27,M,1000,96,R128,3,Hard,Mackenzie McDonald,David Goffin
+2025,2025-07-27,M,1000,96,R32,3,Hard,Flavio Cobolli,Fabian Marozsan
+2025,2025-07-27,M,1000,96,R128,3,Hard,Tristan Boyer,Aleksandar Kovacevic
+2025,2025-07-27,M,1000,96,R32,3,Hard,Ben Shelton,Brandon Nakashima
+2025,2025-07-27,M,1000,96,R128,3,Hard,Jaume Munar,Dan Martin
+2025,2025-07-27,M,1000,96,R128,3,Hard,Juan Pablo Ficovich,Jacob Fearnley
+2025,2025-07-27,M,1000,96,R128,3,Hard,Tristan Schoolkate,Joao Fonseca
+2025,2025-07-27,M,1000,96,R32,3,Hard,Taylor Fritz,Gabriel Diallo
+2025,2025-07-27,M,1000,96,R64,3,Hard,Nuno Borges,Facundo Bagnis
+2025,2025-07-27,M,1000,96,R16,3,Hard,Karen Khachanov,Casper Ruud
+2025,2025-07-27,M,1000,96,QF,3,Hard,Taylor Fritz,Andrey Rublev
+2025,2025-07-27,M,1000,96,R64,3,Hard,Christopher O'Connell,Stefanos Tsitsipas
+2025,2025-07-27,M,1000,96,R128,3,Hard,Facundo Bagnis,Vasek Pospisil
+2025,2025-07-27,M,1000,96,R128,3,Hard,Learner Tien,Colton Smith
+2025,2025-08-07,M,1000,96,R128,3,Hard,Sebastian Baez,David Goffin
+2025,2025-08-07,M,1000,96,R128,3,Hard,Roberto Carballes Baena,Hugo Gaston
+2025,2025-08-07,M,1000,96,R32,3,Hard,Carlos Alcaraz,Hamad Medjedovic
+2025,2025-08-07,M,1000,96,R32,3,Hard,Alexander Zverev,Brandon Nakashima
+2025,2025-08-07,M,1000,96,R128,3,Hard,Pedro Martinez,Nicolas Jarry
+2025,2025-08-07,M,1000,96,R128,3,Hard,Joao Fonseca,Yunchaokete Bu
+2025,2025-08-07,M,1000,96,R128,3,Hard,Corentin Moutet,Mackenzie McDonald
+2025,2025-08-07,M,1000,96,QF,3,Hard,Carlos Alcaraz,Andrey Rublev
+2025,2025-08-07,M,1000,96,R64,3,Hard,Jiri Lehecka,Tristan Boyer
+2025,2025-08-07,M,1000,96,R64,3,Hard,Alex Michelsen,Corentin Moutet
+2025,2025-08-07,M,1000,96,R16,3,Hard,Holger Rune,Frances Tiafoe
+2025,2025-08-07,M,1000,96,R16,3,Hard,Terence Atmane,Taylor Fritz
+2025,2025-08-07,M,1000,96,R128,3,Hard,Adam Walton,Mariano Navone
+2025,2025-08-07,M,1000,96,R64,3,Hard,Holger Rune,Roman Safiullin
+2025,2025-08-07,M,1000,96,R128,3,Hard,Francisco Comesana,Jaume Munar
+2025,2025-08-07,M,1000,96,R64,3,Hard,Adam Walton,Daniil Medvedev
+2025,2025-08-07,M,1000,96,QF,3,Hard,Alexander Zverev,Ben Shelton
+2025,2025-08-07,M,1000,96,R128,3,Hard,Learner Tien,Leandro Riedi
+2025,2025-08-07,M,1000,96,R32,3,Hard,Karen Khachanov,Jenson Brooksby
+2025,2025-08-07,M,1000,96,R32,3,Hard,Luca Nardi,Jakub Mensik
+2025,2025-08-07,M,1000,96,R128,3,Hard,Luca Nardi,Thiago Agustin Tirante
+2025,2025-08-07,M,1000,96,F,3,Hard,Carlos Alcaraz,Jannik Sinner
+2025,2025-08-07,M,1000,96,R128,3,Hard,Reilly Opelka,Hugo Dellien
+2025,2025-08-07,M,1000,96,R64,3,Hard,Reilly Opelka,Alex de Minaur
+2025,2025-08-07,M,1000,96,R128,3,Hard,Valentin Royer,Sebastian Ofner
+2025,2025-08-07,M,1000,96,R64,3,Hard,Taylor Fritz,Emilio Nava
+2025,2025-08-07,M,1000,96,R32,3,Hard,Adrian Mannarino,Tommy Paul
+2025,2025-08-07,M,1000,96,R64,3,Hard,Jakub Mensik,Ethan Quinn
+2025,2025-08-07,M,1000,96,R128,3,Hard,Hamad Medjedovic,Aleksandar Kovacevic
+2025,2025-08-07,M,1000,96,R64,3,Hard,Felix Auger-Aliassime,Tomas Martin Etcheverry
+2025,2025-08-07,M,1000,96,R32,3,Hard,Terence Atmane,Joao Fonseca
+2025,2025-08-07,M,1000,96,R128,3,Hard,Alexander Blockx,Marcos Giron
+2025,2025-08-07,M,1000,96,R128,3,Hard,Fabian Marozsan,Colton Smith
+2025,2025-08-07,M,1000,96,R128,3,Hard,Roberto Bautista Agut,Daniel Altmaier
+2025,2025-08-07,M,1000,96,R32,3,Hard,Taylor Fritz,Lorenzo Sonego
+2025,2025-08-07,M,1000,96,R64,3,Hard,Arthur Rinderknech,Casper Ruud
+2025,2025-08-07,M,1000,96,R64,3,Hard,Luca Nardi,Denis Shapovalov
+2025,2025-08-07,M,1000,96,R32,3,Hard,Jannik Sinner,Gabriel Diallo
+2025,2025-08-07,M,1000,96,R64,3,Hard,Lorenzo Sonego,Zizou Bergs
+2025,2025-08-07,M,1000,96,R64,3,Hard,Francisco Comesana,Luciano Darderi
+2025,2025-08-07,M,1000,96,R128,3,Hard,Roman Safiullin,Alejandro Tabilo
+2025,2025-08-07,M,1000,96,R128,3,Hard,Zizou Bergs,Jacob Fearnley
+2025,2025-08-07,M,1000,96,R16,3,Hard,Carlos Alcaraz,Luca Nardi
+2025,2025-08-07,M,1000,96,R64,3,Hard,Joao Fonseca,Alejandro Davidovich Fokina
+2025,2025-08-07,M,1000,96,R64,3,Hard,Brandon Nakashima,Alexander Blockx
+2025,2025-08-07,M,1000,96,SF,3,Hard,Carlos Alcaraz,Alexander Zverev
+2025,2025-08-07,M,1000,96,R128,3,Hard,Camilo Ugo Carabelli,Kei Nishikori
+2025,2025-08-07,M,1000,96,R128,3,Hard,Benjamin Bonzi,Matteo Arnaldi
+2025,2025-08-07,M,1000,96,R64,3,Hard,Benjamin Bonzi,Lorenzo Musetti
+2025,2025-08-07,M,1000,96,R128,3,Hard,Emilio Nava,Borna Coric
+2025,2025-08-07,M,1000,96,R32,3,Hard,Benjamin Bonzi,Stefanos Tsitsipas
+2025,2025-08-07,M,1000,96,R64,3,Hard,Alexei Popyrin,Martin Landaluce
+2025,2025-08-07,M,1000,96,R128,3,Hard,Tomas Martin Etcheverry,Juncheng Shang
+2025,2025-08-07,M,1000,96,R32,3,Hard,Holger Rune,Alex Michelsen
+2025,2025-08-07,M,1000,96,R64,3,Hard,Tommy Paul,Pedro Martinez
+2025,2025-08-07,M,1000,96,R64,3,Hard,Hamad Medjedovic,Tallon Griekspoor
+2025,2025-08-07,M,1000,96,R128,3,Hard,Damir Dzumhur,Mattia Bellucci
+2025,2025-08-07,M,1000,96,R64,3,Hard,Carlos Alcaraz,Damir Dzumhur
+2025,2025-08-07,M,1000,96,R64,3,Hard,Adrian Mannarino,Tomas Machac
+2025,2025-08-07,M,1000,96,R32,3,Hard,Frances Tiafoe,Ugo Humbert
+2025,2025-08-07,M,1000,96,R64,3,Hard,Andrey Rublev,Learner Tien
+2025,2025-08-07,M,1000,96,R32,3,Hard,Felix Auger-Aliassime,Arthur Rinderknech
+2025,2025-08-07,M,1000,96,R64,3,Hard,Stefanos Tsitsipas,Fabian Marozsan
+2025,2025-08-07,M,1000,96,SF,3,Hard,Jannik Sinner,Terence Atmane
+2025,2025-08-07,M,1000,96,R64,3,Hard,Alexander Zverev,Nishesh Basavareddy
+2025,2025-08-07,M,1000,96,R128,3,Hard,Nishesh Basavareddy,Aleksandar Vukic
+2025,2025-08-07,M,1000,96,R64,3,Hard,Terence Atmane,Flavio Cobolli
+2025,2025-08-07,M,1000,96,R128,3,Hard,Jenson Brooksby,Alexandre Muller
+2025,2025-08-07,M,1000,96,R16,3,Hard,Andrey Rublev,Francisco Comesana
+2025,2025-08-07,M,1000,96,R64,3,Hard,Ben Shelton,Camilo Ugo Carabelli
+2025,2025-08-07,M,1000,96,R16,3,Hard,Felix Auger-Aliassime,Benjamin Bonzi
+2025,2025-08-07,M,1000,96,R32,3,Hard,Jiri Lehecka,Adam Walton
+2025,2025-08-07,M,1000,96,R64,3,Hard,Gabriel Diallo,Sebastian Baez
+2025,2025-08-07,M,1000,96,R128,3,Hard,Ethan Quinn,Miomir Kecmanovic
+2025,2025-08-07,M,1000,96,R16,3,Hard,Alexander Zverev,Karen Khachanov
+2025,2025-08-07,M,1000,96,R64,3,Hard,Frances Tiafoe,Roberto Carballes Baena
+2025,2025-08-07,M,1000,96,R128,3,Hard,Tristan Boyer,Brandon Holt
+2025,2025-08-07,M,1000,96,R64,3,Hard,Karen Khachanov,Valentin Royer
+2025,2025-08-07,M,1000,96,R128,3,Hard,Martin Landaluce,Patrick Kypson
+2025,2025-08-07,M,1000,96,QF,3,Hard,Terence Atmane,Holger Rune
+2025,2025-08-07,M,1000,96,R32,3,Hard,Andrey Rublev,Alexei Popyrin
+2025,2025-08-07,M,1000,96,R128,3,Hard,Terence Atmane,Yoshihito Nishioka
+2025,2025-08-07,M,1000,96,R128,3,Hard,Adrian Mannarino,Jordan Thompson
+2025,2025-08-07,M,1000,96,R32,3,Hard,Francisco Comesana,Reilly Opelka
+2025,2025-08-07,M,1000,96,R128,3,Hard,Coleman Wong,Giovanni Mpetshi Perricard
+2025,2025-08-07,M,1000,96,QF,3,Hard,Jannik Sinner,Felix Auger-Aliassime
+2025,2025-08-07,M,1000,96,R64,3,Hard,Jenson Brooksby,Arthur Cazaux
+2025,2025-08-07,M,1000,96,R64,3,Hard,Ugo Humbert,Coleman Wong
+2025,2025-08-07,M,1000,96,R16,3,Hard,Ben Shelton,Jiri Lehecka
+2025,2025-08-07,M,1000,96,R128,3,Hard,Daniel Elahi Galan,Vit Kopriva
+2025,2025-08-07,M,1000,96,R64,3,Hard,Jannik Sinner,Daniel Elahi Galan
+2025,2025-08-07,M,1000,96,R32,3,Hard,Ben Shelton,Roberto Bautista Agut
+2025,2025-08-07,M,1000,96,R128,3,Hard,Arthur Rinderknech,Nuno Borges
+2025,2025-08-07,M,1000,96,R16,3,Hard,Jannik Sinner,Adrian Mannarino
+2025,2025-08-07,M,1000,96,R64,3,Hard,Roberto Bautista Agut,Cameron Norrie
+2025,2025-08-17,A,250,48,R64,3,Hard,Hamad Medjedovic,Arthur Rinderknech
+2025,2025-08-17,A,250,48,R16,3,Hard,Marton Fucsovics,Roberto Bautista Agut
+2025,2025-08-17,A,250,48,SF,3,Hard,Marton Fucsovics,Sebastian Korda
+2025,2025-08-17,A,250,48,R64,3,Hard,Mackenzie McDonald,Brandon Holt
+2025,2025-08-17,A,250,48,R32,3,Hard,Botic van de Zandschulp,Matteo Arnaldi
+2025,2025-08-17,A,250,48,R64,3,Hard,Mattia Bellucci,Francisco Comesana
+2025,2025-08-17,A,250,48,R32,3,Hard,Alexandre Muller,Darwin Blanch
+2025,2025-08-17,A,250,48,R64,3,Hard,Marton Fucsovics,Hugo Gaston
+2025,2025-08-17,A,250,48,R64,3,Hard,Mariano Navone,Dhakshineswar Suresh
+2025,2025-08-17,A,250,48,R32,3,Hard,Giovanni Mpetshi Perricard,Pedro Martinez
+2025,2025-08-17,A,250,48,R32,3,Hard,Sebastian Baez,Pablo Carreno Busta
+2025,2025-08-17,A,250,48,R64,3,Hard,Botic van de Zandschulp,Adam Walton
+2025,2025-08-17,A,250,48,SF,3,Hard,Botic van de Zandschulp,Giovanni Mpetshi Perricard
+2025,2025-08-17,A,250,48,R16,3,Hard,Jaume Munar,Lorenzo Sonego
+2025,2025-08-17,A,250,48,R16,3,Hard,Botic van de Zandschulp,Sebastian Baez
+2025,2025-08-17,A,250,48,R32,3,Hard,Sebastian Korda,Vit Kopriva
+2025,2025-08-17,A,250,48,R64,3,Hard,Yunchaokete Bu,Chun-Hsin Tseng
+2025,2025-08-17,A,250,48,R16,3,Hard,Miomir Kecmanovic,Luciano Darderi
+2025,2025-08-17,A,250,48,QF,3,Hard,Giovanni Mpetshi Perricard,Hamad Medjedovic
+2025,2025-08-17,A,250,48,R32,3,Hard,Jaume Munar,Mattia Bellucci
+2025,2025-08-17,A,250,48,R32,3,Hard,Lorenzo Sonego,Stefan Dostanic
+2025,2025-08-17,A,250,48,R64,3,Hard,Aleksandar Kovacevic,Filip Misolic
+2025,2025-08-17,A,250,48,QF,3,Hard,Botic van de Zandschulp,Yunchaokete Bu
+2025,2025-08-17,A,250,48,R16,3,Hard,Sebastian Korda,Kamil Majchrzak
+2025,2025-08-17,A,250,48,R64,3,Hard,Pedro Martinez,David Goffin
+2025,2025-08-17,A,250,48,R32,3,Hard,Kamil Majchrzak,Nuno Borges
+2025,2025-08-17,A,250,48,R16,3,Hard,Yunchaokete Bu,Mariano Navone
+2025,2025-08-17,A,250,48,R64,3,Hard,Kamil Majchrzak,Nicolas Jarry
+2025,2025-08-17,A,250,48,R32,3,Hard,Marton Fucsovics,Tallon Griekspoor
+2025,2025-08-17,A,250,48,R32,3,Hard,Luciano Darderi,Mackenzie McDonald
+2025,2025-08-17,A,250,48,R64,3,Hard,Vit Kopriva,Sebastian Ofner
+2025,2025-08-17,A,250,48,QF,3,Hard,Marton Fucsovics,Jaume Munar
+2025,2025-08-17,A,250,48,R16,3,Hard,Giovanni Mpetshi Perricard,Alexandre Muller
+2025,2025-08-17,A,250,48,R64,3,Hard,Darwin Blanch,Borna Coric
+2025,2025-08-17,A,250,48,R16,3,Hard,Hamad Medjedovic,Gabriel Diallo
+2025,2025-08-17,A,250,48,QF,3,Hard,Sebastian Korda,Miomir Kecmanovic
+2025,2025-08-17,A,250,48,R32,3,Hard,Miomir Kecmanovic,Aleksandar Kovacevic
+2025,2025-08-17,A,250,48,R32,3,Hard,Roberto Bautista Agut,Christopher O'Connell
+2025,2025-08-17,A,250,48,F,3,Hard,Marton Fucsovics,Botic van de Zandschulp
+2025,2025-08-17,A,250,48,R32,3,Hard,Mariano Navone,Marcos Giron
+2025,2025-08-17,A,250,48,R64,3,Hard,Pablo Carreno Busta,Yoshihito Nishioka
+2025,2025-08-17,A,250,48,R32,3,Hard,Hamad Medjedovic,Jacob Fearnley
+2025,2025-08-17,A,250,48,R32,3,Hard,Gabriel Diallo,Nishesh Basavareddy
+2025,2025-08-17,A,250,48,R64,3,Hard,Christopher O'Connell,Roman Safiullin
+2025,2025-08-17,A,250,48,R64,3,Hard,Nishesh Basavareddy,Raphael Collignon
+2025,2025-08-17,A,250,48,R32,3,Hard,Yunchaokete Bu,Stefanos Tsitsipas
+2025,2025-08-17,A,250,48,R64,3,Hard,Stefan Dostanic,Aleksandar Vukic
+2025,2025-08-24,G,GS,128,R16,5,Hard,Novak Djokovic,Jan-Lennard Struff
+2025,2025-08-24,G,GS,128,R64,5,Hard,Leandro Riedi,Francisco Cerundolo
+2025,2025-08-24,G,GS,128,R128,5,Hard,Frances Tiafoe,Yoshihito Nishioka
+2025,2025-08-24,G,GS,128,R64,5,Hard,Tomas Machac,Joao Fonseca
+2025,2025-08-24,G,GS,128,R128,5,Hard,Jiri Lehecka,Borna Coric
+2025,2025-08-24,G,GS,128,QF,5,Hard,Jannik Sinner,Lorenzo Musetti
+2025,2025-08-24,G,GS,128,R128,5,Hard,Leandro Riedi,Pedro Martinez
+2025,2025-08-24,G,GS,128,R32,5,Hard,Adrian Mannarino,Ben Shelton
+2025,2025-08-24,G,GS,128,R128,5,Hard,Tristan Boyer,James Duckworth
+2025,2025-08-24,G,GS,128,R128,5,Hard,Tristan Schoolkate,Lorenzo Sonego
+2025,2025-08-24,G,GS,128,R64,5,Hard,Cameron Norrie,Francisco Comesana
+2025,2025-08-24,G,GS,128,R16,5,Hard,Jannik Sinner,Alexander Bublik
+2025,2025-08-24,G,GS,128,R128,5,Hard,David Goffin,Quentin Halys
+2025,2025-08-24,G,GS,128,R32,5,Hard,Novak Djokovic,Cameron Norrie
+2025,2025-08-24,G,GS,128,R64,5,Hard,Jannik Sinner,Alexei Popyrin
+2025,2025-08-24,G,GS,128,R128,5,Hard,Benjamin Bonzi,Daniil Medvedev
+2025,2025-08-24,G,GS,128,R128,5,Hard,Alexei Popyrin,Emil Ruusuvuori
+2025,2025-08-24,G,GS,128,R128,5,Hard,Marcos Giron,Mariano Navone
+2025,2025-08-24,G,GS,128,R128,5,Hard,Jannik Sinner,Vit Kopriva
+2025,2025-08-24,G,GS,128,R64,5,Hard,Denis Shapovalov,Valentin Royer
+2025,2025-08-24,G,GS,128,R32,5,Hard,Jan-Lennard Struff,Frances Tiafoe
+2025,2025-08-24,G,GS,128,R128,5,Hard,Lorenzo Musetti,Giovanni Mpetshi Perricard
+2025,2025-08-24,G,GS,128,R16,5,Hard,Lorenzo Musetti,Jaume Munar
+2025,2025-08-24,G,GS,128,R64,5,Hard,Novak Djokovic,Zachary Svajda
+2025,2025-08-24,G,GS,128,R128,5,Hard,Andrey Rublev,Dino Prizmic
+2025,2025-08-24,G,GS,128,R128,5,Hard,Alexander Bublik,Marin Cilic
+2025,2025-08-24,G,GS,128,R32,5,Hard,Jiri Lehecka,Raphael Collignon
+2025,2025-08-24,G,GS,128,R128,5,Hard,Francisco Cerundolo,Matteo Arnaldi
+2025,2025-08-24,G,GS,128,QF,5,Hard,Felix Auger-Aliassime,Alex de Minaur
+2025,2025-08-24,G,GS,128,R64,5,Hard,Ugo Blanchet,Jakub Mensik
+2025,2025-08-24,G,GS,128,R128,5,Hard,Tomas Martin Etcheverry,Camilo Ugo Carabelli
+2025,2025-08-24,G,GS,128,R64,5,Hard,Kamil Majchrzak,Karen Khachanov
+2025,2025-08-24,G,GS,128,R128,5,Hard,Martin Damm,Darwin Blanch
+2025,2025-08-24,G,GS,128,R16,5,Hard,Taylor Fritz,Tomas Machac
+2025,2025-08-24,G,GS,128,R32,5,Hard,Lorenzo Musetti,Flavio Cobolli
+2025,2025-08-24,G,GS,128,R64,5,Hard,Raphael Collignon,Casper Ruud
+2025,2025-08-24,G,GS,128,R128,5,Hard,Flavio Cobolli,Francesco Passaro
+2025,2025-08-24,G,GS,128,R32,5,Hard,Leandro Riedi,Kamil Majchrzak
+2025,2025-08-24,G,GS,128,R64,5,Hard,Alexander Bublik,Tristan Schoolkate
+2025,2025-08-24,G,GS,128,R128,5,Hard,Mattia Bellucci,Juncheng Shang
+2025,2025-08-24,G,GS,128,R64,5,Hard,Carlos Alcaraz,Mattia Bellucci
+2025,2025-08-24,G,GS,128,R16,5,Hard,Jiri Lehecka,Adrian Mannarino
+2025,2025-08-24,G,GS,128,R64,5,Hard,Andrey Rublev,Tristan Boyer
+2025,2025-08-24,G,GS,128,R128,5,Hard,Joao Fonseca,Miomir Kecmanovic
+2025,2025-08-24,G,GS,128,R64,5,Hard,Taylor Fritz,Lloyd Harris
+2025,2025-08-24,G,GS,128,R128,5,Hard,Lloyd Harris,Sebastian Baez
+2025,2025-08-24,G,GS,128,SF,5,Hard,Jannik Sinner,Felix Auger-Aliassime
+2025,2025-08-24,G,GS,128,R128,5,Hard,Novak Djokovic,Learner Tien
+2025,2025-08-24,G,GS,128,R128,5,Hard,Jack Draper,Federico Agustin Gomez
+2025,2025-08-24,G,GS,128,R64,5,Hard,Jaume Munar,Gabriel Diallo
+2025,2025-08-24,G,GS,128,R128,5,Hard,Alexander Zverev,Alejandro Tabilo
+2025,2025-08-24,G,GS,128,R128,5,Hard,Jacob Fearnley,Roberto Bautista Agut
+2025,2025-08-24,G,GS,128,R64,5,Hard,Zizou Bergs,Jack Draper
+2025,2025-08-24,G,GS,128,R128,5,Hard,Zachary Svajda,Zsombor Piros
+2025,2025-08-24,G,GS,128,R128,5,Hard,Zizou Bergs,Chun-Hsin Tseng
+2025,2025-08-24,G,GS,128,SF,5,Hard,Carlos Alcaraz,Novak Djokovic
+2025,2025-08-24,G,GS,128,R64,5,Hard,Jerome Kym,Brandon Nakashima
+2025,2025-08-24,G,GS,128,R128,5,Hard,Taylor Fritz,Emilio Nava
+2025,2025-08-24,G,GS,128,R64,5,Hard,Coleman Wong,Adam Walton
+2025,2025-08-24,G,GS,128,R128,5,Hard,Tomas Machac,Luca Nardi
+2025,2025-08-24,G,GS,128,R16,5,Hard,Carlos Alcaraz,Arthur Rinderknech
+2025,2025-08-24,G,GS,128,R128,5,Hard,Carlos Alcaraz,Reilly Opelka
+2025,2025-08-24,G,GS,128,R64,5,Hard,Luciano Darderi,Eliot Spizzirri
+2025,2025-08-24,G,GS,128,R64,5,Hard,Tommy Paul,Nuno Borges
+2025,2025-08-24,G,GS,128,R32,5,Hard,Alex de Minaur,Daniel Altmaier
+2025,2025-08-24,G,GS,128,R128,5,Hard,Jenson Brooksby,Aleksandar Vukic
+2025,2025-08-24,G,GS,128,R64,5,Hard,Jiri Lehecka,Tomas Martin Etcheverry
+2025,2025-08-24,G,GS,128,R32,5,Hard,Jaume Munar,Zizou Bergs
+2025,2025-08-24,G,GS,128,R64,5,Hard,Arthur Rinderknech,Alejandro Davidovich Fokina
+2025,2025-08-24,G,GS,128,R128,5,Hard,Luciano Darderi,Rinky Hijikata
+2025,2025-08-24,G,GS,128,R64,5,Hard,Lorenzo Musetti,David Goffin
+2025,2025-08-24,G,GS,128,R32,5,Hard,Felix Auger-Aliassime,Alexander Zverev
+2025,2025-08-24,G,GS,128,R128,5,Hard,Jaume Munar,Jaime Faria
+2025,2025-08-24,G,GS,128,R128,5,Hard,Cameron Norrie,Sebastian Korda
+2025,2025-08-24,G,GS,128,R128,5,Hard,Brandon Nakashima,Jesper de Jong
+2025,2025-08-24,G,GS,128,R128,5,Hard,Roman Safiullin,Gael Monfils
+2025,2025-08-24,G,GS,128,R128,5,Hard,Shintaro Mochizuki,Hugo Gaston
+2025,2025-08-24,G,GS,128,R128,5,Hard,Ben Shelton,Ignacio Buse
+2025,2025-08-24,G,GS,128,R64,5,Hard,Adrian Mannarino,Jordan Thompson
+2025,2025-08-24,G,GS,128,R128,5,Hard,Jakub Mensik,Nicolas Jarry
+2025,2025-08-24,G,GS,128,R64,5,Hard,Felix Auger-Aliassime,Roman Safiullin
+2025,2025-08-24,G,GS,128,R32,5,Hard,Jannik Sinner,Denis Shapovalov
+2025,2025-08-24,G,GS,128,R32,5,Hard,Alexander Bublik,Tommy Paul
+2025,2025-08-24,G,GS,128,R128,5,Hard,Ugo Blanchet,Fabian Marozsan
+2025,2025-08-24,G,GS,128,R64,5,Hard,Alexander Zverev,Jacob Fearnley
+2025,2025-08-24,G,GS,128,R128,5,Hard,Pablo Carreno Busta,Pablo Llamas Ruiz
+2025,2025-08-24,G,GS,128,R64,5,Hard,Ben Shelton,Pablo Carreno Busta
+2025,2025-08-24,G,GS,128,F,5,Hard,Carlos Alcaraz,Jannik Sinner
+2025,2025-08-24,G,GS,128,R128,5,Hard,Alex de Minaur,Christopher O'Connell
+2025,2025-08-24,G,GS,128,R128,5,Hard,Felix Auger-Aliassime,Billy Harris
+2025,2025-08-24,G,GS,128,R128,5,Hard,Jerome Kym,Ethan Quinn
+2025,2025-08-24,G,GS,128,R128,5,Hard,Gabriel Diallo,Damir Dzumhur
+2025,2025-08-24,G,GS,128,R128,5,Hard,Francisco Comesana,Alex Michelsen
+2025,2025-08-24,G,GS,128,R32,5,Hard,Andrey Rublev,Coleman Wong
+2025,2025-08-24,G,GS,128,R64,5,Hard,Flavio Cobolli,Jenson Brooksby
+2025,2025-08-24,G,GS,128,R64,5,Hard,Benjamin Bonzi,Marcos Giron
+2025,2025-08-24,G,GS,128,R128,5,Hard,Eliot Spizzirri,Stefan Dostanic
+2025,2025-08-24,G,GS,128,R128,5,Hard,Adam Walton,Ugo Humbert
+2025,2025-08-24,G,GS,128,R128,5,Hard,Stefanos Tsitsipas,Alexandre Muller
+2025,2025-08-24,G,GS,128,QF,5,Hard,Novak Djokovic,Taylor Fritz
+2025,2025-08-24,G,GS,128,R128,5,Hard,Jordan Thompson,Corentin Moutet
+2025,2025-08-24,G,GS,128,R64,5,Hard,Jan-Lennard Struff,Holger Rune
+2025,2025-08-24,G,GS,128,R128,5,Hard,Jan-Lennard Struff,Mackenzie McDonald
+2025,2025-08-24,G,GS,128,R64,5,Hard,Alex de Minaur,Shintaro Mochizuki
+2025,2025-08-24,G,GS,128,R16,5,Hard,Felix Auger-Aliassime,Andrey Rublev
+2025,2025-08-24,G,GS,128,R128,5,Hard,Denis Shapovalov,Marton Fucsovics
+2025,2025-08-24,G,GS,128,R128,5,Hard,Karen Khachanov,Nishesh Basavareddy
+2025,2025-08-24,G,GS,128,R128,5,Hard,Arthur Rinderknech,Roberto Carballes Baena
+2025,2025-08-24,G,GS,128,R32,5,Hard,Arthur Rinderknech,Benjamin Bonzi
+2025,2025-08-24,G,GS,128,R32,5,Hard,Tomas Machac,Ugo Blanchet
+2025,2025-08-24,G,GS,128,R128,5,Hard,Tommy Paul,Elmer Moller
+2025,2025-08-24,G,GS,128,R128,5,Hard,Raphael Collignon,Daniel Elahi Galan
+2025,2025-08-24,G,GS,128,R128,5,Hard,Casper Ruud,Sebastian Ofner
+2025,2025-08-24,G,GS,128,R128,5,Hard,Nuno Borges,Brandon Holt
+2025,2025-08-24,G,GS,128,R32,5,Hard,Taylor Fritz,Jerome Kym
+2025,2025-08-24,G,GS,128,R32,5,Hard,Carlos Alcaraz,Luciano Darderi
+2025,2025-08-24,G,GS,128,R128,5,Hard,Valentin Royer,Yunchaokete Bu
+2025,2025-08-24,G,GS,128,R128,5,Hard,Kamil Majchrzak,Hugo Dellien
+2025,2025-08-24,G,GS,128,R128,5,Hard,Alejandro Davidovich Fokina,Alexander Shevchenko
+2025,2025-08-24,G,GS,128,R16,5,Hard,Alex de Minaur,Leandro Riedi
+2025,2025-08-24,G,GS,128,R128,5,Hard,Holger Rune,Botic van de Zandschulp
+2025,2025-08-24,G,GS,128,R64,5,Hard,Daniel Altmaier,Stefanos Tsitsipas
+2025,2025-08-24,G,GS,128,R128,5,Hard,Adrian Mannarino,Tallon Griekspoor
+2025,2025-08-24,G,GS,128,R64,5,Hard,Frances Tiafoe,Martin Damm
+2025,2025-08-24,G,GS,128,QF,5,Hard,Carlos Alcaraz,Jiri Lehecka
+2025,2025-08-24,G,GS,128,R128,5,Hard,Daniel Altmaier,Hamad Medjedovic
+2025,2025-08-24,G,GS,128,R128,5,Hard,Coleman Wong,Aleksandar Kovacevic
